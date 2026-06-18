@@ -281,6 +281,30 @@ const WC_CODE   = 'WC'; // Copa do Mundo
 const POLL_INTERVAL      = 60000; // 60s padrão (sem jogo ao vivo)
 const POLL_INTERVAL_LIVE = 30000; // 30s quando há jogo ao vivo
 
+// ── openfootball (sem chave, sem CORS, atualizado em tempo real) ──
+const OFB_URL = 'https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json';
+
+// Mapeamento openfootball → nomes do bolão
+const OFB_MAP = {
+  'Mexico':'México','South Africa':'África do Sul','South Korea':'Coreia do Sul',
+  'Czech Republic':'República Tcheca','Canada':'Canadá',
+  'Bosnia & Herzegovina':'Bósnia','Bosnia and Herzegovina':'Bósnia',
+  'USA':'Estados Unidos','United States':'Estados Unidos',
+  'Paraguay':'Paraguai','Qatar':'Catar','Switzerland':'Suíça',
+  'Brazil':'Brasil','Morocco':'Marrocos','Haiti':'Haiti','Scotland':'Escócia',
+  'Australia':'Austrália','Turkey':'Turquia','Germany':'Alemanha',
+  'Ivory Coast':'Costa do Marfim','Ecuador':'Equador','Netherlands':'Holanda',
+  'Japan':'Japão','Sweden':'Suécia','Tunisia':'Tunísia','Spain':'Espanha',
+  'Cape Verde':'Cabo Verde','Saudi Arabia':'Arábia Saudita','Uruguay':'Uruguai',
+  'Belgium':'Bélgica','Egypt':'Egito','Iran':'Irã','New Zealand':'Nova Zelândia',
+  'Austria':'Áustria','Jordan':'Jordânia','France':'França','Senegal':'Senegal',
+  'Iraq':'Iraque','Norway':'Noruega','Argentina':'Argentina','Algeria':'Argélia',
+  'Portugal':'Portugal','DR Congo':'RD Congo','England':'Inglaterra',
+  'Croatia':'Croácia','Ghana':'Gana','Panama':'Panamá',
+  'Uzbekistan':'Uzbequistão','Colombia':'Colômbia','Curaçao':'Curaçau',
+};
+function ofbNorm(name){ return OFB_MAP[name] || name; }
+
 // ── JSONBin.io (resultados persistentes compartilhados) ──
 const JSONBIN_KEY   = '$2a$10$lJ0JFrjJlmBa8XkMsIyr.OwGrC9U0lRrBUWzL276rS/vDZ3/V5ra2';
 const JSONBIN_BIN   = '6a34689df5f4af5e290b8cef'; // ID fixo — único bin compartilhado
@@ -640,6 +664,84 @@ function updateJbStatus(ok, msg='') {
 // Sincroniza com JSONBin a cada 90s
 setInterval(jbLoad, 90000);
 
+// ── Busca placares via openfootball (sem chave, sem CORS, gratuito) ──
+async function fetchOpenfootball() {
+  try {
+    const resp = await fetch(OFB_URL + '?t=' + Date.now());
+    if(!resp.ok) { console.warn('OFB error:', resp.status); return; }
+    const data = await resp.json();
+    const matches = data.matches || [];
+    const prevResults = JSON.stringify(liveResults);
+    const now = new Date();
+
+    matches.forEach(m => {
+      const t1 = ofbNorm(m.team1 || '');
+      const t2 = ofbNorm(m.team2 || '');
+      if(!t1 || !t2) return;
+
+      // Find matching game in GDATA
+      const game = GDATA.find(g =>
+        (g.A === t1 && g.B === t2) || (g.A === t2 && g.B === t1)
+      );
+      if(!game) return;
+
+      // Skip games already in HISTORICAL_RESULTS
+      if(HISTORICAL_RESULTS[game.id]) return;
+
+      const sc = m.score;
+      const ft = sc && sc.ft;
+
+      if(ft && ft[0] !== null && ft[1] !== null) {
+        // Jogo encerrado com placar
+        let ra, rb;
+        if(t1 === game.A){ ra = ft[0]; rb = ft[1]; }
+        else { ra = ft[1]; rb = ft[0]; }
+
+        const prev = liveResults[game.id];
+        liveResults[game.id] = { a: ra, b: rb, status: 'FINISHED' };
+
+        // Notifica se acabou de encerrar
+        if(prev && prev.status !== 'FINISHED') {
+          notifyGameEnd(game, ra, rb);
+          jbSave();
+        }
+      } else {
+        // Verifica se jogo está ao vivo por horário
+        const [datePart, timePart] = [m.date, m.time || '00:00'];
+        const tzMatch = timePart.match(/UTC([+-]\d+)/);
+        const tzOffset = tzMatch ? parseInt(tzMatch[1]) : 0;
+        const timeClean = timePart.replace(/\s*UTC[+-]\d+/, '').trim();
+        const gameDate = new Date(`${datePart}T${timeClean}:00`);
+        // Ajusta para UTC
+        gameDate.setHours(gameDate.getHours() - tzOffset);
+        const diffMin = (now - gameDate) / 60000;
+
+        if(diffMin >= 0 && diffMin <= 115) {
+          // Jogo ao vivo — mostra 0-0 enquanto não temos placar
+          const cur = liveResults[game.id];
+          if(!cur || cur.status === 'FINISHED') return;
+          liveResults[game.id] = {
+            a: cur?.a ?? 0,
+            b: cur?.b ?? 0,
+            status: 'IN_PLAY'
+          };
+        }
+      }
+    });
+
+    if(JSON.stringify(liveResults) !== prevResults) {
+      checkRankingChange();
+      renderCurrentTab();
+      const hasLive = Object.values(liveResults).some(r => r.status==='IN_PLAY'||r.status==='PAUSED');
+      document.getElementById('liveBadge').style.display = hasLive ? 'flex' : 'none';
+    }
+
+    updateApiStatus(true, new Date().toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'}));
+  } catch(e) {
+    console.warn('OFB fetch error:', e);
+  }
+}
+
 async function fetchLiveScores() {
   if(!apiEnabled) return;
   try {
@@ -756,17 +858,20 @@ function updateApiStatus(ok, msg='') {
 }
 
 function startPolling() {
-  fetchLiveScores();
+  fetchOpenfootball(); // fonte primária — sem chave, sem CORS
+  fetchLiveScores();   // fonte secundária — football-data.org (com delay no plano free)
   scheduleNextPoll();
 }
 
 function scheduleNextPoll() {
   if(pollTimer) clearTimeout(pollTimer);
-  // Usa intervalo menor quando há jogo ao vivo
   const hasLive = Object.values(liveResults).some(r => r.status==='IN_PLAY'||r.status==='PAUSED');
   const interval = hasLive ? POLL_INTERVAL_LIVE : POLL_INTERVAL;
-  pollTimer = setTimeout(() => {
-    if(apiEnabled) fetchLiveScores().finally(scheduleNextPoll);
+  pollTimer = setTimeout(async () => {
+    if(!apiEnabled) return;
+    await fetchOpenfootball(); // openfootball sempre primeiro
+    fetchLiveScores();         // football-data como complemento
+    scheduleNextPoll();
   }, interval);
 }
 
@@ -1582,9 +1687,8 @@ setTimeout(jbLoad, 1500);
 // Handle visibility change - re-fetch when user returns to tab
 document.addEventListener('visibilitychange', () => {
   if(!document.hidden && apiEnabled) {
-    // Ao voltar para a aba, busca imediatamente e reinicia o ciclo
     if(pollTimer) clearTimeout(pollTimer);
-    fetchLiveScores().finally(scheduleNextPoll);
+    fetchOpenfootball().then(() => fetchLiveScores()).finally(scheduleNextPoll);
   }
 });
 
