@@ -2446,42 +2446,6 @@
         "fouls_a": 9,
         "fouls_b": 7
       }
-    },
-    "29": {
-      "a": 0,
-      "b": 0,
-      "status": "SCHEDULED",
-      "minute": "0",
-      "events": [],
-      "goals": [],
-      "stats": null
-    },
-    "30": {
-      "a": 0,
-      "b": 0,
-      "status": "SCHEDULED",
-      "minute": "0",
-      "events": [],
-      "goals": [],
-      "stats": null
-    },
-    "31": {
-      "a": 0,
-      "b": 0,
-      "status": "SCHEDULED",
-      "minute": "0",
-      "events": [],
-      "goals": [],
-      "stats": null
-    },
-    "32": {
-      "a": 0,
-      "b": 0,
-      "status": "SCHEDULED",
-      "minute": "0",
-      "events": [],
-      "goals": [],
-      "stats": null
     }
   },
   "espnDates": [
@@ -2495,5 +2459,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-19T16:33:40.055Z"
+  "updatedAt": "2026-06-19T16:31:36.917Z"
 }
