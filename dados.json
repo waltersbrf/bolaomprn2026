@@ -1,6 +1,156 @@
 {
-  "results": {},
-  "espnDates": [],
+  "results": {
+    "1": {
+      "a": 2,
+      "b": 0,
+      "status": "FINISHED"
+    },
+    "2": {
+      "a": 2,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "3": {
+      "a": 1,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "4": {
+      "a": 4,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "5": {
+      "a": 1,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "6": {
+      "a": 1,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "7": {
+      "a": 0,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "8": {
+      "a": 2,
+      "b": 0,
+      "status": "FINISHED"
+    },
+    "9": {
+      "a": 7,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "10": {
+      "a": 1,
+      "b": 0,
+      "status": "FINISHED"
+    },
+    "11": {
+      "a": 2,
+      "b": 2,
+      "status": "FINISHED"
+    },
+    "12": {
+      "a": 5,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "13": {
+      "a": 0,
+      "b": 0,
+      "status": "FINISHED"
+    },
+    "14": {
+      "a": 1,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "15": {
+      "a": 1,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "16": {
+      "a": 2,
+      "b": 2,
+      "status": "FINISHED"
+    },
+    "17": {
+      "a": 3,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "18": {
+      "a": 3,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "19": {
+      "a": 1,
+      "b": 4,
+      "status": "FINISHED"
+    },
+    "20": {
+      "a": 3,
+      "b": 0,
+      "status": "FINISHED"
+    },
+    "21": {
+      "a": 1,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "22": {
+      "a": 4,
+      "b": 2,
+      "status": "FINISHED"
+    },
+    "23": {
+      "a": 1,
+      "b": 0,
+      "status": "FINISHED"
+    },
+    "24": {
+      "a": 1,
+      "b": 3,
+      "status": "FINISHED"
+    },
+    "25": {
+      "a": 1,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "26": {
+      "a": 4,
+      "b": 1,
+      "status": "FINISHED"
+    },
+    "27": {
+      "a": 6,
+      "b": 0,
+      "status": "FINISHED"
+    },
+    "28": {
+      "a": 1,
+      "b": 0,
+      "status": "FINISHED"
+    }
+  },
+  "espnDates": [
+    "20260611",
+    "20260612",
+    "20260613",
+    "20260614",
+    "20260615",
+    "20260616",
+    "20260617",
+    "20260618"
+  ],
   "adminMsg": null,
-  "updatedAt": ""
+  "updatedAt": "2026-06-19T00:00:00.000Z"
 }
