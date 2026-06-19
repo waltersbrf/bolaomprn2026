@@ -2513,7 +2513,8 @@
         "corners_b": 4,
         "fouls_a": 12,
         "fouls_b": 16
-      }
+      },
+      "savedToGH": true
     },
     "30": {
       "a": 0,
@@ -2583,5 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-19T22:04:01.411Z"
+  "updatedAt": "2026-06-19T22:07:21.399Z"
 }
