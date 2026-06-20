@@ -2571,7 +2571,7 @@
       "a": 3,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "84",
+      "minute": "85",
       "events": [
         {
           "type": "yellow_card",
@@ -2658,7 +2658,7 @@
         "corners_a": 4,
         "corners_b": 2,
         "fouls_a": 12,
-        "fouls_b": 11
+        "fouls_b": 12
       },
       "savedToGH": true
     },
@@ -2695,5 +2695,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T02:19:59.380Z"
+  "updatedAt": "2026-06-20T02:20:26.940Z"
 }
