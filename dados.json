@@ -2881,7 +2881,7 @@
         "fouls_a": 0,
         "fouls_b": 1
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "35": {
       "a": 0,
@@ -2908,13 +2908,13 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "0ac05a10": {
-        "primeiro_acesso": "2026-06-20T20:20:00.617Z",
-        "ultimo_acesso": "2026-06-20T20:20:00.617Z",
+      "1503c1b7": {
+        "primeiro_acesso": "2026-06-20T20:02:59.740Z",
+        "ultimo_acesso": "2026-06-20T20:02:59.740Z",
         "acessos_total": 1,
-        "dispositivo": "Android",
+        "dispositivo": "Linux",
         "navegador": "Chrome",
-        "tipo": "Mobile",
+        "tipo": "Desktop",
         "cidade": "?",
         "estado": "?",
         "pais": "?",
@@ -2924,11 +2924,11 @@
     },
     "acessos_log": [
       {
-        "fp": "0ac05a10",
-        "ts": "2026-06-20T20:20:00.617Z",
+        "fp": "1503c1b7",
+        "ts": "2026-06-20T20:02:59.740Z",
         "jogo": "J34"
       }
     ]
   },
-  "updatedAt": "2026-06-20T20:20:32.429Z"
+  "updatedAt": "2026-06-20T20:20:42.867Z"
 }
