@@ -2584,5 +2584,45 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T19:24:01.881Z"
+  "updatedAt": "2026-06-20T19:24:09.246Z",
+  "analytics": {
+    "visitors": {
+      "914fd937": {
+        "primeiro_acesso": "2026-06-20T19:16:30.798Z",
+        "ultimo_acesso": "2026-06-20T19:16:30.798Z",
+        "acessos_total": 1,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Mossoró",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.1384,
+        "lng": -37.2782
+      },
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-20T19:24:08.668Z",
+        "ultimo_acesso": "2026-06-20T19:24:08.668Z",
+        "acessos_total": 1,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "914fd937",
+        "ts": "2026-06-20T19:16:30.798Z"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-20T19:24:08.668Z"
+      }
+    ]
+  }
 }
