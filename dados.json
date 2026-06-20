@@ -2784,8 +2784,8 @@
     "33": {
       "a": 2,
       "b": 0,
-      "status": "IN_PLAY",
-      "minute": "47",
+      "status": "SCHEDULED",
+      "minute": "48",
       "events": [
         {
           "type": "goal",
@@ -2800,6 +2800,14 @@
           "player": "Brian Brobbey",
           "team": "Holanda",
           "minute": "17",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Cody Gakpo",
+          "team": "Holanda",
+          "minute": "47",
           "penalty": false,
           "og": false
         }
@@ -2818,6 +2826,14 @@
           "player": "Brian Brobbey",
           "team": "Holanda",
           "minute": "17",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Cody Gakpo",
+          "team": "Holanda",
+          "minute": "47",
           "penalty": false,
           "og": false
         }
@@ -2869,5 +2885,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T18:08:40.166Z"
+  "updatedAt": "2026-06-20T18:09:10.462Z"
 }
