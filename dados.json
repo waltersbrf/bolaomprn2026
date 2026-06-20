@@ -2729,7 +2729,7 @@
       "a": 4,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "78",
+      "minute": "84",
       "events": [
         {
           "type": "goal",
@@ -2782,6 +2782,12 @@
           "player": "Yasin Ayari",
           "team": "Suécia",
           "minute": "75"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Lucas Bergvall",
+          "team": "Suécia",
+          "minute": "80"
         }
       ],
       "goals": [
@@ -2827,16 +2833,16 @@
         }
       ],
       "stats": {
-        "possession_a": 54.9,
-        "possession_b": 45.1,
+        "possession_a": 53.5,
+        "possession_b": 46.5,
         "shots_a": 9,
         "shots_b": 12,
         "shots_on_a": 6,
         "shots_on_b": 5,
         "corners_a": 2,
         "corners_b": 3,
-        "fouls_a": 7,
-        "fouls_b": 9
+        "fouls_a": 8,
+        "fouls_b": 10
       },
       "savedToGH": true
     },
@@ -2873,34 +2879,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "analytics": {
-    "visitors": {
-      "0ac05a10": {
-        "primeiro_acesso": "2026-06-20T18:44:52.795Z",
-        "ultimo_acesso": "2026-06-20T18:44:54.048Z",
-        "acessos_total": 2,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "0ac05a10",
-        "ts": "2026-06-20T18:44:52.795Z",
-        "jogo": "J33"
-      },
-      {
-        "fp": "0ac05a10",
-        "ts": "2026-06-20T18:44:54.048Z",
-        "jogo": "J33"
-      }
-    ]
-  },
-  "updatedAt": "2026-06-20T18:44:59.715Z"
+  "updatedAt": "2026-06-20T18:45:18.514Z"
 }
