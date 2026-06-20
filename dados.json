@@ -2899,7 +2899,7 @@
         "fouls_a": 1,
         "fouls_b": 1
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "35": {
       "a": 0,
@@ -2909,7 +2909,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -2928,11 +2928,24 @@
     "visitors": {
       "0ac05a10": {
         "primeiro_acesso": "2026-06-20T20:32:09.187Z",
-        "ultimo_acesso": "2026-06-20T20:36:13.956Z",
+        "ultimo_acesso": "2026-06-20T20:32:09.187Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      },
+      "1503c1b7": {
+        "primeiro_acesso": "2026-06-20T20:29:33.576Z",
+        "ultimo_acesso": "2026-06-20T20:30:39.811Z",
+        "acessos_total": 1,
+        "dispositivo": "Linux",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
         "cidade": "?",
         "estado": "?",
         "pais": "?",
@@ -2955,13 +2968,8 @@
         "fp": "0ac05a10",
         "ts": "2026-06-20T20:32:09.187Z",
         "jogo": "J34"
-      },
-      {
-        "fp": "0ac05a10",
-        "ts": "2026-06-20T20:36:13.956Z",
-        "jogo": "J34"
       }
     ]
   },
-  "updatedAt": "2026-06-20T20:36:19.700Z"
+  "updatedAt": "2026-06-20T20:36:38.169Z"
 }
