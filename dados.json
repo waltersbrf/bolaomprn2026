@@ -2571,7 +2571,7 @@
       "a": 3,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "78",
+      "minute": "79",
       "events": [
         {
           "type": "yellow_card",
@@ -2649,8 +2649,8 @@
         }
       ],
       "stats": {
-        "possession_a": 59.5,
-        "possession_b": 40.5,
+        "possession_a": 59.8,
+        "possession_b": 40.2,
         "shots_a": 7,
         "shots_b": 4,
         "shots_on_a": 5,
@@ -2658,7 +2658,7 @@
         "corners_a": 4,
         "corners_b": 2,
         "fouls_a": 11,
-        "fouls_b": 9
+        "fouls_b": 10
       },
       "savedToGH": true
     },
@@ -2695,5 +2695,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T02:13:20.132Z"
+  "updatedAt": "2026-06-20T02:14:19.626Z"
 }
