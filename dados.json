@@ -4,7 +4,36 @@
       "a": 2,
       "b": 0,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 60.5,
+        "possession_b": 39.5,
+        "shots_a": 16,
+        "shots_b": 3,
+        "shots_on_a": 4,
+        "shots_on_b": 2,
+        "corners_a": 3,
+        "corners_b": 1,
+        "fouls_a": 12,
+        "fouls_b": 11
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Julián Quiñones",
+          "team": "México",
+          "minute": "9",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Raúl Jiménez",
+          "team": "México",
+          "minute": "67",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -58,44 +87,50 @@
           "team": "México",
           "minute": "90+2'"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Julián Quiñones",
-          "team": "México",
-          "minute": "9",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Raúl Jiménez",
-          "team": "México",
-          "minute": "67",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 60.5,
-        "possession_b": 39.5,
-        "shots_a": 16,
-        "shots_b": 3,
-        "shots_on_a": 4,
-        "shots_on_b": 2,
-        "corners_a": 3,
-        "corners_b": 1,
-        "fouls_a": 12,
-        "fouls_b": 11
-      },
-      "savedToGH": false
+      ]
     },
     "2": {
       "a": 2,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 61.5,
+        "possession_b": 38.5,
+        "shots_a": 15,
+        "shots_b": 7,
+        "shots_on_a": 6,
+        "shots_on_b": 4,
+        "corners_a": 4,
+        "corners_b": 5,
+        "fouls_a": 9,
+        "fouls_b": 16
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Ladislav Krejcí",
+          "team": "República Tcheca",
+          "minute": "59",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Hwang In-Beom",
+          "team": "Coreia do Sul",
+          "minute": "67",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Oh Hyeon-Gyu",
+          "team": "Coreia do Sul",
+          "minute": "80",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -127,52 +162,42 @@
           "team": "Coreia do Sul",
           "minute": "90+6'"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Ladislav Krejcí",
-          "team": "República Tcheca",
-          "minute": "59",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Hwang In-Beom",
-          "team": "Coreia do Sul",
-          "minute": "67",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Oh Hyeon-Gyu",
-          "team": "Coreia do Sul",
-          "minute": "80",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 61.5,
-        "possession_b": 38.5,
-        "shots_a": 15,
-        "shots_b": 7,
-        "shots_on_a": 6,
-        "shots_on_b": 4,
-        "corners_a": 4,
-        "corners_b": 5,
-        "fouls_a": 9,
-        "fouls_b": 16
-      },
-      "savedToGH": false
+      ]
     },
     "3": {
       "a": 1,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 61.1,
+        "possession_b": 38.9,
+        "shots_a": 13,
+        "shots_b": 8,
+        "shots_on_a": 4,
+        "shots_on_b": 3,
+        "corners_a": 9,
+        "corners_b": 4,
+        "fouls_a": 10,
+        "fouls_b": 20
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Jovo Lukic",
+          "team": "Bósnia",
+          "minute": "21",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Cyle Larin",
+          "team": "Canadá",
+          "minute": "78",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "yellow_card",
@@ -220,44 +245,66 @@
           "team": "Bósnia",
           "minute": "90+3'"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Jovo Lukic",
-          "team": "Bósnia",
-          "minute": "21",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Cyle Larin",
-          "team": "Canadá",
-          "minute": "78",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 61.1,
-        "possession_b": 38.9,
-        "shots_a": 13,
-        "shots_b": 8,
-        "shots_on_a": 4,
-        "shots_on_b": 3,
-        "corners_a": 9,
-        "corners_b": 4,
-        "fouls_a": 10,
-        "fouls_b": 20
-      },
-      "savedToGH": false
+      ]
     },
     "4": {
       "a": 4,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 65.3,
+        "possession_b": 34.7,
+        "shots_a": 16,
+        "shots_b": 9,
+        "shots_on_a": 6,
+        "shots_on_b": 1,
+        "corners_a": 3,
+        "corners_b": 1,
+        "fouls_a": 13,
+        "fouls_b": 17
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Damián Bobadilla",
+          "team": "Estados Unidos",
+          "minute": "7",
+          "penalty": false,
+          "og": true
+        },
+        {
+          "type": "goal",
+          "player": "Folarin Balogun",
+          "team": "Estados Unidos",
+          "minute": "31",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Folarin Balogun",
+          "team": "Estados Unidos",
+          "minute": "45+5'",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Maurício",
+          "team": "Paraguai",
+          "minute": "73",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Giovanni Reyna",
+          "team": "Estados Unidos",
+          "minute": "90+8'",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -335,68 +382,42 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Damián Bobadilla",
-          "team": "Estados Unidos",
-          "minute": "7",
-          "penalty": false,
-          "og": true
-        },
-        {
-          "type": "goal",
-          "player": "Folarin Balogun",
-          "team": "Estados Unidos",
-          "minute": "31",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Folarin Balogun",
-          "team": "Estados Unidos",
-          "minute": "45+5'",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Maurício",
-          "team": "Paraguai",
-          "minute": "73",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Giovanni Reyna",
-          "team": "Estados Unidos",
-          "minute": "90+8'",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 65.3,
-        "possession_b": 34.7,
-        "shots_a": 16,
-        "shots_b": 9,
-        "shots_on_a": 6,
-        "shots_on_b": 1,
-        "corners_a": 3,
-        "corners_b": 1,
-        "fouls_a": 13,
-        "fouls_b": 17
-      },
-      "savedToGH": false
+      ]
     },
     "5": {
       "a": 1,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 32,
+        "possession_b": 68,
+        "shots_a": 6,
+        "shots_b": 26,
+        "shots_on_a": 3,
+        "shots_on_b": 7,
+        "corners_a": 3,
+        "corners_b": 10,
+        "fouls_a": 12,
+        "fouls_b": 11
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Breel Embolo",
+          "team": "Suíça",
+          "minute": "17",
+          "penalty": true,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Miro Muheim",
+          "team": "Catar",
+          "minute": "90+4'",
+          "penalty": false,
+          "og": true
+        }
+      ],
       "events": [
         {
           "type": "yellow_card",
@@ -432,44 +453,42 @@
           "penalty": false,
           "og": true
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Breel Embolo",
-          "team": "Suíça",
-          "minute": "17",
-          "penalty": true,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Miro Muheim",
-          "team": "Catar",
-          "minute": "90+4'",
-          "penalty": false,
-          "og": true
-        }
-      ],
-      "stats": {
-        "possession_a": 32,
-        "possession_b": 68,
-        "shots_a": 6,
-        "shots_b": 26,
-        "shots_on_a": 3,
-        "shots_on_b": 7,
-        "corners_a": 3,
-        "corners_b": 10,
-        "fouls_a": 12,
-        "fouls_b": 11
-      },
-      "savedToGH": false
+      ]
     },
     "6": {
       "a": 1,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 51.4,
+        "possession_b": 48.6,
+        "shots_a": 12,
+        "shots_b": 14,
+        "shots_on_a": 5,
+        "shots_on_b": 3,
+        "corners_a": 6,
+        "corners_b": 2,
+        "fouls_a": 16,
+        "fouls_b": 14
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Ismael Saibari",
+          "team": "Marrocos",
+          "minute": "21",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Vinícius Júnior",
+          "team": "Brasil",
+          "minute": "32",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -499,44 +518,34 @@
           "team": "Brasil",
           "minute": "43"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Ismael Saibari",
-          "team": "Marrocos",
-          "minute": "21",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Vinícius Júnior",
-          "team": "Brasil",
-          "minute": "32",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 51.4,
-        "possession_b": 48.6,
-        "shots_a": 12,
-        "shots_b": 14,
-        "shots_on_a": 5,
-        "shots_on_b": 3,
-        "corners_a": 6,
-        "corners_b": 2,
-        "fouls_a": 16,
-        "fouls_b": 14
-      },
-      "savedToGH": false
+      ]
     },
     "7": {
       "a": 0,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 53.7,
+        "possession_b": 46.3,
+        "shots_a": 15,
+        "shots_b": 9,
+        "shots_on_a": 2,
+        "shots_on_b": 2,
+        "corners_a": 4,
+        "corners_b": 3,
+        "fouls_a": 23,
+        "fouls_b": 21
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "John McGinn",
+          "team": "Escócia",
+          "minute": "28",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -570,36 +579,42 @@
           "team": "Escócia",
           "minute": "90+5'"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "John McGinn",
-          "team": "Escócia",
-          "minute": "28",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 53.7,
-        "possession_b": 46.3,
-        "shots_a": 15,
-        "shots_b": 9,
-        "shots_on_a": 2,
-        "shots_on_b": 2,
-        "corners_a": 4,
-        "corners_b": 3,
-        "fouls_a": 23,
-        "fouls_b": 21
-      },
-      "savedToGH": false
+      ]
     },
     "8": {
       "a": 2,
       "b": 0,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 28.4,
+        "possession_b": 71.6,
+        "shots_a": 9,
+        "shots_b": 30,
+        "shots_on_a": 4,
+        "shots_on_b": 8,
+        "corners_a": 5,
+        "corners_b": 8,
+        "fouls_a": 12,
+        "fouls_b": 4
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Nestory Irankunda",
+          "team": "Austrália",
+          "minute": "27",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Connor Metcalfe",
+          "team": "Austrália",
+          "minute": "75",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -623,44 +638,90 @@
           "team": "Turquia",
           "minute": "86"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Nestory Irankunda",
-          "team": "Austrália",
-          "minute": "27",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Connor Metcalfe",
-          "team": "Austrália",
-          "minute": "75",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 28.4,
-        "possession_b": 71.6,
-        "shots_a": 9,
-        "shots_b": 30,
-        "shots_on_a": 4,
-        "shots_on_b": 8,
-        "corners_a": 5,
-        "corners_b": 8,
-        "fouls_a": 12,
-        "fouls_b": 4
-      },
-      "savedToGH": false
+      ]
     },
     "9": {
       "a": 7,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 64.6,
+        "possession_b": 35.4,
+        "shots_a": 26,
+        "shots_b": 8,
+        "shots_on_a": 12,
+        "shots_on_b": 2,
+        "corners_a": 8,
+        "corners_b": 1,
+        "fouls_a": 18,
+        "fouls_b": 11
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Felix Nmecha",
+          "team": "Alemanha",
+          "minute": "6",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Livano Comenencia",
+          "team": "Curaçau",
+          "minute": "21",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Nico Schlotterbeck",
+          "team": "Alemanha",
+          "minute": "38",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Kai Havertz",
+          "team": "Alemanha",
+          "minute": "45+5'",
+          "penalty": true,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Jamal Musiala",
+          "team": "Alemanha",
+          "minute": "47",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Nathaniel Brown",
+          "team": "Alemanha",
+          "minute": "68",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Deniz Undav",
+          "team": "Alemanha",
+          "minute": "78",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Kai Havertz",
+          "team": "Alemanha",
+          "minute": "88",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -726,92 +787,34 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Felix Nmecha",
-          "team": "Alemanha",
-          "minute": "6",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Livano Comenencia",
-          "team": "Curaçau",
-          "minute": "21",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Nico Schlotterbeck",
-          "team": "Alemanha",
-          "minute": "38",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Kai Havertz",
-          "team": "Alemanha",
-          "minute": "45+5'",
-          "penalty": true,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Jamal Musiala",
-          "team": "Alemanha",
-          "minute": "47",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Nathaniel Brown",
-          "team": "Alemanha",
-          "minute": "68",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Deniz Undav",
-          "team": "Alemanha",
-          "minute": "78",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Kai Havertz",
-          "team": "Alemanha",
-          "minute": "88",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 64.6,
-        "possession_b": 35.4,
-        "shots_a": 26,
-        "shots_b": 8,
-        "shots_on_a": 12,
-        "shots_on_b": 2,
-        "corners_a": 8,
-        "corners_b": 1,
-        "fouls_a": 18,
-        "fouls_b": 11
-      },
-      "savedToGH": false
+      ]
     },
     "10": {
       "a": 1,
       "b": 0,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 48.4,
+        "possession_b": 51.6,
+        "shots_a": 15,
+        "shots_b": 12,
+        "shots_on_a": 4,
+        "shots_on_b": 1,
+        "corners_a": 3,
+        "corners_b": 6,
+        "fouls_a": 10,
+        "fouls_b": 13
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Amad Diallo",
+          "team": "Costa do Marfim",
+          "minute": "90",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "yellow_card",
@@ -845,36 +848,58 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Amad Diallo",
-          "team": "Costa do Marfim",
-          "minute": "90",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 48.4,
-        "possession_b": 51.6,
-        "shots_a": 15,
-        "shots_b": 12,
-        "shots_on_a": 4,
-        "shots_on_b": 1,
-        "corners_a": 3,
-        "corners_b": 6,
-        "fouls_a": 10,
-        "fouls_b": 13
-      },
-      "savedToGH": false
+      ]
     },
     "11": {
       "a": 2,
       "b": 2,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 59.8,
+        "possession_b": 40.2,
+        "shots_a": 10,
+        "shots_b": 10,
+        "shots_on_a": 6,
+        "shots_on_b": 3,
+        "corners_a": 5,
+        "corners_b": 4,
+        "fouls_a": 7,
+        "fouls_b": 7
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Virgil van Dijk",
+          "team": "Holanda",
+          "minute": "51",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Keito Nakamura",
+          "team": "Japão",
+          "minute": "57",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Crysencio Summerville",
+          "team": "Holanda",
+          "minute": "64",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Daichi Kamada",
+          "team": "Japão",
+          "minute": "89",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -926,60 +951,74 @@
           "team": "Holanda",
           "minute": "90+1'"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Virgil van Dijk",
-          "team": "Holanda",
-          "minute": "51",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Keito Nakamura",
-          "team": "Japão",
-          "minute": "57",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Crysencio Summerville",
-          "team": "Holanda",
-          "minute": "64",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Daichi Kamada",
-          "team": "Japão",
-          "minute": "89",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 59.8,
-        "possession_b": 40.2,
-        "shots_a": 10,
-        "shots_b": 10,
-        "shots_on_a": 6,
-        "shots_on_b": 3,
-        "corners_a": 5,
-        "corners_b": 4,
-        "fouls_a": 7,
-        "fouls_b": 7
-      },
-      "savedToGH": false
+      ]
     },
     "12": {
       "a": 5,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 48.7,
+        "possession_b": 51.3,
+        "shots_a": 13,
+        "shots_b": 6,
+        "shots_on_a": 7,
+        "shots_on_b": 2,
+        "corners_a": 4,
+        "corners_b": 2,
+        "fouls_a": 10,
+        "fouls_b": 8
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Yasin Ayari",
+          "team": "Suécia",
+          "minute": "7",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Alexander Isak",
+          "team": "Suécia",
+          "minute": "30",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Omar Rekik",
+          "team": "Tunísia",
+          "minute": "43",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Viktor Gyökeres",
+          "team": "Suécia",
+          "minute": "59",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mattias Svanberg",
+          "team": "Suécia",
+          "minute": "84",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Yasin Ayari",
+          "team": "Suécia",
+          "minute": "90+6'",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -1035,76 +1074,25 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Yasin Ayari",
-          "team": "Suécia",
-          "minute": "7",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Alexander Isak",
-          "team": "Suécia",
-          "minute": "30",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Omar Rekik",
-          "team": "Tunísia",
-          "minute": "43",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Viktor Gyökeres",
-          "team": "Suécia",
-          "minute": "59",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Mattias Svanberg",
-          "team": "Suécia",
-          "minute": "84",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Yasin Ayari",
-          "team": "Suécia",
-          "minute": "90+6'",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 48.7,
-        "possession_b": 51.3,
-        "shots_a": 13,
-        "shots_b": 6,
-        "shots_on_a": 7,
-        "shots_on_b": 2,
-        "corners_a": 4,
-        "corners_b": 2,
-        "fouls_a": 10,
-        "fouls_b": 8
-      },
-      "savedToGH": false
+      ]
     },
     "13": {
       "a": 0,
       "b": 0,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 74.3,
+        "possession_b": 25.7,
+        "shots_a": 27,
+        "shots_b": 6,
+        "shots_on_a": 7,
+        "shots_on_b": 1,
+        "corners_a": 11,
+        "corners_b": 1,
+        "fouls_a": 10,
+        "fouls_b": 1
+      },
+      "goals": [],
       "events": [
         {
           "type": "yellow_card",
@@ -1118,27 +1106,42 @@
           "team": "Espanha",
           "minute": "90+3'"
         }
-      ],
-      "goals": [],
-      "stats": {
-        "possession_a": 74.3,
-        "possession_b": 25.7,
-        "shots_a": 27,
-        "shots_b": 6,
-        "shots_on_a": 7,
-        "shots_on_b": 1,
-        "corners_a": 11,
-        "corners_b": 1,
-        "fouls_a": 10,
-        "fouls_b": 1
-      },
-      "savedToGH": false
+      ]
     },
     "14": {
       "a": 1,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 33.2,
+        "possession_b": 66.8,
+        "shots_a": 7,
+        "shots_b": 27,
+        "shots_on_a": 3,
+        "shots_on_b": 10,
+        "corners_a": 4,
+        "corners_b": 14,
+        "fouls_a": 11,
+        "fouls_b": 6
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Abdulelah Al-Amri",
+          "team": "Arábia Saudita",
+          "minute": "41",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Maxi Araújo",
+          "team": "Uruguai",
+          "minute": "80",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -1162,44 +1165,42 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Abdulelah Al-Amri",
-          "team": "Arábia Saudita",
-          "minute": "41",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Maxi Araújo",
-          "team": "Uruguai",
-          "minute": "80",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 33.2,
-        "possession_b": 66.8,
-        "shots_a": 7,
-        "shots_b": 27,
-        "shots_on_a": 3,
-        "shots_on_b": 10,
-        "corners_a": 4,
-        "corners_b": 14,
-        "fouls_a": 11,
-        "fouls_b": 6
-      },
-      "savedToGH": false
+      ]
     },
     "15": {
       "a": 1,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 53.6,
+        "possession_b": 46.4,
+        "shots_a": 15,
+        "shots_b": 14,
+        "shots_on_a": 3,
+        "shots_on_b": 3,
+        "corners_a": 2,
+        "corners_b": 7,
+        "fouls_a": 15,
+        "fouls_b": 15
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Emam Ashour",
+          "team": "Egito",
+          "minute": "20",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mohamed Hany",
+          "team": "Bélgica",
+          "minute": "66",
+          "penalty": false,
+          "og": true
+        }
+      ],
       "events": [
         {
           "type": "yellow_card",
@@ -1241,44 +1242,58 @@
           "team": "Bélgica",
           "minute": "75"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Emam Ashour",
-          "team": "Egito",
-          "minute": "20",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Mohamed Hany",
-          "team": "Bélgica",
-          "minute": "66",
-          "penalty": false,
-          "og": true
-        }
-      ],
-      "stats": {
-        "possession_a": 53.6,
-        "possession_b": 46.4,
-        "shots_a": 15,
-        "shots_b": 14,
-        "shots_on_a": 3,
-        "shots_on_b": 3,
-        "corners_a": 2,
-        "corners_b": 7,
-        "fouls_a": 15,
-        "fouls_b": 15
-      },
-      "savedToGH": false
+      ]
     },
     "16": {
       "a": 2,
       "b": 2,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 48.5,
+        "possession_b": 51.5,
+        "shots_a": 17,
+        "shots_b": 14,
+        "shots_on_a": 4,
+        "shots_on_b": 8,
+        "corners_a": 4,
+        "corners_b": 1,
+        "fouls_a": 10,
+        "fouls_b": 8
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Elijah Just",
+          "team": "Nova Zelândia",
+          "minute": "7",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Ramin Rezaeian",
+          "team": "Irã",
+          "minute": "32",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Elijah Just",
+          "team": "Nova Zelândia",
+          "minute": "54",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mohammad Mohebbi",
+          "team": "Irã",
+          "minute": "64",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -1318,60 +1333,58 @@
           "team": "Irã",
           "minute": "89"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Elijah Just",
-          "team": "Nova Zelândia",
-          "minute": "7",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Ramin Rezaeian",
-          "team": "Irã",
-          "minute": "32",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Elijah Just",
-          "team": "Nova Zelândia",
-          "minute": "54",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Mohammad Mohebbi",
-          "team": "Irã",
-          "minute": "64",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 48.5,
-        "possession_b": 51.5,
-        "shots_a": 17,
-        "shots_b": 14,
-        "shots_on_a": 4,
-        "shots_on_b": 8,
-        "corners_a": 4,
-        "corners_b": 1,
-        "fouls_a": 10,
-        "fouls_b": 8
-      },
-      "savedToGH": false
+      ]
     },
     "17": {
       "a": 3,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 63.2,
+        "possession_b": 36.8,
+        "shots_a": 11,
+        "shots_b": 11,
+        "shots_on_a": 4,
+        "shots_on_b": 4,
+        "corners_a": 4,
+        "corners_b": 3,
+        "fouls_a": 12,
+        "fouls_b": 7
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Romano Schmid",
+          "team": "Áustria",
+          "minute": "21",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Ali Olwan",
+          "team": "Jordânia",
+          "minute": "50",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Yazan Al-Arab",
+          "team": "Áustria",
+          "minute": "76",
+          "penalty": false,
+          "og": true
+        },
+        {
+          "type": "goal",
+          "player": "Marko Arnautovic",
+          "team": "Áustria",
+          "minute": "90+12'",
+          "penalty": true,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -1411,60 +1424,58 @@
           "penalty": true,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Romano Schmid",
-          "team": "Áustria",
-          "minute": "21",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Ali Olwan",
-          "team": "Jordânia",
-          "minute": "50",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Yazan Al-Arab",
-          "team": "Áustria",
-          "minute": "76",
-          "penalty": false,
-          "og": true
-        },
-        {
-          "type": "goal",
-          "player": "Marko Arnautovic",
-          "team": "Áustria",
-          "minute": "90+12'",
-          "penalty": true,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 63.2,
-        "possession_b": 36.8,
-        "shots_a": 11,
-        "shots_b": 11,
-        "shots_on_a": 4,
-        "shots_on_b": 4,
-        "corners_a": 4,
-        "corners_b": 3,
-        "fouls_a": 12,
-        "fouls_b": 7
-      },
-      "savedToGH": false
+      ]
     },
     "18": {
       "a": 3,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 53.4,
+        "possession_b": 46.6,
+        "shots_a": 11,
+        "shots_b": 6,
+        "shots_on_a": 8,
+        "shots_on_b": 2,
+        "corners_a": 6,
+        "corners_b": 4,
+        "fouls_a": 5,
+        "fouls_b": 9
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Kylian Mbappé",
+          "team": "França",
+          "minute": "66",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Bradley Barcola",
+          "team": "França",
+          "minute": "82",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Ibrahim Mbaye",
+          "team": "Senegal",
+          "minute": "90+5'",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Kylian Mbappé",
+          "team": "França",
+          "minute": "90+6'",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -1498,60 +1509,66 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Kylian Mbappé",
-          "team": "França",
-          "minute": "66",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Bradley Barcola",
-          "team": "França",
-          "minute": "82",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Ibrahim Mbaye",
-          "team": "Senegal",
-          "minute": "90+5'",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Kylian Mbappé",
-          "team": "França",
-          "minute": "90+6'",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 53.4,
-        "possession_b": 46.6,
-        "shots_a": 11,
-        "shots_b": 6,
-        "shots_on_a": 8,
-        "shots_on_b": 2,
-        "corners_a": 6,
-        "corners_b": 4,
-        "fouls_a": 5,
-        "fouls_b": 9
-      },
-      "savedToGH": false
+      ]
     },
     "19": {
       "a": 1,
       "b": 4,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 38.7,
+        "possession_b": 61.3,
+        "shots_a": 11,
+        "shots_b": 12,
+        "shots_on_a": 1,
+        "shots_on_b": 5,
+        "corners_a": 2,
+        "corners_b": 5,
+        "fouls_a": 12,
+        "fouls_b": 13
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Erling Haaland",
+          "team": "Noruega",
+          "minute": "29",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Aymen Hussein",
+          "team": "Iraque",
+          "minute": "39",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Erling Haaland",
+          "team": "Noruega",
+          "minute": "43",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Leo Østigard",
+          "team": "Noruega",
+          "minute": "76",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Aymen Hussein",
+          "team": "Noruega",
+          "minute": "90+6'",
+          "penalty": false,
+          "og": true
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -1599,68 +1616,50 @@
           "penalty": false,
           "og": true
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Erling Haaland",
-          "team": "Noruega",
-          "minute": "29",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Aymen Hussein",
-          "team": "Iraque",
-          "minute": "39",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Erling Haaland",
-          "team": "Noruega",
-          "minute": "43",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Leo Østigard",
-          "team": "Noruega",
-          "minute": "76",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Aymen Hussein",
-          "team": "Noruega",
-          "minute": "90+6'",
-          "penalty": false,
-          "og": true
-        }
-      ],
-      "stats": {
-        "possession_a": 38.7,
-        "possession_b": 61.3,
-        "shots_a": 11,
-        "shots_b": 12,
-        "shots_on_a": 1,
-        "shots_on_b": 5,
-        "corners_a": 2,
-        "corners_b": 5,
-        "fouls_a": 12,
-        "fouls_b": 13
-      },
-      "savedToGH": false
+      ]
     },
     "20": {
       "a": 3,
       "b": 0,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 47.8,
+        "possession_b": 52.2,
+        "shots_a": 10,
+        "shots_b": 7,
+        "shots_on_a": 6,
+        "shots_on_b": 1,
+        "corners_a": 2,
+        "corners_b": 2,
+        "fouls_a": 13,
+        "fouls_b": 8
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "17",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "60",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "76",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -1686,52 +1685,42 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Lionel Messi",
-          "team": "Argentina",
-          "minute": "17",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Lionel Messi",
-          "team": "Argentina",
-          "minute": "60",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Lionel Messi",
-          "team": "Argentina",
-          "minute": "76",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 47.8,
-        "possession_b": 52.2,
-        "shots_a": 10,
-        "shots_b": 7,
-        "shots_on_a": 6,
-        "shots_on_b": 1,
-        "corners_a": 2,
-        "corners_b": 2,
-        "fouls_a": 13,
-        "fouls_b": 8
-      },
-      "savedToGH": false
+      ]
     },
     "21": {
       "a": 1,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 75.4,
+        "possession_b": 24.6,
+        "shots_a": 7,
+        "shots_b": 8,
+        "shots_on_a": 1,
+        "shots_on_b": 2,
+        "corners_a": 5,
+        "corners_b": 4,
+        "fouls_a": 9,
+        "fouls_b": 10
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "João Neves",
+          "team": "Portugal",
+          "minute": "6",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Yoane Wissa",
+          "team": "RD Congo",
+          "minute": "45+5'",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -1773,44 +1762,74 @@
           "team": "Portugal",
           "minute": "90+2'"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "João Neves",
-          "team": "Portugal",
-          "minute": "6",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Yoane Wissa",
-          "team": "RD Congo",
-          "minute": "45+5'",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 75.4,
-        "possession_b": 24.6,
-        "shots_a": 7,
-        "shots_b": 8,
-        "shots_on_a": 1,
-        "shots_on_b": 2,
-        "corners_a": 5,
-        "corners_b": 4,
-        "fouls_a": 9,
-        "fouls_b": 10
-      },
-      "savedToGH": false
+      ]
     },
     "22": {
       "a": 4,
       "b": 2,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 51.7,
+        "possession_b": 48.3,
+        "shots_a": 22,
+        "shots_b": 10,
+        "shots_on_a": 11,
+        "shots_on_b": 5,
+        "corners_a": 8,
+        "corners_b": 2,
+        "fouls_a": 10,
+        "fouls_b": 12
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Harry Kane",
+          "team": "Inglaterra",
+          "minute": "12",
+          "penalty": true,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Martin Baturina",
+          "team": "Croácia",
+          "minute": "36",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Harry Kane",
+          "team": "Inglaterra",
+          "minute": "42",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Petar Musa",
+          "team": "Croácia",
+          "minute": "45+5'",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Jude Bellingham",
+          "team": "Inglaterra",
+          "minute": "47",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Marcus Rashford",
+          "team": "Inglaterra",
+          "minute": "85",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -1860,76 +1879,34 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Harry Kane",
-          "team": "Inglaterra",
-          "minute": "12",
-          "penalty": true,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Martin Baturina",
-          "team": "Croácia",
-          "minute": "36",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Harry Kane",
-          "team": "Inglaterra",
-          "minute": "42",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Petar Musa",
-          "team": "Croácia",
-          "minute": "45+5'",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Jude Bellingham",
-          "team": "Inglaterra",
-          "minute": "47",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Marcus Rashford",
-          "team": "Inglaterra",
-          "minute": "85",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 51.7,
-        "possession_b": 48.3,
-        "shots_a": 22,
-        "shots_b": 10,
-        "shots_on_a": 11,
-        "shots_on_b": 5,
-        "corners_a": 8,
-        "corners_b": 2,
-        "fouls_a": 10,
-        "fouls_b": 12
-      },
-      "savedToGH": false
+      ]
     },
     "23": {
       "a": 1,
       "b": 0,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 38,
+        "possession_b": 62,
+        "shots_a": 7,
+        "shots_b": 11,
+        "shots_on_a": 2,
+        "shots_on_b": 4,
+        "corners_a": 2,
+        "corners_b": 2,
+        "fouls_a": 9,
+        "fouls_b": 11
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Caleb Yirenkyi",
+          "team": "Gana",
+          "minute": "90+5'",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "yellow_card",
@@ -1957,36 +1934,58 @@
           "team": "Panamá",
           "minute": "90+9'"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Caleb Yirenkyi",
-          "team": "Gana",
-          "minute": "90+5'",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 38,
-        "possession_b": 62,
-        "shots_a": 7,
-        "shots_b": 11,
-        "shots_on_a": 2,
-        "shots_on_b": 4,
-        "corners_a": 2,
-        "corners_b": 2,
-        "fouls_a": 9,
-        "fouls_b": 11
-      },
-      "savedToGH": false
+      ]
     },
     "24": {
       "a": 1,
       "b": 3,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 38.6,
+        "possession_b": 61.4,
+        "shots_a": 8,
+        "shots_b": 15,
+        "shots_on_a": 2,
+        "shots_on_b": 4,
+        "corners_a": 3,
+        "corners_b": 4,
+        "fouls_a": 14,
+        "fouls_b": 11
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Daniel Muñoz",
+          "team": "Colômbia",
+          "minute": "40",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Abbosbek Fayzullaev",
+          "team": "Uzbequistão",
+          "minute": "60",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Luis Díaz",
+          "team": "Colômbia",
+          "minute": "65",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Jáminton Campaz",
+          "team": "Colômbia",
+          "minute": "90+9'",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "yellow_card",
@@ -2032,60 +2031,42 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Daniel Muñoz",
-          "team": "Colômbia",
-          "minute": "40",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Abbosbek Fayzullaev",
-          "team": "Uzbequistão",
-          "minute": "60",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Luis Díaz",
-          "team": "Colômbia",
-          "minute": "65",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Jáminton Campaz",
-          "team": "Colômbia",
-          "minute": "90+9'",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 38.6,
-        "possession_b": 61.4,
-        "shots_a": 8,
-        "shots_b": 15,
-        "shots_on_a": 2,
-        "shots_on_b": 4,
-        "corners_a": 3,
-        "corners_b": 4,
-        "fouls_a": 14,
-        "fouls_b": 11
-      },
-      "savedToGH": false
+      ]
     },
     "25": {
       "a": 1,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 38.3,
+        "possession_b": 61.7,
+        "shots_a": 14,
+        "shots_b": 17,
+        "shots_on_a": 3,
+        "shots_on_b": 4,
+        "corners_a": 5,
+        "corners_b": 5,
+        "fouls_a": 12,
+        "fouls_b": 10
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Michal Sadílek",
+          "team": "República Tcheca",
+          "minute": "6",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Teboho Mokoena",
+          "team": "África do Sul",
+          "minute": "83",
+          "penalty": true,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "goal",
@@ -2121,44 +2102,66 @@
           "penalty": true,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Michal Sadílek",
-          "team": "República Tcheca",
-          "minute": "6",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Teboho Mokoena",
-          "team": "África do Sul",
-          "minute": "83",
-          "penalty": true,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 38.3,
-        "possession_b": 61.7,
-        "shots_a": 14,
-        "shots_b": 17,
-        "shots_on_a": 3,
-        "shots_on_b": 4,
-        "corners_a": 5,
-        "corners_b": 5,
-        "fouls_a": 12,
-        "fouls_b": 10
-      },
-      "savedToGH": false
+      ]
     },
     "26": {
       "a": 4,
       "b": 1,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 62.3,
+        "possession_b": 37.7,
+        "shots_a": 13,
+        "shots_b": 5,
+        "shots_on_a": 7,
+        "shots_on_b": 3,
+        "corners_a": 7,
+        "corners_b": 3,
+        "fouls_a": 7,
+        "fouls_b": 18
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Johan Manzambi",
+          "team": "Suíça",
+          "minute": "74",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Rubén Vargas",
+          "team": "Suíça",
+          "minute": "84",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Johan Manzambi",
+          "team": "Suíça",
+          "minute": "90",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Ermin Mahmic",
+          "team": "Bósnia",
+          "minute": "90+3'",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Granit Xhaka",
+          "team": "Suíça",
+          "minute": "90+7'",
+          "penalty": true,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "yellow_card",
@@ -2224,68 +2227,74 @@
           "penalty": true,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Johan Manzambi",
-          "team": "Suíça",
-          "minute": "74",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Rubén Vargas",
-          "team": "Suíça",
-          "minute": "84",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Johan Manzambi",
-          "team": "Suíça",
-          "minute": "90",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Ermin Mahmic",
-          "team": "Bósnia",
-          "minute": "90+3'",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Granit Xhaka",
-          "team": "Suíça",
-          "minute": "90+7'",
-          "penalty": true,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 62.3,
-        "possession_b": 37.7,
-        "shots_a": 13,
-        "shots_b": 5,
-        "shots_on_a": 7,
-        "shots_on_b": 3,
-        "corners_a": 7,
-        "corners_b": 3,
-        "fouls_a": 7,
-        "fouls_b": 18
-      },
-      "savedToGH": false
+      ]
     },
     "27": {
       "a": 6,
       "b": 0,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 79,
+        "possession_b": 21,
+        "shots_a": 32,
+        "shots_b": 2,
+        "shots_on_a": 10,
+        "shots_on_b": 0,
+        "corners_a": 19,
+        "corners_b": 1,
+        "fouls_a": 9,
+        "fouls_b": 10
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Cyle Larin",
+          "team": "Canadá",
+          "minute": "16",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Jonathan David",
+          "team": "Canadá",
+          "minute": "29",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Jonathan David",
+          "team": "Canadá",
+          "minute": "45+3'",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Nathan Saliba",
+          "team": "Canadá",
+          "minute": "64",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mohamed Manai",
+          "team": "Canadá",
+          "minute": "75",
+          "penalty": false,
+          "og": true
+        },
+        {
+          "type": "goal",
+          "player": "Jonathan David",
+          "team": "Canadá",
+          "minute": "90+2'",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "yellow_card",
@@ -2359,76 +2368,34 @@
           "penalty": false,
           "og": false
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Cyle Larin",
-          "team": "Canadá",
-          "minute": "16",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Jonathan David",
-          "team": "Canadá",
-          "minute": "29",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Jonathan David",
-          "team": "Canadá",
-          "minute": "45+3'",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Nathan Saliba",
-          "team": "Canadá",
-          "minute": "64",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Mohamed Manai",
-          "team": "Canadá",
-          "minute": "75",
-          "penalty": false,
-          "og": true
-        },
-        {
-          "type": "goal",
-          "player": "Jonathan David",
-          "team": "Canadá",
-          "minute": "90+2'",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 79,
-        "possession_b": 21,
-        "shots_a": 32,
-        "shots_b": 2,
-        "shots_on_a": 10,
-        "shots_on_b": 0,
-        "corners_a": 19,
-        "corners_b": 1,
-        "fouls_a": 9,
-        "fouls_b": 10
-      },
-      "savedToGH": false
+      ]
     },
     "28": {
       "a": 1,
       "b": 0,
       "status": "FINISHED",
-      "minute": null,
+      "stats": {
+        "possession_a": 42.4,
+        "possession_b": 57.6,
+        "shots_a": 8,
+        "shots_b": 9,
+        "shots_on_a": 4,
+        "shots_on_b": 2,
+        "corners_a": 1,
+        "corners_b": 2,
+        "fouls_a": 9,
+        "fouls_b": 7
+      },
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Luis Romo",
+          "team": "México",
+          "minute": "50",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "events": [
         {
           "type": "yellow_card",
@@ -2450,30 +2417,7 @@
           "team": "Coreia do Sul",
           "minute": "58"
         }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Luis Romo",
-          "team": "México",
-          "minute": "50",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 42.4,
-        "possession_b": 57.6,
-        "shots_a": 8,
-        "shots_b": 9,
-        "shots_on_a": 4,
-        "shots_on_b": 2,
-        "corners_a": 1,
-        "corners_b": 2,
-        "fouls_a": 9,
-        "fouls_b": 7
-      },
-      "savedToGH": false
+      ]
     },
     "29": {
       "a": 2,
@@ -2785,7 +2729,7 @@
       "a": 5,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "90+3'",
+      "minute": "90+4'",
       "events": [
         {
           "type": "goal",
@@ -2951,28 +2895,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "analytics": {
-    "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-20T18:53:49.258Z",
-        "ultimo_acesso": "2026-06-20T18:53:49.258Z",
-        "acessos_total": 1,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-20T18:53:49.258Z"
-      }
-    ]
-  },
-  "updatedAt": "2026-06-20T18:54:49.929Z"
+  "updatedAt": "2026-06-20T18:55:23.902Z"
 }
