@@ -2570,7 +2570,7 @@
     "31": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "21",
       "events": [
         {
@@ -2617,5 +2617,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T00:53:41.852Z"
+  "updatedAt": "2026-06-20T00:54:11.715Z"
 }
