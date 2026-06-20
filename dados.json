@@ -2570,7 +2570,7 @@
     "31": {
       "a": 3,
       "b": 0,
-      "status": "SCHEDULED",
+      "status": "PAUSED",
       "minute": "45+6'",
       "events": [
         {
@@ -2637,8 +2637,8 @@
         }
       ],
       "stats": {
-        "possession_a": 62.4,
-        "possession_b": 37.6,
+        "possession_a": 61.8,
+        "possession_b": 38.2,
         "shots_a": 7,
         "shots_b": 0,
         "shots_on_a": 5,
@@ -2646,7 +2646,7 @@
         "corners_a": 4,
         "corners_b": 1,
         "fouls_a": 6,
-        "fouls_b": 4
+        "fouls_b": 5
       },
       "savedToGH": true
     },
@@ -2672,5 +2672,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T01:24:18.927Z"
+  "updatedAt": "2026-06-20T01:24:44.939Z"
 }
