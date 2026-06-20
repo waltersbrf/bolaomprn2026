@@ -2728,7 +2728,7 @@
     "33": {
       "a": 2,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "33",
       "events": [
         {
@@ -2767,12 +2767,12 @@
         }
       ],
       "stats": {
-        "possession_a": 63.9,
-        "possession_b": 36.1,
+        "possession_a": 62.8,
+        "possession_b": 37.2,
         "shots_a": 4,
-        "shots_b": 3,
+        "shots_b": 4,
         "shots_on_a": 3,
-        "shots_on_b": 1,
+        "shots_on_b": 2,
         "corners_a": 1,
         "corners_b": 1,
         "fouls_a": 2,
@@ -2813,5 +2813,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T17:32:51.727Z"
+  "updatedAt": "2026-06-20T17:33:21.951Z"
 }
