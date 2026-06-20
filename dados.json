@@ -2570,7 +2570,7 @@
     "31": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "19",
       "events": [
         {
@@ -2582,8 +2582,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 64,
-        "possession_b": 36,
+        "possession_a": 62.7,
+        "possession_b": 37.3,
         "shots_a": 1,
         "shots_b": 0,
         "shots_on_a": 0,
@@ -2617,5 +2617,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T00:52:19.190Z"
+  "updatedAt": "2026-06-20T00:52:36.133Z"
 }
