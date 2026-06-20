@@ -2571,7 +2571,7 @@
       "a": 3,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "47",
+      "minute": "48",
       "events": [
         {
           "type": "yellow_card",
@@ -2672,5 +2672,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T01:42:23.318Z"
+  "updatedAt": "2026-06-20T01:43:17.773Z"
 }
