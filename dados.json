@@ -2571,8 +2571,15 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "3",
-      "events": [],
+      "minute": "5",
+      "events": [
+        {
+          "type": "yellow_card",
+          "player": "Carlens Arcus",
+          "team": "Haiti",
+          "minute": "4"
+        }
+      ],
       "goals": [],
       "stats": {
         "possession_a": 69.7,
@@ -2610,5 +2617,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T00:36:22.371Z"
+  "updatedAt": "2026-06-20T00:37:23.333Z"
 }
