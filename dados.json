@@ -2570,7 +2570,7 @@
     "31": {
       "a": 1,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "31",
       "events": [
         {
@@ -2599,15 +2599,15 @@
         }
       ],
       "stats": {
-        "possession_a": 64.1,
-        "possession_b": 35.9,
+        "possession_a": 63.1,
+        "possession_b": 36.9,
         "shots_a": 5,
         "shots_b": 0,
         "shots_on_a": 3,
         "shots_on_b": 0,
         "corners_a": 4,
         "corners_b": 0,
-        "fouls_a": 3,
+        "fouls_a": 4,
         "fouls_b": 2
       },
       "savedToGH": false
@@ -2634,5 +2634,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T01:03:22.997Z"
+  "updatedAt": "2026-06-20T01:03:51.678Z"
 }
