@@ -2649,8 +2649,8 @@
         }
       ],
       "stats": {
-        "possession_a": 56.9,
-        "possession_b": 43.1,
+        "possession_a": 56.7,
+        "possession_b": 43.3,
         "shots_a": 8,
         "shots_b": 8,
         "shots_on_a": 5,
@@ -2660,7 +2660,7 @@
         "fouls_a": 12,
         "fouls_b": 15
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "32": {
       "a": 0,
@@ -2681,7 +2681,7 @@
         "fouls_a": 0,
         "fouls_b": 0
       },
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -2695,5 +2695,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T02:30:36.646Z"
+  "updatedAt": "2026-06-20T02:30:56.514Z"
 }
