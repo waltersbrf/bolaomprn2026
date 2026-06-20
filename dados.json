@@ -2866,7 +2866,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "32",
+      "minute": "33",
       "events": [
         {
           "type": "goal",
@@ -2888,8 +2888,8 @@
         }
       ],
       "stats": {
-        "possession_a": 61.5,
-        "possession_b": 38.5,
+        "possession_a": 59,
+        "possession_b": 41,
         "shots_a": 4,
         "shots_b": 3,
         "shots_on_a": 1,
@@ -2926,13 +2926,13 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "1503c1b7": {
-        "primeiro_acesso": "2026-06-20T20:29:33.576Z",
-        "ultimo_acesso": "2026-06-20T20:30:39.811Z",
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-20T20:32:09.187Z",
+        "ultimo_acesso": "2026-06-20T20:32:57.293Z",
         "acessos_total": 1,
-        "dispositivo": "Linux",
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
+        "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
         "pais": "?",
@@ -2942,16 +2942,16 @@
     },
     "acessos_log": [
       {
-        "fp": "1503c1b7",
-        "ts": "2026-06-20T20:29:33.576Z",
+        "fp": "0ac05a10",
+        "ts": "2026-06-20T20:32:09.187Z",
         "jogo": "J34"
       },
       {
-        "fp": "1503c1b7",
-        "ts": "2026-06-20T20:30:39.811Z",
+        "fp": "0ac05a10",
+        "ts": "2026-06-20T20:32:57.293Z",
         "jogo": "J34"
       }
     ]
   },
-  "updatedAt": "2026-06-20T20:32:32.355Z"
+  "updatedAt": "2026-06-20T20:33:15.205Z"
 }
