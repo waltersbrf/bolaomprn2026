@@ -2726,10 +2726,10 @@
       "savedToGH": true
     },
     "33": {
-      "a": 4,
+      "a": 5,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "89",
+      "minute": "90",
       "events": [
         {
           "type": "goal",
@@ -2849,11 +2849,11 @@
         }
       ],
       "stats": {
-        "possession_a": 52.8,
-        "possession_b": 47.2,
-        "shots_a": 9,
+        "possession_a": 52.7,
+        "possession_b": 47.3,
+        "shots_a": 10,
         "shots_b": 14,
-        "shots_on_a": 6,
+        "shots_on_a": 7,
         "shots_on_b": 7,
         "corners_a": 2,
         "corners_b": 4,
@@ -2895,28 +2895,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "analytics": {
-    "visitors": {
-      "3b3cffe9": {
-        "primeiro_acesso": "2026-06-20T18:49:48.716Z",
-        "ultimo_acesso": "2026-06-20T18:49:48.716Z",
-        "acessos_total": 1,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-20T18:49:48.716Z"
-      }
-    ]
-  },
-  "updatedAt": "2026-06-20T18:50:51.416Z"
+  "updatedAt": "2026-06-20T18:51:21.555Z"
 }
