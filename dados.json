@@ -2637,9 +2637,9 @@
         }
       ],
       "stats": {
-        "possession_a": 61.9,
-        "possession_b": 38.1,
-        "shots_a": 7,
+        "possession_a": 62,
+        "possession_b": 38,
+        "shots_a": 6,
         "shots_b": 0,
         "shots_on_a": 5,
         "shots_on_b": 0,
@@ -2672,5 +2672,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T01:36:08.451Z"
+  "updatedAt": "2026-06-20T01:36:52.856Z"
 }
