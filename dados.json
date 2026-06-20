@@ -2570,8 +2570,8 @@
     "31": {
       "a": 3,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "89",
+      "status": "IN_PLAY",
+      "minute": "90",
       "events": [
         {
           "type": "yellow_card",
@@ -2649,8 +2649,8 @@
         }
       ],
       "stats": {
-        "possession_a": 57,
-        "possession_b": 43,
+        "possession_a": 56.8,
+        "possession_b": 43.2,
         "shots_a": 7,
         "shots_b": 6,
         "shots_on_a": 5,
@@ -2695,5 +2695,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T02:24:34.356Z"
+  "updatedAt": "2026-06-20T02:25:36.275Z"
 }
