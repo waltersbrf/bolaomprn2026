@@ -2571,7 +2571,7 @@
       "a": 3,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "67",
+      "minute": "68",
       "events": [
         {
           "type": "yellow_card",
@@ -2613,7 +2613,7 @@
           "type": "yellow_card",
           "player": "Douglas Santos",
           "team": "Brasil",
-          "minute": "66"
+          "minute": "65"
         }
       ],
       "goals": [
@@ -2643,8 +2643,8 @@
         }
       ],
       "stats": {
-        "possession_a": 59.3,
-        "possession_b": 40.7,
+        "possession_a": 59.9,
+        "possession_b": 40.1,
         "shots_a": 6,
         "shots_b": 4,
         "shots_on_a": 5,
@@ -2689,5 +2689,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T02:03:08.339Z"
+  "updatedAt": "2026-06-20T02:04:09.343Z"
 }
