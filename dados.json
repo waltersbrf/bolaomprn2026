@@ -2849,8 +2849,8 @@
         }
       ],
       "stats": {
-        "possession_a": 52.1,
-        "possession_b": 47.9,
+        "possession_a": 51.9,
+        "possession_b": 48.1,
         "shots_a": 10,
         "shots_b": 15,
         "shots_on_a": 7,
@@ -2895,5 +2895,28 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T18:55:23.902Z"
+  "analytics": {
+    "visitors": {
+      "53490cda": {
+        "primeiro_acesso": "2026-06-20T18:53:39.131Z",
+        "ultimo_acesso": "2026-06-20T18:53:39.131Z",
+        "acessos_total": 1,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "53490cda",
+        "ts": "2026-06-20T18:53:39.131Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-06-20T18:55:39.443Z"
 }
