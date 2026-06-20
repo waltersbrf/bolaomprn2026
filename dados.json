@@ -2568,10 +2568,10 @@
       "savedToGH": true
     },
     "31": {
-      "a": 0,
+      "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "24",
+      "minute": "25",
       "events": [
         {
           "type": "yellow_card",
@@ -2601,9 +2601,9 @@
       "stats": {
         "possession_a": 63.6,
         "possession_b": 36.4,
-        "shots_a": 2,
+        "shots_a": 4,
         "shots_b": 0,
-        "shots_on_a": 0,
+        "shots_on_a": 2,
         "shots_on_b": 0,
         "corners_a": 4,
         "corners_b": 0,
@@ -2634,5 +2634,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T00:57:15.872Z"
+  "updatedAt": "2026-06-20T00:57:55.286Z"
 }
