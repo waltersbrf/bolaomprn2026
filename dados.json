@@ -2570,8 +2570,8 @@
     "31": {
       "a": 3,
       "b": 0,
-      "status": "IN_PLAY",
-      "minute": "50",
+      "status": "SCHEDULED",
+      "minute": "51",
       "events": [
         {
           "type": "yellow_card",
@@ -2672,5 +2672,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T01:45:22.581Z"
+  "updatedAt": "2026-06-20T01:46:21.355Z"
 }
