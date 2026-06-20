@@ -2649,15 +2649,15 @@
         }
       ],
       "stats": {
-        "possession_a": 56.7,
-        "possession_b": 43.3,
+        "possession_a": 56.5,
+        "possession_b": 43.5,
         "shots_a": 8,
         "shots_b": 8,
         "shots_on_a": 5,
         "shots_on_b": 3,
         "corners_a": 4,
         "corners_b": 4,
-        "fouls_a": 12,
+        "fouls_a": 13,
         "fouls_b": 15
       },
       "savedToGH": true
@@ -2695,5 +2695,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T02:31:13.221Z"
+  "updatedAt": "2026-06-20T02:31:15.532Z"
 }
