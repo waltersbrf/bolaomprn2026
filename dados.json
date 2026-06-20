@@ -2728,8 +2728,8 @@
     "33": {
       "a": 5,
       "b": 1,
-      "status": "SCHEDULED",
-      "minute": "90+1'",
+      "status": "IN_PLAY",
+      "minute": "90+2'",
       "events": [
         {
           "type": "goal",
@@ -2895,5 +2895,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T18:52:23.164Z"
+  "updatedAt": "2026-06-20T18:52:52.033Z"
 }
