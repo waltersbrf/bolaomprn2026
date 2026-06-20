@@ -2728,7 +2728,7 @@
     "33": {
       "a": 5,
       "b": 1,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+5'",
       "events": [
         {
@@ -2895,5 +2895,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T18:57:25.354Z"
+  "updatedAt": "2026-06-20T18:58:24.572Z"
 }
