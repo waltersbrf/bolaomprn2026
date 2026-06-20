@@ -2570,8 +2570,8 @@
     "31": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "16",
+      "status": "IN_PLAY",
+      "minute": "17",
       "events": [
         {
           "type": "yellow_card",
@@ -2593,7 +2593,7 @@
         "fouls_a": 3,
         "fouls_b": 2
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "32": {
       "a": 0,
@@ -2603,7 +2603,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -2617,5 +2617,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T00:49:38.523Z"
+  "updatedAt": "2026-06-20T00:50:08.659Z"
 }
