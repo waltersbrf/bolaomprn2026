@@ -2603,7 +2603,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -2617,5 +2617,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T00:55:13.617Z"
+  "updatedAt": "2026-06-20T00:55:19.132Z"
 }
