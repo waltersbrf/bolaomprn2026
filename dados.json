@@ -2682,6 +2682,26 @@
         "fouls_b": 0
       },
       "savedToGH": false
+    },
+    "34": {
+      "a": 0,
+      "b": 0,
+      "status": "SCHEDULED",
+      "minute": "0",
+      "events": [],
+      "goals": [],
+      "stats": null,
+      "savedToGH": false
+    },
+    "35": {
+      "a": 0,
+      "b": 0,
+      "status": "SCHEDULED",
+      "minute": "0",
+      "events": [],
+      "goals": [],
+      "stats": null,
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -2696,5 +2716,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T03:00:49.625Z"
+  "updatedAt": "2026-06-20T03:01:30.946Z"
 }
