@@ -2729,7 +2729,7 @@
       "a": 4,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "79",
+      "minute": "81",
       "events": [
         {
           "type": "goal",
@@ -2782,6 +2782,12 @@
           "player": "Yasin Ayari",
           "team": "Suécia",
           "minute": "75"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Lucas Bergvall",
+          "team": "Suécia",
+          "minute": "80"
         }
       ],
       "goals": [
@@ -2827,8 +2833,8 @@
         }
       ],
       "stats": {
-        "possession_a": 54.1,
-        "possession_b": 45.9,
+        "possession_a": 54.2,
+        "possession_b": 45.8,
         "shots_a": 9,
         "shots_b": 12,
         "shots_on_a": 6,
@@ -2836,7 +2842,7 @@
         "corners_a": 2,
         "corners_b": 3,
         "fouls_a": 7,
-        "fouls_b": 9
+        "fouls_b": 10
       },
       "savedToGH": true
     },
@@ -2873,5 +2879,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T18:41:33.574Z"
+  "updatedAt": "2026-06-20T18:41:55.862Z"
 }
