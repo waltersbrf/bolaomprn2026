@@ -3225,7 +3225,7 @@ async function analyticsInit() {
   }
 }
 
-// Registra ou atualiza visitante — incrementa acessos_total e adiciona ao log
+// Registra dados do visitante atual em memória e dispara save se necessário
 async function analyticsRegisterVisit(forceCommit) {
   try {
     if(!analyticsFP || !window._analyticsCtx) return;
@@ -3235,29 +3235,32 @@ async function analyticsRegisterVisit(forceCommit) {
     if(!analyticsData) analyticsData = {};
     if(!analyticsData.visitors) analyticsData.visitors = {};
     if(!analyticsData.acessos_log) analyticsData.acessos_log = [];
-    const fp = analyticsFP;
-    const existing = analyticsData.visitors[fp];
-    analyticsData.visitors[fp] = {
-      primeiro_acesso: existing ? existing.primeiro_acesso : now,
+
+    // Guarda dados do meu dispositivo (acessos_total calculado no save com base no GitHub)
+    analyticsData.visitors[analyticsFP] = {
+      primeiro_acesso: (analyticsData.visitors[analyticsFP] && analyticsData.visitors[analyticsFP].primeiro_acesso) || now,
       ultimo_acesso: now,
-      acessos_total: existing ? (existing.acessos_total || 1) + 1 : 1,
+      acessos_total: (analyticsData.visitors[analyticsFP] && analyticsData.visitors[analyticsFP].acessos_total) || 0,
       dispositivo: ctx.os,
       navegador: ctx.browser,
       tipo: ctx.tipo,
-      cidade: (existing && existing.cidade && existing.cidade !== '?') ? existing.cidade : ctx.loc.cidade,
-      estado: (existing && existing.estado && existing.estado !== '?') ? existing.estado : ctx.loc.estado,
-      pais: (existing && existing.pais && existing.pais !== '?') ? existing.pais : ctx.loc.pais,
-      lat: (existing && existing.lat != null) ? existing.lat : ctx.loc.lat,
-      lng: (existing && existing.lng != null) ? existing.lng : ctx.loc.lng,
+      cidade: ctx.loc.cidade,
+      estado: ctx.loc.estado,
+      pais: ctx.loc.pais,
+      lat: ctx.loc.lat,
+      lng: ctx.loc.lng,
     };
+
+    // Adiciona minha entrada no log local
     const liveG = findCurrentGame();
     const jogoId = liveG ? ('J' + String(liveG.id).padStart(2,'0')) : null;
-    const logEntry = { fp, ts: now };
+    const logEntry = { fp: analyticsFP, ts: now };
     if(jogoId) logEntry.jogo = jogoId;
     analyticsData.acessos_log.push(logEntry);
     if(analyticsData.acessos_log.length > 2000) {
       analyticsData.acessos_log = analyticsData.acessos_log.slice(-2000);
     }
+
     const shouldCommit = forceCommit || (nowMs - analyticsLastSave > ANALYTICS_MIN_INTERVAL);
     if(!shouldCommit) return;
     analyticsLastSave = nowMs;
@@ -3267,11 +3270,14 @@ async function analyticsRegisterVisit(forceCommit) {
   }
 }
 
-// Salva via GitHub Contents API (leitura fresca sem cache + merge de todos os aparelhos)
+// Salva via GitHub Contents API
+// ESTRATÉGIA: GitHub é a fonte verdadeira. Lemos TUDO do GitHub, adicionamos
+// apenas nossa entrada local, e salvamos de volta. Nunca sobrescrevemos outros visitantes.
 async function analyticsSaveToGitHub() {
   if(analyticsSaving) return;
   analyticsSaving = true;
   try {
+    // 1. Lê estado atual do GitHub via Contents API (sem cache)
     let currentData = {};
     let freshSha = null;
     try {
@@ -3285,48 +3291,47 @@ async function analyticsSaveToGitHub() {
         const decoded = decodeURIComponent(escape(atob(m.content.replace(/\n/g,''))));
         currentData = JSON.parse(decoded);
       }
-    } catch(e) {}
-    // Mescla visitantes: para cada fp, mantém o registro com último_acesso mais recente
-    var ghVisitors = (currentData.analytics && currentData.analytics.visitors) || {};
-    var myVisitors = analyticsData.visitors || {};
-    var mergedVisitors = Object.assign({}, ghVisitors);
-    Object.keys(myVisitors).forEach(function(fp) {
-      var mine = myVisitors[fp];
-      var theirs = mergedVisitors[fp];
-      if(!theirs) {
-        mergedVisitors[fp] = mine;
+    } catch(e) { console.warn('Analytics: falha ao ler GitHub', e); }
+
+    // 2. Parte de todos os visitantes já no GitHub
+    var baseVisitors = Object.assign({}, (currentData.analytics && currentData.analytics.visitors) || {});
+    var baseLog = (currentData.analytics && currentData.analytics.acessos_log) || [];
+
+    // 3. Injeta apenas o visitante atual (meu fp) no base
+    var myEntry = analyticsData && analyticsData.visitors && analyticsData.visitors[analyticsFP];
+    if(myEntry) {
+      var existing = baseVisitors[analyticsFP];
+      if(!existing) {
+        baseVisitors[analyticsFP] = myEntry;
       } else {
-        // Mantém o mais recente, mas soma acessos_total de ambos se são de aparelhos diferentes
-        if(mine.ultimo_acesso > theirs.ultimo_acesso) {
-          mergedVisitors[fp] = Object.assign({}, theirs, mine, {
-            acessos_total: Math.max(mine.acessos_total || 1, theirs.acessos_total || 1),
-            primeiro_acesso: mine.primeiro_acesso < theirs.primeiro_acesso ? mine.primeiro_acesso : theirs.primeiro_acesso,
-            // Preserva coordenadas se o local não tem
-            lat: (mine.lat != null) ? mine.lat : theirs.lat,
-            lng: (mine.lng != null) ? mine.lng : theirs.lng,
-            cidade: (mine.cidade && mine.cidade !== '?') ? mine.cidade : theirs.cidade,
-            estado: (mine.estado && mine.estado !== '?') ? mine.estado : theirs.estado,
-          });
-        } else {
-          mergedVisitors[fp] = Object.assign({}, mine, theirs, {
-            acessos_total: Math.max(mine.acessos_total || 1, theirs.acessos_total || 1),
-            primeiro_acesso: mine.primeiro_acesso < theirs.primeiro_acesso ? mine.primeiro_acesso : theirs.primeiro_acesso,
-            lat: (theirs.lat != null) ? theirs.lat : mine.lat,
-            lng: (theirs.lng != null) ? theirs.lng : mine.lng,
-            cidade: (theirs.cidade && theirs.cidade !== '?') ? theirs.cidade : mine.cidade,
-            estado: (theirs.estado && theirs.estado !== '?') ? theirs.estado : mine.estado,
-          });
-        }
+        // Atualiza apenas campos do meu dispositivo, preserva o resto
+        baseVisitors[analyticsFP] = {
+          primeiro_acesso: existing.primeiro_acesso < myEntry.primeiro_acesso ? existing.primeiro_acesso : myEntry.primeiro_acesso,
+          ultimo_acesso: myEntry.ultimo_acesso,
+          acessos_total: (existing.acessos_total || 0) + 1,
+          dispositivo: myEntry.dispositivo,
+          navegador: myEntry.navegador,
+          tipo: myEntry.tipo,
+          cidade: (myEntry.cidade && myEntry.cidade !== '?') ? myEntry.cidade : (existing.cidade || '?'),
+          estado: (myEntry.estado && myEntry.estado !== '?') ? myEntry.estado : (existing.estado || '?'),
+          pais: (myEntry.pais && myEntry.pais !== '?') ? myEntry.pais : (existing.pais || '?'),
+          lat: (myEntry.lat != null) ? myEntry.lat : existing.lat,
+          lng: (myEntry.lng != null) ? myEntry.lng : existing.lng,
+        };
       }
-    });
-    // Merge do log sem duplicatas (chave fp|ts)
-    const existingLog = (currentData.analytics && currentData.analytics.acessos_log) || [];
-    const myLog = analyticsData.acessos_log || [];
-    const logMap = new Map();
-    existingLog.forEach(function(e) { logMap.set(e.fp + '|' + e.ts, e); });
-    myLog.forEach(function(e) { logMap.set(e.fp + '|' + e.ts, e); });
-    const mergedLog = Array.from(logMap.values()).sort(function(a,b){ return a.ts < b.ts ? -1 : 1; }).slice(-2000);
-    analyticsData = { visitors: mergedVisitors, acessos_log: mergedLog };
+    }
+
+    // 4. Mescla log: base do GitHub + minha entrada nova (sem duplicatas por fp|ts)
+    var myNewLogEntries = (analyticsData && analyticsData.acessos_log) || [];
+    // Só adiciona entradas que não estão no base (as novas desta sessão)
+    var baseLogKeys = new Set(baseLog.map(function(e){ return e.fp + '|' + e.ts; }));
+    var toAdd = myNewLogEntries.filter(function(e){ return !baseLogKeys.has(e.fp + '|' + e.ts); });
+    var finalLog = baseLog.concat(toAdd).sort(function(a,b){ return a.ts < b.ts ? -1 : 1; }).slice(-2000);
+
+    // 5. Atualiza analyticsData local com o estado completo (todos os visitantes)
+    analyticsData = { visitors: baseVisitors, acessos_log: finalLog };
+
+    // 6. Salva no GitHub
     const merged = Object.assign({}, currentData, { analytics: analyticsData, updatedAt: new Date().toISOString() });
     const content64 = btoa(unescape(encodeURIComponent(JSON.stringify(merged, null, 2))));
     const body = {
@@ -3335,6 +3340,7 @@ async function analyticsSaveToGitHub() {
       branch: GH_BRANCH,
     };
     if(freshSha) body.sha = freshSha;
+
     const r = await fetch(GH_API, {
       method: 'PUT',
       headers: {
@@ -3344,11 +3350,16 @@ async function analyticsSaveToGitHub() {
       },
       body: JSON.stringify(body),
     });
+
     if(r.ok) {
       const resp = await r.json();
       ghFileSha = (resp.content && resp.content.sha) || freshSha;
+      // Atualiza dashboard com dados completos
+      if(activeTab === 'config') renderAnalyticsDashboard();
     } else if(r.status === 409 || r.status === 422) {
-      analyticsLastSave = 0; // permite retry
+      // Conflito de SHA — reseta para retry na próxima oportunidade
+      analyticsLastSave = 0;
+      ghFileSha = null;
     }
   } catch(e) {
     console.warn('Analytics save error:', e);
