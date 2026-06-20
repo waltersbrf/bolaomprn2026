@@ -2785,7 +2785,7 @@
       "a": 4,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "74",
+      "minute": "75",
       "events": [
         {
           "type": "goal",
@@ -2832,6 +2832,12 @@
           "minute": "59",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Yasin Ayari",
+          "team": "Suécia",
+          "minute": "75"
         }
       ],
       "goals": [
@@ -2923,5 +2929,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T18:35:55.600Z"
+  "updatedAt": "2026-06-20T18:36:56.216Z"
 }
