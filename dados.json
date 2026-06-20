@@ -2593,7 +2593,7 @@
         "fouls_a": 3,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "32": {
       "a": 0,
@@ -2617,5 +2617,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T00:53:15.269Z"
+  "updatedAt": "2026-06-20T00:53:16.807Z"
 }
