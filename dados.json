@@ -2866,7 +2866,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "10",
+      "minute": "9",
       "events": [],
       "goals": [],
       "stats": {
@@ -2908,13 +2908,13 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-20T20:08:53.249Z",
-        "ultimo_acesso": "2026-06-20T20:08:53.249Z",
+      "1503c1b7": {
+        "primeiro_acesso": "2026-06-20T20:02:59.740Z",
+        "ultimo_acesso": "2026-06-20T20:02:59.740Z",
         "acessos_total": 1,
-        "dispositivo": "Android",
+        "dispositivo": "Linux",
         "navegador": "Chrome",
-        "tipo": "Mobile",
+        "tipo": "Desktop",
         "cidade": "?",
         "estado": "?",
         "pais": "?",
@@ -2924,11 +2924,11 @@
     },
     "acessos_log": [
       {
-        "fp": "f603cb5b",
-        "ts": "2026-06-20T20:08:53.249Z",
+        "fp": "1503c1b7",
+        "ts": "2026-06-20T20:02:59.740Z",
         "jogo": "J34"
       }
     ]
   },
-  "updatedAt": "2026-06-20T20:10:34.019Z"
+  "updatedAt": "2026-06-20T20:10:57.021Z"
 }
