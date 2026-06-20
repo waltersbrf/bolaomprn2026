@@ -2788,6 +2788,14 @@
           "player": "Lucas Bergvall",
           "team": "Suécia",
           "minute": "80"
+        },
+        {
+          "type": "goal",
+          "player": "Crysencio Summerville",
+          "team": "Holanda",
+          "minute": "89",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -2828,6 +2836,14 @@
           "player": "Anthony Elanga",
           "team": "Suécia",
           "minute": "59",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Crysencio Summerville",
+          "team": "Holanda",
+          "minute": "89",
           "penalty": false,
           "og": false
         }
@@ -2879,5 +2895,28 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T18:50:20.707Z"
+  "analytics": {
+    "visitors": {
+      "3b3cffe9": {
+        "primeiro_acesso": "2026-06-20T18:49:48.716Z",
+        "ultimo_acesso": "2026-06-20T18:49:48.716Z",
+        "acessos_total": 1,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-20T18:49:48.716Z"
+      }
+    ]
+  },
+  "updatedAt": "2026-06-20T18:50:51.416Z"
 }
