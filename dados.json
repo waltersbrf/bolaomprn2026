@@ -2784,8 +2784,8 @@
     "33": {
       "a": 3,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "52",
+      "status": "IN_PLAY",
+      "minute": "54",
       "events": [
         {
           "type": "goal",
@@ -2810,6 +2810,12 @@
           "minute": "47",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Gabriel Gudmundsson",
+          "team": "Suécia",
+          "minute": "53"
         }
       ],
       "goals": [
@@ -2885,5 +2891,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T18:13:42.589Z"
+  "updatedAt": "2026-06-20T18:14:43.459Z"
 }
