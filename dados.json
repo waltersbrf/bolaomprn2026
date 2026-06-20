@@ -2575,8 +2575,8 @@
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 61.5,
-        "possession_b": 38.5,
+        "possession_a": 69.7,
+        "possession_b": 30.3,
         "shots_a": 0,
         "shots_b": 0,
         "shots_on_a": 0,
@@ -2610,5 +2610,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T00:35:21.344Z"
+  "updatedAt": "2026-06-20T00:36:22.371Z"
 }
