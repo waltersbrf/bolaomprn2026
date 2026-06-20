@@ -2570,7 +2570,7 @@
     "31": {
       "a": 3,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "56",
       "events": [
         {
@@ -2637,10 +2637,10 @@
         }
       ],
       "stats": {
-        "possession_a": 60.8,
-        "possession_b": 39.2,
+        "possession_a": 60.7,
+        "possession_b": 39.3,
         "shots_a": 6,
-        "shots_b": 1,
+        "shots_b": 2,
         "shots_on_a": 5,
         "shots_on_b": 0,
         "corners_a": 4,
@@ -2672,5 +2672,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T01:51:29.458Z"
+  "updatedAt": "2026-06-20T01:51:58.873Z"
 }
