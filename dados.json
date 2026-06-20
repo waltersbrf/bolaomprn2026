@@ -2726,25 +2726,43 @@
       "savedToGH": true
     },
     "33": {
-      "a": 0,
+      "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "0",
-      "events": [],
-      "goals": [],
+      "minute": "16",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Brian Brobbey",
+          "team": "Holanda",
+          "minute": "5",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Brian Brobbey",
+          "team": "Holanda",
+          "minute": "5",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 0,
-        "possession_b": 0,
-        "shots_a": 0,
-        "shots_b": 0,
-        "shots_on_a": 0,
-        "shots_on_b": 0,
-        "corners_a": 0,
-        "corners_b": 0,
-        "fouls_a": 0,
-        "fouls_b": 0
+        "possession_a": 63.2,
+        "possession_b": 36.8,
+        "shots_a": 3,
+        "shots_b": 1,
+        "shots_on_a": 2,
+        "shots_on_b": 1,
+        "corners_a": 1,
+        "corners_b": 1,
+        "fouls_a": 1,
+        "fouls_b": 1
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "34": {
       "a": 0,
@@ -2754,7 +2772,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "35": {
       "a": 0,
@@ -2764,7 +2782,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -2779,5 +2797,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T16:57:34.932Z"
+  "updatedAt": "2026-06-20T17:16:28.811Z"
 }
