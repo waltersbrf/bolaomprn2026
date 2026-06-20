@@ -2571,7 +2571,7 @@
       "a": 3,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "65",
+      "minute": "66",
       "events": [
         {
           "type": "yellow_card",
@@ -2608,6 +2608,12 @@
           "player": "Frantzdy Pierrot",
           "team": "Haiti",
           "minute": "45+4'"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Douglas Santos",
+          "team": "Brasil",
+          "minute": "66"
         }
       ],
       "goals": [
@@ -2637,10 +2643,10 @@
         }
       ],
       "stats": {
-        "possession_a": 59.1,
-        "possession_b": 40.9,
+        "possession_a": 59,
+        "possession_b": 41,
         "shots_a": 6,
-        "shots_b": 2,
+        "shots_b": 3,
         "shots_on_a": 5,
         "shots_on_b": 1,
         "corners_a": 4,
@@ -2648,7 +2654,7 @@
         "fouls_a": 9,
         "fouls_b": 6
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "32": {
       "a": 0,
@@ -2669,7 +2675,7 @@
         "fouls_a": 0,
         "fouls_b": 0
       },
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -2683,5 +2689,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T02:02:07.518Z"
+  "updatedAt": "2026-06-20T02:02:09.198Z"
 }
