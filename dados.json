@@ -2729,12 +2729,30 @@
       "a": 0,
       "b": 0,
       "status": "IN_PLAY",
-      "minute": "29",
-      "events": [],
-      "goals": [],
+      "minute": "30",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Franck Kessié",
+          "team": "Costa do Marfim",
+          "minute": "30",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Franck Kessié",
+          "team": "Costa do Marfim",
+          "minute": "30",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 63.9,
-        "possession_b": 36.1,
+        "possession_a": 61.5,
+        "possession_b": 38.5,
         "shots_a": 4,
         "shots_b": 1,
         "shots_on_a": 1,
@@ -2769,5 +2787,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T20:29:29.777Z"
+  "updatedAt": "2026-06-20T20:29:59.458Z"
 }
