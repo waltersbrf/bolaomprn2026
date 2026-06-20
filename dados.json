@@ -2648,7 +2648,7 @@
         "fouls_a": 6,
         "fouls_b": 5
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "32": {
       "a": 0,
@@ -2658,7 +2658,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -2672,5 +2672,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T01:41:16.871Z"
+  "updatedAt": "2026-06-20T01:41:17.654Z"
 }
