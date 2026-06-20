@@ -2571,7 +2571,7 @@
       "a": 3,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "45+5'",
+      "minute": "45+6'",
       "events": [
         {
           "type": "yellow_card",
@@ -2637,8 +2637,8 @@
         }
       ],
       "stats": {
-        "possession_a": 62.6,
-        "possession_b": 37.4,
+        "possession_a": 62.4,
+        "possession_b": 37.6,
         "shots_a": 7,
         "shots_b": 0,
         "shots_on_a": 5,
@@ -2648,7 +2648,7 @@
         "fouls_a": 6,
         "fouls_b": 4
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "32": {
       "a": 0,
@@ -2658,7 +2658,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -2672,5 +2672,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T01:22:47.110Z"
+  "updatedAt": "2026-06-20T01:23:38.984Z"
 }
