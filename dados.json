@@ -2568,10 +2568,10 @@
       "savedToGH": true
     },
     "31": {
-      "a": 2,
+      "a": 3,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "45+3'",
+      "minute": "45+4'",
       "events": [
         {
           "type": "yellow_card",
@@ -2602,6 +2602,12 @@
           "minute": "45+3'",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Frantzdy Pierrot",
+          "team": "Haiti",
+          "minute": "45+4'"
         }
       ],
       "goals": [
@@ -2666,5 +2672,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-20T01:20:39.768Z"
+  "updatedAt": "2026-06-20T01:21:40.569Z"
 }
