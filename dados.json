@@ -2915,7 +2915,7 @@
         "fouls_a": 5,
         "fouls_b": 7
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "35": {
       "a": 0,
@@ -2925,7 +2925,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -2942,9 +2942,9 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "17f45ad0": {
-        "primeiro_acesso": "2026-06-20T21:42:20.535Z",
-        "ultimo_acesso": "2026-06-20T21:42:20.535Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-20T21:12:32.499Z",
+        "ultimo_acesso": "2026-06-20T21:12:32.499Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -2958,11 +2958,11 @@
     },
     "acessos_log": [
       {
-        "fp": "17f45ad0",
-        "ts": "2026-06-20T21:42:20.535Z",
+        "fp": "f603cb5b",
+        "ts": "2026-06-20T21:12:32.499Z",
         "jogo": "J34"
       }
     ]
   },
-  "updatedAt": "2026-06-20T21:55:41.835Z"
+  "updatedAt": "2026-06-20T21:55:52.580Z"
 }
