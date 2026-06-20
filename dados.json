@@ -2725,148 +2725,11 @@
       },
       "savedToGH": true
     },
-    "33": {
-      "a": 5,
-      "b": 1,
-      "status": "FINISHED",
-      "minute": "90+5'",
-      "events": [
-        {
-          "type": "goal",
-          "player": "Brian Brobbey",
-          "team": "Holanda",
-          "minute": "5",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Brian Brobbey",
-          "team": "Holanda",
-          "minute": "17",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Cody Gakpo",
-          "team": "Holanda",
-          "minute": "47",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "yellow_card",
-          "player": "Gabriel Gudmundsson",
-          "team": "Suécia",
-          "minute": "53"
-        },
-        {
-          "type": "goal",
-          "player": "Cody Gakpo",
-          "team": "Holanda",
-          "minute": "54",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Anthony Elanga",
-          "team": "Suécia",
-          "minute": "59",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "yellow_card",
-          "player": "Yasin Ayari",
-          "team": "Suécia",
-          "minute": "75"
-        },
-        {
-          "type": "yellow_card",
-          "player": "Lucas Bergvall",
-          "team": "Suécia",
-          "minute": "80"
-        },
-        {
-          "type": "goal",
-          "player": "Crysencio Summerville",
-          "team": "Holanda",
-          "minute": "89",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Brian Brobbey",
-          "team": "Holanda",
-          "minute": "5",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Brian Brobbey",
-          "team": "Holanda",
-          "minute": "17",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Cody Gakpo",
-          "team": "Holanda",
-          "minute": "47",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Cody Gakpo",
-          "team": "Holanda",
-          "minute": "54",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Anthony Elanga",
-          "team": "Suécia",
-          "minute": "59",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Crysencio Summerville",
-          "team": "Holanda",
-          "minute": "89",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 50.9,
-        "possession_b": 49.1,
-        "shots_a": 10,
-        "shots_b": 16,
-        "shots_on_a": 7,
-        "shots_on_b": 8,
-        "corners_a": 2,
-        "corners_b": 5,
-        "fouls_a": 9,
-        "fouls_b": 12
-      },
-      "savedToGH": true
-    },
     "34": {
       "a": 0,
       "b": 0,
       "status": "IN_PLAY",
-      "minute": "20",
+      "minute": "21",
       "events": [],
       "goals": [],
       "stats": {
@@ -2881,7 +2744,7 @@
         "fouls_a": 0,
         "fouls_b": 1
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "35": {
       "a": 0,
@@ -2891,7 +2754,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -2906,29 +2769,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "analytics": {
-    "visitors": {
-      "1503c1b7": {
-        "primeiro_acesso": "2026-06-20T20:02:59.740Z",
-        "ultimo_acesso": "2026-06-20T20:02:59.740Z",
-        "acessos_total": 1,
-        "dispositivo": "Linux",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "1503c1b7",
-        "ts": "2026-06-20T20:02:59.740Z",
-        "jogo": "J34"
-      }
-    ]
-  },
-  "updatedAt": "2026-06-20T20:20:42.867Z"
+  "updatedAt": "2026-06-20T20:20:50.631Z"
 }
