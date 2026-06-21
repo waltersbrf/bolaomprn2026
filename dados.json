@@ -2800,7 +2800,7 @@
       "a": 0,
       "b": 0,
       "status": "IN_PLAY",
-      "minute": "23",
+      "minute": "24",
       "events": [],
       "goals": [],
       "stats": {
@@ -2830,5 +2830,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T00:24:12.795Z"
+  "updatedAt": "2026-06-21T00:24:43.565Z"
 }
