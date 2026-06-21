@@ -2858,7 +2858,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "6",
+      "minute": "7",
       "events": [
         {
           "type": "goal",
@@ -2880,10 +2880,10 @@
         }
       ],
       "stats": {
-        "possession_a": 33.3,
-        "possession_b": 66.7,
+        "possession_a": 28.9,
+        "possession_b": 71.1,
         "shots_a": 1,
-        "shots_b": 1,
+        "shots_b": 2,
         "shots_on_a": 0,
         "shots_on_b": 1,
         "corners_a": 0,
@@ -2947,5 +2947,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T04:06:19.525Z"
+  "updatedAt": "2026-06-21T04:07:20.629Z"
 }
