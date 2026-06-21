@@ -3181,7 +3181,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "45+4'",
+      "minute": "45+5'",
       "events": [
         {
           "type": "yellow_card",
@@ -3198,16 +3198,16 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 80.8,
-        "possession_b": 19.2,
-        "shots_a": 12,
+        "possession_a": 81.1,
+        "possession_b": 18.9,
+        "shots_a": 11,
         "shots_b": 2,
         "shots_on_a": 4,
         "shots_on_b": 1,
         "corners_a": 2,
         "corners_b": 1,
         "fouls_a": 4,
-        "fouls_b": 4
+        "fouls_b": 5
       },
       "savedToGH": false
     },
@@ -3268,5 +3268,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-21T19:50:01.287Z"
+  "updatedAt": "2026-06-21T19:50:26.850Z"
 }
