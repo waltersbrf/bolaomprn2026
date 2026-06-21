@@ -3181,7 +3181,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "89",
+      "minute": "90",
       "events": [
         {
           "type": "yellow_card",
@@ -3204,8 +3204,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 71.1,
-        "possession_b": 28.9,
+        "possession_a": 71.8,
+        "possession_b": 28.2,
         "shots_a": 20,
         "shots_b": 6,
         "shots_on_a": 7,
@@ -3251,5 +3251,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T20:54:13.746Z"
+  "updatedAt": "2026-06-21T20:55:14.605Z"
 }
