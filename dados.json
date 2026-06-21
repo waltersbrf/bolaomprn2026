@@ -2835,8 +2835,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 74.3,
-        "possession_b": 25.7,
+        "possession_a": 74.7,
+        "possession_b": 25.3,
         "shots_a": 28,
         "shots_b": 10,
         "shots_on_a": 15,
@@ -2861,5 +2861,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T01:48:31.545Z"
+  "updatedAt": "2026-06-21T01:49:32.229Z"
 }
