@@ -2856,18 +2856,36 @@
     },
     "36": {
       "a": 0,
-      "b": 0,
-      "status": "IN_PLAY",
+      "b": 1,
+      "status": "SCHEDULED",
       "minute": "5",
-      "events": [],
-      "goals": [],
+      "events": [
+        {
+          "type": "goal",
+          "player": "Daichi Kamada",
+          "team": "Japão",
+          "minute": "4",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Daichi Kamada",
+          "team": "Japão",
+          "minute": "4",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 31.2,
-        "possession_b": 68.8,
+        "possession_a": 21.7,
+        "possession_b": 78.3,
         "shots_a": 1,
-        "shots_b": 0,
+        "shots_b": 1,
         "shots_on_a": 0,
-        "shots_on_b": 0,
+        "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 0,
         "fouls_a": 1,
@@ -2929,5 +2947,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T04:04:47.822Z"
+  "updatedAt": "2026-06-21T04:05:18.629Z"
 }
