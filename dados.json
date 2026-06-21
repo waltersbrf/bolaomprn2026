@@ -3180,8 +3180,8 @@
     "38": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "37",
+      "status": "IN_PLAY",
+      "minute": "39",
       "events": [
         {
           "type": "yellow_card",
@@ -3196,19 +3196,10 @@
           "minute": "33"
         }
       ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Mehdi Taremi",
-          "team": "Irã",
-          "minute": "25",
-          "penalty": false,
-          "og": false
-        }
-      ],
+      "goals": [],
       "stats": {
-        "possession_a": 77.3,
-        "possession_b": 22.7,
+        "possession_a": 77.8,
+        "possession_b": 22.2,
         "shots_a": 8,
         "shots_b": 2,
         "shots_on_a": 2,
@@ -3216,7 +3207,7 @@
         "corners_a": 2,
         "corners_b": 1,
         "fouls_a": 4,
-        "fouls_b": 1
+        "fouls_b": 3
       },
       "savedToGH": false
     },
@@ -3256,12 +3247,12 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "6335f0b1": {
-        "primeiro_acesso": "2026-06-21T19:25:28.836Z",
-        "ultimo_acesso": "2026-06-21T19:25:28.836Z",
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-21T18:39:34.258Z",
+        "ultimo_acesso": "2026-06-21T18:39:34.258Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
+        "dispositivo": "Android",
+        "navegador": "Chrome",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -3272,11 +3263,14 @@
     },
     "acessos_log": [
       {
-        "fp": "6335f0b1",
-        "ts": "2026-06-21T19:25:28.836Z",
-        "jogo": "J38"
+        "fp": "22244835",
+        "ts": "2026-06-21T18:28:04.991Z"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-21T18:39:34.258Z"
       }
     ]
   },
-  "updatedAt": "2026-06-21T19:37:08.041Z"
+  "updatedAt": "2026-06-21T19:38:35.129Z"
 }
