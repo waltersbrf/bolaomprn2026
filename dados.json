@@ -3180,8 +3180,8 @@
     "38": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "62",
+      "status": "IN_PLAY",
+      "minute": "63",
       "events": [
         {
           "type": "yellow_card",
@@ -3198,11 +3198,11 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 80.4,
-        "possession_b": 19.6,
-        "shots_a": 15,
+        "possession_a": 80.3,
+        "possession_b": 19.7,
+        "shots_a": 16,
         "shots_b": 4,
-        "shots_on_a": 5,
+        "shots_on_a": 6,
         "shots_on_b": 2,
         "corners_a": 4,
         "corners_b": 1,
@@ -3245,5 +3245,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T20:27:15.141Z"
+  "updatedAt": "2026-06-21T20:28:16.489Z"
 }
