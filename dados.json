@@ -2800,7 +2800,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "52",
+      "minute": "54",
       "events": [
         {
           "type": "yellow_card",
@@ -2813,12 +2813,18 @@
           "player": "Leandro Bacuna",
           "team": "Curaçau",
           "minute": "39"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Juninho Bacuna",
+          "team": "Curaçau",
+          "minute": "53"
         }
       ],
       "goals": [],
       "stats": {
-        "possession_a": 74.2,
-        "possession_b": 25.8,
+        "possession_a": 74.1,
+        "possession_b": 25.9,
         "shots_a": 10,
         "shots_b": 5,
         "shots_on_a": 7,
@@ -2826,7 +2832,7 @@
         "corners_a": 1,
         "corners_b": 0,
         "fouls_a": 6,
-        "fouls_b": 5
+        "fouls_b": 6
       },
       "savedToGH": false
     }
@@ -2843,5 +2849,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T01:12:24.313Z"
+  "updatedAt": "2026-06-21T01:13:25.787Z"
 }
