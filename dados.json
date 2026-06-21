@@ -3215,7 +3215,7 @@
         "fouls_a": 7,
         "fouls_b": 7
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "39": {
       "a": 0,
@@ -3225,7 +3225,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "40": {
       "a": 0,
@@ -3235,7 +3235,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -3251,7 +3251,6 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T20:45:41.743Z",
   "analytics": {
     "visitors": {
       "56e027d9": {
@@ -3274,5 +3273,6 @@
         "ts": "2026-06-21T20:45:41.640Z"
       }
     ]
-  }
+  },
+  "updatedAt": "2026-06-21T20:45:47.600Z"
 }
