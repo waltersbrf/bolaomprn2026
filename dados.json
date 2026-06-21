@@ -2800,7 +2800,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "17",
+      "minute": "18",
       "events": [],
       "goals": [],
       "stats": {
@@ -2830,5 +2830,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T00:18:06.255Z"
+  "updatedAt": "2026-06-21T00:19:07.279Z"
 }
