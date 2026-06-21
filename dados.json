@@ -2994,8 +2994,8 @@
     "36": {
       "a": 0,
       "b": 2,
-      "status": "SCHEDULED",
-      "minute": "32",
+      "status": "IN_PLAY",
+      "minute": "33",
       "events": [
         {
           "type": "goal",
@@ -3124,5 +3124,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-21T04:32:52.336Z"
+  "updatedAt": "2026-06-21T04:33:24.535Z"
 }
