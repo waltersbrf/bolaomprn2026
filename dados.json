@@ -2725,143 +2725,6 @@
       },
       "savedToGH": true
     },
-    "33": {
-      "a": 5,
-      "b": 1,
-      "status": "FINISHED",
-      "minute": "90+5'",
-      "events": [
-        {
-          "type": "goal",
-          "player": "Brian Brobbey",
-          "team": "Holanda",
-          "minute": "5",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Brian Brobbey",
-          "team": "Holanda",
-          "minute": "17",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Cody Gakpo",
-          "team": "Holanda",
-          "minute": "47",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "yellow_card",
-          "player": "Gabriel Gudmundsson",
-          "team": "Suécia",
-          "minute": "53"
-        },
-        {
-          "type": "goal",
-          "player": "Cody Gakpo",
-          "team": "Holanda",
-          "minute": "54",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Anthony Elanga",
-          "team": "Suécia",
-          "minute": "59",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "yellow_card",
-          "player": "Yasin Ayari",
-          "team": "Suécia",
-          "minute": "75"
-        },
-        {
-          "type": "yellow_card",
-          "player": "Lucas Bergvall",
-          "team": "Suécia",
-          "minute": "80"
-        },
-        {
-          "type": "goal",
-          "player": "Crysencio Summerville",
-          "team": "Holanda",
-          "minute": "89",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "goals": [
-        {
-          "type": "goal",
-          "player": "Brian Brobbey",
-          "team": "Holanda",
-          "minute": "5",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Brian Brobbey",
-          "team": "Holanda",
-          "minute": "17",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Cody Gakpo",
-          "team": "Holanda",
-          "minute": "47",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Cody Gakpo",
-          "team": "Holanda",
-          "minute": "54",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Anthony Elanga",
-          "team": "Suécia",
-          "minute": "59",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Crysencio Summerville",
-          "team": "Holanda",
-          "minute": "89",
-          "penalty": false,
-          "og": false
-        }
-      ],
-      "stats": {
-        "possession_a": 50.9,
-        "possession_b": 49.1,
-        "shots_a": 10,
-        "shots_b": 16,
-        "shots_on_a": 7,
-        "shots_on_b": 8,
-        "corners_a": 2,
-        "corners_b": 5,
-        "fouls_a": 9,
-        "fouls_b": 12
-      },
-      "savedToGH": true
-    },
     "34": {
       "a": 2,
       "b": 1,
@@ -2972,8 +2835,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 73.9,
-        "possession_b": 26.1,
+        "possession_a": 74,
+        "possession_b": 26,
         "shots_a": 27,
         "shots_b": 10,
         "shots_on_a": 15,
@@ -2983,7 +2846,7 @@
         "fouls_a": 7,
         "fouls_b": 9
       },
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -2998,28 +2861,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "analytics": {
-    "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-20T23:09:37.127Z",
-        "ultimo_acesso": "2026-06-20T23:09:37.127Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-20T23:09:37.127Z"
-      }
-    ]
-  },
-  "updatedAt": "2026-06-21T01:43:39.242Z"
+  "updatedAt": "2026-06-21T01:44:28.478Z"
 }
