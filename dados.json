@@ -3079,23 +3079,79 @@
       "savedToGH": true
     },
     "37": {
-      "a": 0,
+      "a": 3,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "0",
-      "events": [],
-      "goals": [],
+      "status": "PAUSED",
+      "minute": "45+5'",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Lamine Yamal",
+          "team": "Espanha",
+          "minute": "10",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mikel Oyarzabal",
+          "team": "Espanha",
+          "minute": "21",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mikel Oyarzabal",
+          "team": "Espanha",
+          "minute": "24",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Salem Al-Dawsari",
+          "team": "Arábia Saudita",
+          "minute": "30"
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Lamine Yamal",
+          "team": "Espanha",
+          "minute": "10",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mikel Oyarzabal",
+          "team": "Espanha",
+          "minute": "21",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mikel Oyarzabal",
+          "team": "Espanha",
+          "minute": "24",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 0,
-        "possession_b": 0,
-        "shots_a": 0,
-        "shots_b": 0,
-        "shots_on_a": 0,
+        "possession_a": 71.6,
+        "possession_b": 28.4,
+        "shots_a": 17,
+        "shots_b": 2,
+        "shots_on_a": 5,
         "shots_on_b": 0,
-        "corners_a": 0,
-        "corners_b": 0,
-        "fouls_a": 0,
-        "fouls_b": 0
+        "corners_a": 4,
+        "corners_b": 1,
+        "fouls_a": 3,
+        "fouls_b": 1
       },
       "savedToGH": false
     },
@@ -3187,5 +3243,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-21T16:00:51.425Z"
+  "updatedAt": "2026-06-21T16:57:53.638Z"
 }
