@@ -3224,8 +3224,19 @@
       "minute": "0",
       "events": [],
       "goals": [],
-      "stats": null,
-      "savedToGH": true
+      "stats": {
+        "possession_a": 0,
+        "possession_b": 0,
+        "shots_a": 0,
+        "shots_b": 0,
+        "shots_on_a": 0,
+        "shots_on_b": 0,
+        "corners_a": 0,
+        "corners_b": 0,
+        "fouls_a": 0,
+        "fouls_b": 0
+      },
+      "savedToGH": false
     },
     "40": {
       "a": 0,
@@ -3235,7 +3246,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -3251,28 +3262,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "analytics": {
-    "visitors": {
-      "0ac05a10": {
-        "primeiro_acesso": "2026-06-21T21:01:21.542Z",
-        "ultimo_acesso": "2026-06-21T21:01:21.542Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "0ac05a10",
-        "ts": "2026-06-21T21:01:21.542Z"
-      }
-    ]
-  },
-  "updatedAt": "2026-06-21T21:01:33.226Z"
+  "updatedAt": "2026-06-21T21:02:04.079Z"
 }
