@@ -2799,7 +2799,7 @@
     "35": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+6'",
       "events": [
         {
@@ -2852,7 +2852,7 @@
         "fouls_a": 7,
         "fouls_b": 10
       },
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -2867,5 +2867,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T01:55:38.229Z"
+  "updatedAt": "2026-06-21T01:56:39.455Z"
 }
