@@ -2800,7 +2800,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "74",
+      "minute": "76",
       "events": [
         {
           "type": "yellow_card",
@@ -2825,20 +2825,26 @@
           "player": "Livano Comenencia",
           "team": "Curaçau",
           "minute": "56"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Juriën Gaari",
+          "team": "Curaçau",
+          "minute": "75"
         }
       ],
       "goals": [],
       "stats": {
-        "possession_a": 73.7,
-        "possession_b": 26.3,
+        "possession_a": 73.3,
+        "possession_b": 26.7,
         "shots_a": 24,
-        "shots_b": 9,
+        "shots_b": 10,
         "shots_on_a": 13,
-        "shots_on_b": 2,
+        "shots_on_b": 3,
         "corners_a": 5,
         "corners_b": 0,
         "fouls_a": 7,
-        "fouls_b": 8
+        "fouls_b": 9
       },
       "savedToGH": false
     }
@@ -2855,5 +2861,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T01:34:17.262Z"
+  "updatedAt": "2026-06-21T01:35:18.323Z"
 }
