@@ -3079,10 +3079,10 @@
       "savedToGH": true
     },
     "37": {
-      "a": 3,
+      "a": 4,
       "b": 0,
-      "status": "PAUSED",
-      "minute": "45+5'",
+      "status": "SCHEDULED",
+      "minute": "68",
       "events": [
         {
           "type": "goal",
@@ -3113,6 +3113,20 @@
           "player": "Salem Al-Dawsari",
           "team": "Arábia Saudita",
           "minute": "30"
+        },
+        {
+          "type": "goal",
+          "player": "Hassan Al-Tambakti",
+          "team": "Espanha",
+          "minute": "49",
+          "penalty": false,
+          "og": true
+        },
+        {
+          "type": "yellow_card",
+          "player": "Mohamed Kanno",
+          "team": "Arábia Saudita",
+          "minute": "60"
         }
       ],
       "goals": [
@@ -3139,19 +3153,27 @@
           "minute": "24",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Hassan Al-Tambakti",
+          "team": "Espanha",
+          "minute": "49",
+          "penalty": false,
+          "og": true
         }
       ],
       "stats": {
-        "possession_a": 71.4,
-        "possession_b": 28.6,
-        "shots_a": 17,
+        "possession_a": 71,
+        "possession_b": 29,
+        "shots_a": 21,
         "shots_b": 2,
-        "shots_on_a": 5,
+        "shots_on_a": 8,
         "shots_on_b": 0,
-        "corners_a": 4,
+        "corners_a": 6,
         "corners_b": 1,
-        "fouls_a": 3,
-        "fouls_b": 1
+        "fouls_a": 7,
+        "fouls_b": 2
       },
       "savedToGH": false
     },
@@ -3243,5 +3265,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-21T16:59:25.543Z"
+  "updatedAt": "2026-06-21T17:31:34.180Z"
 }
