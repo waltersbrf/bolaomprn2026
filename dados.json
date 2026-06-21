@@ -2799,13 +2799,13 @@
     "35": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "4",
+      "status": "IN_PLAY",
+      "minute": "6",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 89.7,
-        "possession_b": 10.3,
+        "possession_a": 78.6,
+        "possession_b": 21.4,
         "shots_a": 1,
         "shots_b": 0,
         "shots_on_a": 1,
@@ -2830,5 +2830,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T00:05:20.245Z"
+  "updatedAt": "2026-06-21T00:06:21.608Z"
 }
