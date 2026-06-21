@@ -2800,7 +2800,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "90+5'",
+      "minute": "90+6'",
       "events": [
         {
           "type": "yellow_card",
@@ -2847,7 +2847,7 @@
         "shots_b": 10,
         "shots_on_a": 15,
         "shots_on_b": 3,
-        "corners_a": 8,
+        "corners_a": 9,
         "corners_b": 0,
         "fouls_a": 7,
         "fouls_b": 10
@@ -2867,5 +2867,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T01:54:37.323Z"
+  "updatedAt": "2026-06-21T01:55:38.229Z"
 }
