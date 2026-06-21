@@ -3181,7 +3181,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "66",
+      "minute": "67",
       "events": [
         {
           "type": "yellow_card",
@@ -3194,6 +3194,12 @@
           "player": "Saeid Ezatolahi",
           "team": "Irã",
           "minute": "33"
+        },
+        {
+          "type": "red_card",
+          "player": "Nathan Ngoy",
+          "team": "Bélgica",
+          "minute": "66"
         }
       ],
       "goals": [],
@@ -3245,5 +3251,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T20:31:50.220Z"
+  "updatedAt": "2026-06-21T20:32:51.227Z"
 }
