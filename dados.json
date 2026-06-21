@@ -2858,7 +2858,7 @@
       "a": 0,
       "b": 4,
       "status": "SCHEDULED",
-      "minute": "86",
+      "minute": "87",
       "events": [
         {
           "type": "goal",
@@ -2995,5 +2995,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T05:46:18.215Z"
+  "updatedAt": "2026-06-21T05:47:19.210Z"
 }
