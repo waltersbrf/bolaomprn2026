@@ -2857,7 +2857,7 @@
     "36": {
       "a": 0,
       "b": 4,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+7'",
       "events": [
         {
@@ -2928,8 +2928,8 @@
         }
       ],
       "stats": {
-        "possession_a": 38.4,
-        "possession_b": 61.6,
+        "possession_a": 37.9,
+        "possession_b": 62.1,
         "shots_a": 2,
         "shots_b": 11,
         "shots_on_a": 0,
@@ -2939,7 +2939,7 @@
         "fouls_a": 8,
         "fouls_b": 15
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "37": {
       "a": 0,
@@ -2995,5 +2995,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T05:56:28.524Z"
+  "updatedAt": "2026-06-21T05:57:29.270Z"
 }
