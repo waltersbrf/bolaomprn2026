@@ -2857,7 +2857,7 @@
     "36": {
       "a": 0,
       "b": 2,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "69",
       "events": [
         {
@@ -2873,6 +2873,14 @@
           "player": "Ayase Ueda",
           "team": "Japão",
           "minute": "31",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Junya Ito",
+          "team": "Japão",
+          "minute": "69",
           "penalty": false,
           "og": false
         }
@@ -2893,15 +2901,23 @@
           "minute": "31",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Junya Ito",
+          "team": "Japão",
+          "minute": "69",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 36.6,
-        "possession_b": 63.4,
+        "possession_a": 36.3,
+        "possession_b": 63.7,
         "shots_a": 2,
-        "shots_b": 8,
+        "shots_b": 9,
         "shots_on_a": 0,
-        "shots_on_b": 3,
+        "shots_on_b": 4,
         "corners_a": 1,
         "corners_b": 4,
         "fouls_a": 7,
@@ -2963,5 +2979,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T05:29:29.698Z"
+  "updatedAt": "2026-06-21T05:29:31.790Z"
 }
