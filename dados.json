@@ -3221,7 +3221,7 @@
       "a": 2,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "82",
+      "minute": "83",
       "events": [
         {
           "type": "yellow_card",
@@ -3370,5 +3370,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-21T23:47:03.727Z"
+  "updatedAt": "2026-06-21T23:47:54.170Z"
 }
