@@ -2800,20 +2800,33 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "37",
-      "events": [],
+      "minute": "39",
+      "events": [
+        {
+          "type": "yellow_card",
+          "player": "Jordy Alcívar",
+          "team": "Equador",
+          "minute": "38"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Leandro Bacuna",
+          "team": "Curaçau",
+          "minute": "39"
+        }
+      ],
       "goals": [],
       "stats": {
-        "possession_a": 73.8,
-        "possession_b": 26.2,
+        "possession_a": 73.6,
+        "possession_b": 26.4,
         "shots_a": 7,
         "shots_b": 4,
         "shots_on_a": 5,
         "shots_on_b": 0,
         "corners_a": 1,
         "corners_b": 0,
-        "fouls_a": 3,
-        "fouls_b": 2
+        "fouls_a": 4,
+        "fouls_b": 3
       },
       "savedToGH": false
     }
@@ -2830,5 +2843,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T00:38:02.238Z"
+  "updatedAt": "2026-06-21T00:39:03.227Z"
 }
