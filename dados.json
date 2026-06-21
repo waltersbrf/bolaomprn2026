@@ -2800,14 +2800,14 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "18",
+      "minute": "19",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 75.6,
-        "possession_b": 24.4,
+        "possession_a": 77.6,
+        "possession_b": 22.4,
         "shots_a": 4,
-        "shots_b": 1,
+        "shots_b": 2,
         "shots_on_a": 3,
         "shots_on_b": 0,
         "corners_a": 1,
@@ -2830,5 +2830,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T00:19:07.279Z"
+  "updatedAt": "2026-06-21T00:20:08.932Z"
 }
