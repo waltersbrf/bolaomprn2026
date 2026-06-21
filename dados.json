@@ -2799,8 +2799,8 @@
     "35": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "56",
+      "status": "IN_PLAY",
+      "minute": "57",
       "events": [
         {
           "type": "yellow_card",
@@ -2819,6 +2819,12 @@
           "player": "Juninho Bacuna",
           "team": "Curaçau",
           "minute": "53"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Livano Comenencia",
+          "team": "Curaçau",
+          "minute": "56"
         }
       ],
       "goals": [],
@@ -2849,5 +2855,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T01:15:27.231Z"
+  "updatedAt": "2026-06-21T01:16:28.218Z"
 }
