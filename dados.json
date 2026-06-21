@@ -2800,12 +2800,12 @@
       "a": 0,
       "b": 0,
       "status": "IN_PLAY",
-      "minute": "6",
+      "minute": "7",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 78.6,
-        "possession_b": 21.4,
+        "possession_a": 76.5,
+        "possession_b": 23.5,
         "shots_a": 1,
         "shots_b": 0,
         "shots_on_a": 1,
@@ -2830,5 +2830,5 @@
     "20260619"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T00:06:21.608Z"
+  "updatedAt": "2026-06-21T00:07:23.237Z"
 }
