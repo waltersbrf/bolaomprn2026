@@ -3181,7 +3181,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "79",
+      "minute": "80",
       "events": [
         {
           "type": "yellow_card",
@@ -3204,8 +3204,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 74.1,
-        "possession_b": 25.9,
+        "possession_a": 72.1,
+        "possession_b": 27.9,
         "shots_a": 17,
         "shots_b": 5,
         "shots_on_a": 6,
@@ -3213,9 +3213,9 @@
         "corners_a": 4,
         "corners_b": 2,
         "fouls_a": 7,
-        "fouls_b": 7
+        "fouls_b": 8
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "39": {
       "a": 0,
@@ -3225,7 +3225,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "40": {
       "a": 0,
@@ -3235,7 +3235,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -3251,28 +3251,5 @@
     "20260620"
   ],
   "adminMsg": null,
-  "analytics": {
-    "visitors": {
-      "56e027d9": {
-        "primeiro_acesso": "2026-06-21T20:45:41.640Z",
-        "ultimo_acesso": "2026-06-21T20:45:41.640Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "São Paulo",
-        "estado": "SP",
-        "pais": "BR",
-        "lat": -23.5475,
-        "lng": -46.6361
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "56e027d9",
-        "ts": "2026-06-21T20:45:41.640Z"
-      }
-    ]
-  },
-  "updatedAt": "2026-06-21T20:45:47.600Z"
+  "updatedAt": "2026-06-21T20:46:06.922Z"
 }
