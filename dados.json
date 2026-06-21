@@ -3251,5 +3251,28 @@
     "20260620"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-21T20:44:03.685Z"
+  "updatedAt": "2026-06-21T20:45:41.743Z",
+  "analytics": {
+    "visitors": {
+      "56e027d9": {
+        "primeiro_acesso": "2026-06-21T20:45:41.640Z",
+        "ultimo_acesso": "2026-06-21T20:45:41.640Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "pais": "BR",
+        "lat": -23.5475,
+        "lng": -46.6361
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "56e027d9",
+        "ts": "2026-06-21T20:45:41.640Z"
+      }
+    ]
+  }
 }
