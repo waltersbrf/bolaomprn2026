@@ -3221,7 +3221,7 @@
       "a": 2,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "72",
+      "minute": "75",
       "events": [
         {
           "type": "yellow_card",
@@ -3309,14 +3309,14 @@
         }
       ],
       "stats": {
-        "possession_a": 67.7,
-        "possession_b": 32.3,
+        "possession_a": 66.9,
+        "possession_b": 33.1,
         "shots_a": 12,
         "shots_b": 6,
         "shots_on_a": 2,
         "shots_on_b": 2,
         "corners_a": 6,
-        "corners_b": 1,
+        "corners_b": 2,
         "fouls_a": 8,
         "fouls_b": 3
       },
@@ -3348,22 +3348,22 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-21T23:35:12.719Z",
-        "ultimo_acesso": "2026-06-21T23:35:12.719Z",
+      "75718768": {
+        "primeiro_acesso": "2026-06-21T10:38:02.910Z",
+        "ultimo_acesso": "2026-06-21T10:38:02.910Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.795,
+        "lng": -35.20944
       },
-      "0ac05a10": {
-        "primeiro_acesso": "2026-06-21T23:28:45.621Z",
-        "ultimo_acesso": "2026-06-21T23:28:45.621Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-21T10:50:26.236Z",
+        "ultimo_acesso": "2026-06-21T10:50:26.236Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -3377,16 +3377,18 @@
     },
     "acessos_log": [
       {
-        "fp": "0ac05a10",
-        "ts": "2026-06-21T23:28:45.621Z",
-        "jogo": "J39"
+        "fp": "b8c24516",
+        "ts": "2026-06-21T10:30:02.481Z"
       },
       {
-        "fp": "22244835",
-        "ts": "2026-06-21T23:35:12.719Z",
-        "jogo": "J39"
+        "fp": "75718768",
+        "ts": "2026-06-21T10:38:02.910Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-21T10:50:26.236Z"
       }
     ]
   },
-  "updatedAt": "2026-06-21T23:38:00.320Z"
+  "updatedAt": "2026-06-21T23:40:42.935Z"
 }
