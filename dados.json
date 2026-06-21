@@ -3081,7 +3081,7 @@
     "37": {
       "a": 4,
       "b": 0,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+8'",
       "events": [
         {
@@ -3164,9 +3164,9 @@
         }
       ],
       "stats": {
-        "possession_a": 66.6,
-        "possession_b": 33.4,
-        "shots_a": 21,
+        "possession_a": 67.1,
+        "possession_b": 32.9,
+        "shots_a": 22,
         "shots_b": 3,
         "shots_on_a": 8,
         "shots_on_b": 1,
@@ -3175,7 +3175,7 @@
         "fouls_a": 10,
         "fouls_b": 2
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "38": {
       "a": 0,
@@ -3276,5 +3276,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-21T18:01:37.234Z"
+  "updatedAt": "2026-06-21T18:02:37.511Z"
 }
