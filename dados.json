@@ -3544,8 +3544,8 @@
         }
       ],
       "stats": {
-        "possession_a": 62.1,
-        "possession_b": 37.9,
+        "possession_a": 61.4,
+        "possession_b": 38.6,
         "shots_a": 7,
         "shots_b": 2,
         "shots_on_a": 1,
@@ -3553,7 +3553,7 @@
         "corners_a": 1,
         "corners_b": 1,
         "fouls_a": 2,
-        "fouls_b": 1
+        "fouls_b": 2
       },
       "savedToGH": true
     },
@@ -3606,32 +3606,14 @@
         "pais": "BR",
         "lat": -7.1712,
         "lng": -34.8617
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-22T21:33:36.762Z",
-        "ultimo_acesso": "2026-06-22T21:33:36.762Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
         "fp": "d5fca25c",
         "ts": "2026-06-22T20:24:56.988Z"
-      },
-      {
-        "fp": "3cb3d598",
-        "ts": "2026-06-22T21:33:36.762Z",
-        "jogo": "J42"
       }
     ]
   },
-  "updatedAt": "2026-06-22T21:41:41.600Z"
+  "updatedAt": "2026-06-22T21:42:04.894Z"
 }
