@@ -3516,22 +3516,39 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "13",
+      "minute": "14",
       "events": [
         {
           "type": "yellow_card",
           "player": "Amir Al-Ammari",
           "team": "Iraque",
           "minute": "6"
+        },
+        {
+          "type": "goal",
+          "player": "Kylian Mbappé",
+          "team": "França",
+          "minute": "14",
+          "penalty": false,
+          "og": false
         }
       ],
-      "goals": [],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Kylian Mbappé",
+          "team": "França",
+          "minute": "14",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 63.1,
-        "possession_b": 36.9,
-        "shots_a": 3,
+        "possession_a": 65.5,
+        "possession_b": 34.5,
+        "shots_a": 6,
         "shots_b": 0,
-        "shots_on_a": 0,
+        "shots_on_a": 1,
         "shots_on_b": 0,
         "corners_a": 1,
         "corners_b": 0,
@@ -3598,5 +3615,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T21:14:05.587Z"
+  "updatedAt": "2026-06-22T21:15:07.005Z"
 }
