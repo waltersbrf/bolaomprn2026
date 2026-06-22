@@ -3300,7 +3300,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "74",
+      "minute": "76",
       "events": [
         {
           "type": "goal",
@@ -3315,6 +3315,18 @@
           "player": "Stefan Posch",
           "team": "Áustria",
           "minute": "40"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Facundo Medina",
+          "team": "Argentina",
+          "minute": "76"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Konrad Laimer",
+          "team": "Áustria",
+          "minute": "76"
         }
       ],
       "goals": [
@@ -3328,8 +3340,8 @@
         }
       ],
       "stats": {
-        "possession_a": 57.8,
-        "possession_b": 42.2,
+        "possession_a": 58.1,
+        "possession_b": 41.9,
         "shots_a": 6,
         "shots_b": 5,
         "shots_on_a": 2,
@@ -3337,7 +3349,7 @@
         "corners_a": 1,
         "corners_b": 2,
         "fouls_a": 10,
-        "fouls_b": 8
+        "fouls_b": 10
       },
       "savedToGH": false
     },
@@ -3386,5 +3398,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T18:39:30.870Z"
+  "updatedAt": "2026-06-22T18:40:32.028Z"
 }
