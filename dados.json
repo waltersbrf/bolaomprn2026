@@ -3555,7 +3555,7 @@
         "fouls_a": 5,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "43": {
       "a": 0,
@@ -3565,7 +3565,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "44": {
       "a": 0,
@@ -3575,7 +3575,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -3594,12 +3594,25 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-22T14:43:26.759Z",
-        "ultimo_acesso": "2026-06-22T19:10:44.609Z",
+      "75718768": {
+        "primeiro_acesso": "2026-06-22T20:50:17.209Z",
+        "ultimo_acesso": "2026-06-22T20:50:17.209Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "pais": "BR",
+        "lat": -3.71722,
+        "lng": -38.54306
+      },
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-22T20:55:01.644Z",
+        "ultimo_acesso": "2026-06-22T20:55:01.644Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -3620,8 +3633,20 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-22T19:10:44.609Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-22T20:33:23.803Z"
+      },
+      {
+        "fp": "75718768",
+        "ts": "2026-06-22T20:50:17.209Z"
+      },
+      {
+        "fp": "42e916ad",
+        "ts": "2026-06-22T20:55:01.644Z"
       }
     ]
   },
-  "updatedAt": "2026-06-22T22:11:25.486Z"
+  "updatedAt": "2026-06-22T22:16:23.984Z"
 }
