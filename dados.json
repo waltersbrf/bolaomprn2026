@@ -3299,16 +3299,34 @@
     "41": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
-      "minute": "38",
-      "events": [],
-      "goals": [],
+      "status": "SCHEDULED",
+      "minute": "39",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "38",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Lionel Messi",
+          "team": "Argentina",
+          "minute": "38",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 55.8,
-        "possession_b": 44.2,
-        "shots_a": 2,
+        "possession_a": 58.5,
+        "possession_b": 41.5,
+        "shots_a": 3,
         "shots_b": 2,
-        "shots_on_a": 1,
+        "shots_on_a": 2,
         "shots_on_b": 0,
         "corners_a": 0,
         "corners_b": 2,
@@ -3362,5 +3380,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T17:39:12.025Z"
+  "updatedAt": "2026-06-22T17:39:43.012Z"
 }
