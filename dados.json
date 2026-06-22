@@ -3300,7 +3300,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "42",
+      "minute": "43",
       "events": [
         {
           "type": "goal",
@@ -3314,7 +3314,7 @@
           "type": "yellow_card",
           "player": "Stefan Posch",
           "team": "Áustria",
-          "minute": "41"
+          "minute": "40"
         }
       ],
       "goals": [
@@ -3386,5 +3386,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T17:42:47.015Z"
+  "updatedAt": "2026-06-22T17:43:48.018Z"
 }
