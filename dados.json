@@ -3300,18 +3300,18 @@
       "a": 0,
       "b": 0,
       "status": "IN_PLAY",
-      "minute": "22",
+      "minute": "23",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 56.2,
-        "possession_b": 43.8,
+        "possession_a": 52.9,
+        "possession_b": 47.1,
         "shots_a": 1,
-        "shots_b": 0,
+        "shots_b": 1,
         "shots_on_a": 0,
         "shots_on_b": 0,
         "corners_a": 0,
-        "corners_b": 0,
+        "corners_b": 1,
         "fouls_a": 3,
         "fouls_b": 4
       },
@@ -3362,5 +3362,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T17:23:52.567Z"
+  "updatedAt": "2026-06-22T17:24:23.319Z"
 }
