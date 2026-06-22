@@ -2584,5 +2584,28 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T14:47:30.764Z"
+  "updatedAt": "2026-06-22T14:47:34.305Z",
+  "analytics": {
+    "visitors": {
+      "4d573831": {
+        "primeiro_acesso": "2026-06-22T14:47:33.779Z",
+        "ultimo_acesso": "2026-06-22T14:47:33.779Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "pais": "BR",
+        "lat": -7.1712,
+        "lng": -34.8617
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "4d573831",
+        "ts": "2026-06-22T14:47:33.779Z"
+      }
+    ]
+  }
 }
