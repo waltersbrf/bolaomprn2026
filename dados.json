@@ -3516,7 +3516,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "26",
+      "minute": "27",
       "events": [
         {
           "type": "yellow_card",
@@ -3544,10 +3544,10 @@
         }
       ],
       "stats": {
-        "possession_a": 66.7,
-        "possession_b": 33.3,
+        "possession_a": 61.8,
+        "possession_b": 38.2,
         "shots_a": 5,
-        "shots_b": 0,
+        "shots_b": 2,
         "shots_on_a": 1,
         "shots_on_b": 0,
         "corners_a": 1,
@@ -3615,5 +3615,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T21:26:49.225Z"
+  "updatedAt": "2026-06-22T21:28:51.227Z"
 }
