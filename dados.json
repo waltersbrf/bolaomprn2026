@@ -3516,7 +3516,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "24",
+      "minute": "25",
       "events": [
         {
           "type": "yellow_card",
@@ -3615,5 +3615,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T21:24:48.181Z"
+  "updatedAt": "2026-06-22T21:25:48.022Z"
 }
