@@ -3299,7 +3299,7 @@
     "41": {
       "a": 1,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "40",
       "events": [
         {
@@ -3322,8 +3322,8 @@
         }
       ],
       "stats": {
-        "possession_a": 58.5,
-        "possession_b": 41.5,
+        "possession_a": 58.4,
+        "possession_b": 41.6,
         "shots_a": 3,
         "shots_b": 2,
         "shots_on_a": 2,
@@ -3380,5 +3380,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T17:40:44.018Z"
+  "updatedAt": "2026-06-22T17:41:15.351Z"
 }
