@@ -3332,7 +3332,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "55",
+      "minute": "56",
       "events": [
         {
           "type": "goal",
@@ -3443,5 +3443,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T02:15:34.463Z"
+  "updatedAt": "2026-06-22T02:16:34.736Z"
 }
