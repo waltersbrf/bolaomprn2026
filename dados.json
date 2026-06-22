@@ -3544,9 +3544,9 @@
         }
       ],
       "stats": {
-        "possession_a": 62.2,
-        "possession_b": 37.8,
-        "shots_a": 5,
+        "possession_a": 63.7,
+        "possession_b": 36.3,
+        "shots_a": 6,
         "shots_b": 2,
         "shots_on_a": 1,
         "shots_on_b": 0,
@@ -3606,14 +3606,32 @@
         "pais": "BR",
         "lat": -7.1712,
         "lng": -34.8617
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-22T21:33:36.762Z",
+        "ultimo_acesso": "2026-06-22T21:33:36.762Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
         "fp": "d5fca25c",
         "ts": "2026-06-22T20:24:56.988Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-22T21:33:36.762Z",
+        "jogo": "J42"
       }
     ]
   },
-  "updatedAt": "2026-06-22T21:33:57.319Z"
+  "updatedAt": "2026-06-22T21:34:33.058Z"
 }
