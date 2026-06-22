@@ -2584,36 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T19:07:24.293Z",
-  "analytics": {
-    "visitors": {
-      "eb4bf39d": {
-        "primeiro_acesso": "2026-06-22T19:07:23.939Z",
-        "ultimo_acesso": "2026-06-22T19:07:23.939Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Linhares",
-        "estado": "ES",
-        "pais": "BR",
-        "lat": -19.39111,
-        "lng": -40.07222
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "e90920e2",
-        "ts": "2026-06-22T14:13:01.498Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-22T14:43:26.759Z"
-      },
-      {
-        "fp": "eb4bf39d",
-        "ts": "2026-06-22T19:07:23.939Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-22T19:10:41.006Z"
 }
