@@ -3515,7 +3515,7 @@
     "42": {
       "a": 1,
       "b": 0,
-      "status": "PAUSED",
+      "status": "SCHEDULED",
       "minute": "45+3'",
       "events": [
         {
@@ -3644,5 +3644,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T23:03:49.711Z"
+  "updatedAt": "2026-06-22T23:06:54.298Z"
 }
