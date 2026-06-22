@@ -2978,8 +2978,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 74.6,
-        "possession_b": 25.4,
+        "possession_a": 74.7,
+        "possession_b": 25.3,
         "shots_a": 27,
         "shots_b": 10,
         "shots_on_a": 15,
@@ -3515,7 +3515,7 @@
     "42": {
       "a": 1,
       "b": 0,
-      "status": "PAUSED",
+      "status": "SCHEDULED",
       "minute": "45+3'",
       "events": [
         {
@@ -3555,7 +3555,7 @@
         "fouls_a": 5,
         "fouls_b": 2
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "43": {
       "a": 0,
@@ -3565,7 +3565,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "44": {
       "a": 0,
@@ -3575,7 +3575,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -3594,59 +3594,44 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "75718768": {
-        "primeiro_acesso": "2026-06-22T20:50:17.209Z",
-        "ultimo_acesso": "2026-06-22T20:50:17.209Z",
+      "d5fca25c": {
+        "primeiro_acesso": "2026-06-22T20:24:56.988Z",
+        "ultimo_acesso": "2026-06-22T20:24:56.988Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Fortaleza",
-        "estado": "CE",
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "João Pessoa",
+        "estado": "PB",
         "pais": "BR",
-        "lat": -3.71722,
-        "lng": -38.54306
+        "lat": -7.1712,
+        "lng": -34.8617
       },
-      "42e916ad": {
-        "primeiro_acesso": "2026-06-22T20:55:01.644Z",
-        "ultimo_acesso": "2026-06-22T20:55:01.644Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-22T21:33:36.762Z",
+        "ultimo_acesso": "2026-06-22T21:33:36.762Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
-        "fp": "e90920e2",
-        "ts": "2026-06-22T14:13:01.498Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-22T14:43:26.759Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-22T19:10:44.609Z"
+        "fp": "d5fca25c",
+        "ts": "2026-06-22T20:24:56.988Z"
       },
       {
         "fp": "3cb3d598",
-        "ts": "2026-06-22T20:33:23.803Z"
-      },
-      {
-        "fp": "75718768",
-        "ts": "2026-06-22T20:50:17.209Z"
-      },
-      {
-        "fp": "42e916ad",
-        "ts": "2026-06-22T20:55:01.644Z"
+        "ts": "2026-06-22T21:33:36.762Z",
+        "jogo": "J42"
       }
     ]
   },
-  "updatedAt": "2026-06-22T22:00:33.876Z"
+  "updatedAt": "2026-06-22T22:07:54.402Z"
 }
