@@ -2978,8 +2978,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 74.7,
-        "possession_b": 25.3,
+        "possession_a": 74.6,
+        "possession_b": 25.4,
         "shots_a": 27,
         "shots_b": 10,
         "shots_on_a": 15,
@@ -3515,7 +3515,7 @@
     "42": {
       "a": 1,
       "b": 0,
-      "status": "SCHEDULED",
+      "status": "PAUSED",
       "minute": "45+3'",
       "events": [
         {
@@ -3605,44 +3605,34 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "d5fca25c": {
-        "primeiro_acesso": "2026-06-22T20:24:56.988Z",
-        "ultimo_acesso": "2026-06-22T20:24:56.988Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-22T14:43:26.759Z",
+        "ultimo_acesso": "2026-06-22T19:10:44.609Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "João Pessoa",
-        "estado": "PB",
-        "pais": "BR",
-        "lat": -7.1712,
-        "lng": -34.8617
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-22T21:33:36.762Z",
-        "ultimo_acesso": "2026-06-22T21:33:36.762Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
       {
-        "fp": "d5fca25c",
-        "ts": "2026-06-22T20:24:56.988Z"
+        "fp": "e90920e2",
+        "ts": "2026-06-22T14:13:01.498Z"
       },
       {
-        "fp": "3cb3d598",
-        "ts": "2026-06-22T21:33:36.762Z",
-        "jogo": "J42"
+        "fp": "f603cb5b",
+        "ts": "2026-06-22T14:43:26.759Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-22T19:10:44.609Z"
       }
     ]
   },
-  "updatedAt": "2026-06-22T23:01:47.420Z"
+  "updatedAt": "2026-06-22T23:03:30.486Z"
 }
