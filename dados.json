@@ -3300,7 +3300,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "51",
+      "minute": "52",
       "events": [
         {
           "type": "goal",
@@ -3337,7 +3337,7 @@
         "corners_a": 0,
         "corners_b": 2,
         "fouls_a": 8,
-        "fouls_b": 6
+        "fouls_b": 7
       },
       "savedToGH": false
     },
@@ -3386,5 +3386,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T18:16:06.373Z"
+  "updatedAt": "2026-06-22T18:17:07.034Z"
 }
