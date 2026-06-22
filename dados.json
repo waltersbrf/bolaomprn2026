@@ -3297,10 +3297,10 @@
       "savedToGH": true
     },
     "41": {
-      "a": 0,
+      "a": 1,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "39",
+      "status": "IN_PLAY",
+      "minute": "40",
       "events": [
         {
           "type": "goal",
@@ -3380,5 +3380,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T17:39:43.012Z"
+  "updatedAt": "2026-06-22T17:40:44.018Z"
 }
