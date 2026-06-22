@@ -3515,13 +3515,20 @@
     "42": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "6",
-      "events": [],
+      "status": "IN_PLAY",
+      "minute": "7",
+      "events": [
+        {
+          "type": "yellow_card",
+          "player": "Amir Al-Ammari",
+          "team": "Iraque",
+          "minute": "6"
+        }
+      ],
       "goals": [],
       "stats": {
-        "possession_a": 57.1,
-        "possession_b": 42.9,
+        "possession_a": 52.7,
+        "possession_b": 47.3,
         "shots_a": 1,
         "shots_b": 0,
         "shots_on_a": 0,
@@ -3529,7 +3536,7 @@
         "corners_a": 0,
         "corners_b": 0,
         "fouls_a": 1,
-        "fouls_b": 0
+        "fouls_b": 1
       },
       "savedToGH": true
     },
@@ -3591,5 +3598,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T21:06:28.228Z"
+  "updatedAt": "2026-06-22T21:07:28.594Z"
 }
