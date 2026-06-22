@@ -3332,7 +3332,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "66",
+      "minute": "67",
       "events": [
         {
           "type": "goal",
@@ -3367,6 +3367,14 @@
           "minute": "58",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mohamed Salah",
+          "team": "Egito",
+          "minute": "67",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -3383,6 +3391,14 @@
           "player": "Mostafa Zico",
           "team": "Egito",
           "minute": "58",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Mohamed Salah",
+          "team": "Egito",
+          "minute": "67",
           "penalty": false,
           "og": false
         }
@@ -3477,5 +3493,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T02:26:56.784Z"
+  "updatedAt": "2026-06-22T02:27:55.572Z"
 }
