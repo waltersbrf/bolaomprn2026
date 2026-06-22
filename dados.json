@@ -2725,6 +2725,143 @@
       },
       "savedToGH": true
     },
+    "33": {
+      "a": 5,
+      "b": 1,
+      "status": "FINISHED",
+      "minute": "90+5'",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Brian Brobbey",
+          "team": "Holanda",
+          "minute": "5",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Brian Brobbey",
+          "team": "Holanda",
+          "minute": "17",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Cody Gakpo",
+          "team": "Holanda",
+          "minute": "47",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Gabriel Gudmundsson",
+          "team": "Suécia",
+          "minute": "53"
+        },
+        {
+          "type": "goal",
+          "player": "Cody Gakpo",
+          "team": "Holanda",
+          "minute": "54",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Anthony Elanga",
+          "team": "Suécia",
+          "minute": "59",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Yasin Ayari",
+          "team": "Suécia",
+          "minute": "75"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Lucas Bergvall",
+          "team": "Suécia",
+          "minute": "80"
+        },
+        {
+          "type": "goal",
+          "player": "Crysencio Summerville",
+          "team": "Holanda",
+          "minute": "89",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Brian Brobbey",
+          "team": "Holanda",
+          "minute": "5",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Brian Brobbey",
+          "team": "Holanda",
+          "minute": "17",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Cody Gakpo",
+          "team": "Holanda",
+          "minute": "47",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Cody Gakpo",
+          "team": "Holanda",
+          "minute": "54",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Anthony Elanga",
+          "team": "Suécia",
+          "minute": "59",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Crysencio Summerville",
+          "team": "Holanda",
+          "minute": "89",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "stats": {
+        "possession_a": 50.9,
+        "possession_b": 49.1,
+        "shots_a": 10,
+        "shots_b": 16,
+        "shots_on_a": 7,
+        "shots_on_b": 8,
+        "corners_a": 2,
+        "corners_b": 5,
+        "fouls_a": 9,
+        "fouls_b": 12
+      },
+      "savedToGH": true
+    },
     "34": {
       "a": 2,
       "b": 1,
@@ -2841,8 +2978,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 74.7,
-        "possession_b": 25.3,
+        "possession_a": 74.6,
+        "possession_b": 25.4,
         "shots_a": 27,
         "shots_b": 10,
         "shots_on_a": 15,
@@ -3178,8 +3315,8 @@
         }
       ],
       "stats": {
-        "possession_a": 65.2,
-        "possession_b": 34.8,
+        "possession_a": 65.3,
+        "possession_b": 34.7,
         "shots_a": 17,
         "shots_b": 12,
         "shots_on_a": 2,
@@ -3283,9 +3420,9 @@
         }
       ],
       "stats": {
-        "possession_a": 44.4,
-        "possession_b": 55.6,
-        "shots_a": 11,
+        "possession_a": 44.3,
+        "possession_b": 55.7,
+        "shots_a": 12,
         "shots_b": 19,
         "shots_on_a": 5,
         "shots_on_b": 7,
@@ -3300,12 +3437,12 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "14",
+      "minute": "15",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 45.7,
-        "possession_b": 54.3,
+        "possession_a": 45.8,
+        "possession_b": 54.2,
         "shots_a": 1,
         "shots_b": 0,
         "shots_on_a": 0,
@@ -3362,5 +3499,29 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T17:15:44.580Z"
+  "analytics": {
+    "visitors": {
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-22T17:15:25.390Z",
+        "ultimo_acesso": "2026-06-22T17:15:25.390Z",
+        "acessos_total": 0,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-22T17:15:25.390Z",
+        "jogo": "J41"
+      }
+    ]
+  },
+  "updatedAt": "2026-06-22T17:16:19.127Z"
 }
