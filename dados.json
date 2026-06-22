@@ -3300,7 +3300,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "44",
+      "minute": "45",
       "events": [
         {
           "type": "goal",
@@ -3328,15 +3328,15 @@
         }
       ],
       "stats": {
-        "possession_a": 58.3,
-        "possession_b": 41.7,
+        "possession_a": 58.8,
+        "possession_b": 41.2,
         "shots_a": 3,
         "shots_b": 2,
         "shots_on_a": 2,
         "shots_on_b": 0,
         "corners_a": 0,
         "corners_b": 2,
-        "fouls_a": 5,
+        "fouls_a": 6,
         "fouls_b": 5
       },
       "savedToGH": false
@@ -3386,5 +3386,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T17:45:20.461Z"
+  "updatedAt": "2026-06-22T17:46:21.014Z"
 }
