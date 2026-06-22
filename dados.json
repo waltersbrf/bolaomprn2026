@@ -3299,8 +3299,8 @@
     "41": {
       "a": 1,
       "b": 0,
-      "status": "PAUSED",
-      "minute": "45+7'",
+      "status": "SCHEDULED",
+      "minute": "46",
       "events": [
         {
           "type": "goal",
@@ -3386,5 +3386,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T18:10:00.758Z"
+  "updatedAt": "2026-06-22T18:10:30.015Z"
 }
