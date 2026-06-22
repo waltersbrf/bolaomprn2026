@@ -2978,8 +2978,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 74.6,
-        "possession_b": 25.4,
+        "possession_a": 74.7,
+        "possession_b": 25.3,
         "shots_a": 27,
         "shots_b": 10,
         "shots_on_a": 15,
@@ -3516,7 +3516,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "36",
+      "minute": "37",
       "events": [
         {
           "type": "yellow_card",
@@ -3594,34 +3594,44 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-22T14:43:26.759Z",
-        "ultimo_acesso": "2026-06-22T19:10:44.609Z",
+      "d5fca25c": {
+        "primeiro_acesso": "2026-06-22T20:24:56.988Z",
+        "ultimo_acesso": "2026-06-22T20:24:56.988Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "pais": "BR",
+        "lat": -7.1712,
+        "lng": -34.8617
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-22T21:33:36.762Z",
+        "ultimo_acesso": "2026-06-22T21:33:36.762Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
-        "fp": "e90920e2",
-        "ts": "2026-06-22T14:13:01.498Z"
+        "fp": "d5fca25c",
+        "ts": "2026-06-22T20:24:56.988Z"
       },
       {
-        "fp": "f603cb5b",
-        "ts": "2026-06-22T14:43:26.759Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-22T19:10:44.609Z"
+        "fp": "3cb3d598",
+        "ts": "2026-06-22T21:33:36.762Z",
+        "jogo": "J42"
       }
     ]
   },
-  "updatedAt": "2026-06-22T21:37:06.015Z"
+  "updatedAt": "2026-06-22T21:37:37.356Z"
 }
