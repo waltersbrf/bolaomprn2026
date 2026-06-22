@@ -3299,8 +3299,8 @@
     "41": {
       "a": 1,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "40",
+      "status": "IN_PLAY",
+      "minute": "41",
       "events": [
         {
           "type": "goal",
@@ -3309,6 +3309,12 @@
           "minute": "38",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Stefan Posch",
+          "team": "Áustria",
+          "minute": "40"
         }
       ],
       "goals": [
@@ -3380,5 +3386,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T17:41:15.351Z"
+  "updatedAt": "2026-06-22T17:42:16.026Z"
 }
