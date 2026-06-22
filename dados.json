@@ -3513,10 +3513,10 @@
       "savedToGH": true
     },
     "42": {
-      "a": 0,
+      "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "14",
+      "minute": "15",
       "events": [
         {
           "type": "yellow_card",
@@ -3615,5 +3615,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T21:15:07.005Z"
+  "updatedAt": "2026-06-22T21:16:07.610Z"
 }
