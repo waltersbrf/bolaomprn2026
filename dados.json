@@ -3299,8 +3299,8 @@
     "41": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "36",
+      "status": "IN_PLAY",
+      "minute": "37",
       "events": [],
       "goals": [],
       "stats": {
@@ -3362,5 +3362,5 @@
     "20260621"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T17:37:40.388Z"
+  "updatedAt": "2026-06-22T17:38:41.016Z"
 }
