@@ -2584,5 +2584,43 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-22T22:55:11.400Z"
+  "updatedAt": "2026-06-22T22:55:15.013Z",
+  "analytics": {
+    "visitors": {
+      "27b9f8d1": {
+        "primeiro_acesso": "2026-06-22T22:55:14.712Z",
+        "ultimo_acesso": "2026-06-22T22:55:14.712Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Parnamirim",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.9252,
+        "lng": -35.205
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "42e916ad",
+        "ts": "2026-06-22T22:16:32.619Z",
+        "jogo": "J42"
+      },
+      {
+        "fp": "b8c24516",
+        "ts": "2026-06-22T22:18:50.778Z",
+        "jogo": "J42"
+      },
+      {
+        "fp": "6335f0b1",
+        "ts": "2026-06-22T22:34:41.960Z",
+        "jogo": "J42"
+      },
+      {
+        "fp": "27b9f8d1",
+        "ts": "2026-06-22T22:55:14.712Z"
+      }
+    ]
+  }
 }
