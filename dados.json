@@ -3606,32 +3606,14 @@
         "pais": "BR",
         "lat": -7.1712,
         "lng": -34.8617
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-22T21:33:36.762Z",
-        "ultimo_acesso": "2026-06-22T21:33:36.762Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
         "fp": "d5fca25c",
         "ts": "2026-06-22T20:24:56.988Z"
-      },
-      {
-        "fp": "3cb3d598",
-        "ts": "2026-06-22T21:33:36.762Z",
-        "jogo": "J42"
       }
     ]
   },
-  "updatedAt": "2026-06-22T22:07:54.402Z"
+  "updatedAt": "2026-06-22T22:08:17.815Z"
 }
