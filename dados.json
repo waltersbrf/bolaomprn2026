@@ -3331,7 +3331,7 @@
     "40": {
       "a": 1,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "62",
       "events": [
         {
@@ -3459,5 +3459,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-22T02:22:13.332Z"
+  "updatedAt": "2026-06-22T02:22:43.981Z"
 }
