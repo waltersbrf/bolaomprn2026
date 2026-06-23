@@ -3703,12 +3703,25 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "42e916ad": {
-        "primeiro_acesso": "2026-06-22T23:23:46.494Z",
-        "ultimo_acesso": "2026-06-22T23:23:46.494Z",
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-23T01:12:58.751Z",
+        "ultimo_acesso": "2026-06-23T01:12:58.751Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      },
+      "3b3cffe9": {
+        "primeiro_acesso": "2026-06-23T01:16:55.597Z",
+        "ultimo_acesso": "2026-06-23T01:16:55.597Z",
+        "acessos_total": 1,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -3733,8 +3746,23 @@
       {
         "fp": "42e916ad",
         "ts": "2026-06-22T23:23:46.494Z"
+      },
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-23T00:21:00.684Z",
+        "jogo": "J43"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-23T01:12:58.751Z",
+        "jogo": "J43"
+      },
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-23T01:16:55.597Z",
+        "jogo": "J43"
       }
     ]
   },
-  "updatedAt": "2026-06-23T01:17:28.895Z"
+  "updatedAt": "2026-06-23T01:17:56.856Z"
 }
