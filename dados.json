@@ -3894,7 +3894,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "84",
+      "minute": "85",
       "events": [
         {
           "type": "yellow_card",
@@ -3920,7 +3920,7 @@
         "corners_a": 5,
         "corners_b": 2,
         "fouls_a": 11,
-        "fouls_b": 22
+        "fouls_b": 23
       },
       "savedToGH": true
     },
@@ -4026,5 +4026,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T21:47:39.233Z"
+  "updatedAt": "2026-06-23T21:48:39.914Z"
 }
