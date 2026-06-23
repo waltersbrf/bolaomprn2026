@@ -3843,7 +3843,7 @@
         "possession_b": 34.4,
         "shots_a": 9,
         "shots_b": 3,
-        "shots_on_a": 3,
+        "shots_on_a": 4,
         "shots_on_b": 1,
         "corners_a": 1,
         "corners_b": 0,
@@ -3964,5 +3964,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T17:59:37.302Z"
+  "updatedAt": "2026-06-23T18:01:10.250Z"
 }
