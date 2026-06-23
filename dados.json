@@ -3516,7 +3516,7 @@
       "a": 3,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "72",
+      "minute": "74",
       "events": [
         {
           "type": "yellow_card",
@@ -3576,14 +3576,14 @@
         }
       ],
       "stats": {
-        "possession_a": 57.2,
-        "possession_b": 42.8,
+        "possession_a": 57.4,
+        "possession_b": 42.6,
         "shots_a": 16,
-        "shots_b": 2,
+        "shots_b": 3,
         "shots_on_a": 4,
         "shots_on_b": 0,
         "corners_a": 3,
-        "corners_b": 1,
+        "corners_b": 2,
         "fouls_a": 7,
         "fouls_b": 4
       },
@@ -3592,15 +3592,15 @@
     "43": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "28",
+      "status": "IN_PLAY",
+      "minute": "30",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 39.2,
-        "possession_b": 60.8,
+        "possession_a": 43.1,
+        "possession_b": 56.9,
         "shots_a": 3,
-        "shots_b": 2,
+        "shots_b": 3,
         "shots_on_a": 1,
         "shots_on_b": 0,
         "corners_a": 4,
@@ -3637,31 +3637,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "42e916ad": {
-        "primeiro_acesso": "2026-06-22T23:23:46.494Z",
-        "ultimo_acesso": "2026-06-22T23:23:46.494Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-23T00:26:27.080Z",
+        "ultimo_acesso": "2026-06-23T00:26:27.080Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      },
-      "3b3cffe9": {
-        "primeiro_acesso": "2026-06-23T00:21:00.684Z",
-        "ultimo_acesso": "2026-06-23T00:21:00.684Z",
-        "acessos_total": 1,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
       }
     },
     "acessos_log": [
@@ -3682,11 +3669,11 @@
         "ts": "2026-06-22T23:23:46.494Z"
       },
       {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-23T00:21:00.684Z",
+        "fp": "c3622db8",
+        "ts": "2026-06-23T00:26:27.080Z",
         "jogo": "J43"
       }
     ]
   },
-  "updatedAt": "2026-06-23T00:27:44.311Z"
+  "updatedAt": "2026-06-23T00:29:47.955Z"
 }
