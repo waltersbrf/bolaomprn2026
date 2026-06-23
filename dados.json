@@ -3893,8 +3893,8 @@
     "46": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "31",
+      "status": "IN_PLAY",
+      "minute": "32",
       "events": [],
       "goals": [],
       "stats": {
@@ -4013,5 +4013,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T20:30:50.403Z"
+  "updatedAt": "2026-06-23T20:31:51.190Z"
 }
