@@ -3927,7 +3927,7 @@
     "47": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "25",
       "events": [],
       "goals": [],
@@ -3973,9 +3973,9 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "38528ef0": {
-        "primeiro_acesso": "2026-06-23T22:34:59.515Z",
-        "ultimo_acesso": "2026-06-23T22:34:59.515Z",
+      "3b3cffe9": {
+        "primeiro_acesso": "2026-06-23T22:25:20.748Z",
+        "ultimo_acesso": "2026-06-23T22:25:20.748Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -4044,14 +4044,10 @@
         "ts": "2026-06-23T22:22:21.298Z"
       },
       {
-        "fp": "88522cd8",
-        "ts": "2026-06-23T22:29:38.573Z"
-      },
-      {
-        "fp": "38528ef0",
-        "ts": "2026-06-23T22:34:59.515Z"
+        "fp": "3b3cffe9",
+        "ts": "2026-06-23T22:25:20.748Z"
       }
     ]
   },
-  "updatedAt": "2026-06-23T23:25:41.357Z"
+  "updatedAt": "2026-06-23T23:25:48.027Z"
 }
