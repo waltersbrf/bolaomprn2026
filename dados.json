@@ -3927,8 +3927,8 @@
     "47": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "24",
+      "status": "IN_PLAY",
+      "minute": "25",
       "events": [],
       "goals": [],
       "stats": {
@@ -3973,18 +3973,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-23T17:13:35.999Z",
-        "ultimo_acesso": "2026-06-23T17:13:35.999Z",
+      "53490cda": {
+        "primeiro_acesso": "2026-06-23T23:22:22.389Z",
+        "ultimo_acesso": "2026-06-23T23:22:22.389Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4034,8 +4034,13 @@
         "fp": "3cb3d598",
         "ts": "2026-06-23T17:13:35.999Z",
         "jogo": "J45"
+      },
+      {
+        "fp": "53490cda",
+        "ts": "2026-06-23T23:22:22.389Z",
+        "jogo": "J47"
       }
     ]
   },
-  "updatedAt": "2026-06-23T23:24:52.468Z"
+  "updatedAt": "2026-06-23T23:25:21.018Z"
 }
