@@ -3516,7 +3516,7 @@
       "a": 3,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "87",
+      "minute": "88",
       "events": [
         {
           "type": "yellow_card",
@@ -3592,7 +3592,7 @@
     "43": {
       "a": 1,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "44",
       "events": [
         {
@@ -3706,5 +3706,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T00:44:05.780Z"
+  "updatedAt": "2026-06-23T00:44:34.693Z"
 }
