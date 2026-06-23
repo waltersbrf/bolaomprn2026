@@ -2584,7 +2584,7 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-23T13:31:10.910Z",
+  "updatedAt": "2026-06-23T13:58:07.277Z",
   "analytics": {
     "visitors": {
       "53490cda": {
@@ -2599,6 +2599,19 @@
         "pais": "?",
         "lat": null,
         "lng": null
+      },
+      "4bfeccac": {
+        "primeiro_acesso": "2026-06-23T13:57:01.885Z",
+        "ultimo_acesso": "2026-06-23T13:57:01.885Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "pais": "BR",
+        "lat": -7.1712,
+        "lng": -34.8617
       }
     },
     "acessos_log": [
@@ -2635,6 +2648,10 @@
       {
         "fp": "53490cda",
         "ts": "2026-06-23T13:31:10.376Z"
+      },
+      {
+        "fp": "4bfeccac",
+        "ts": "2026-06-23T13:57:01.885Z"
       }
     ]
   }
