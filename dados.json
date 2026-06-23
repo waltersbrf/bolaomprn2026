@@ -3928,7 +3928,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "6",
+      "minute": "7",
       "events": [],
       "goals": [],
       "stats": {
@@ -4037,5 +4037,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T23:06:29.107Z"
+  "updatedAt": "2026-06-23T23:07:29.894Z"
 }
