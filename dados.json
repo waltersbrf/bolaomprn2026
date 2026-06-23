@@ -3850,7 +3850,7 @@
         "fouls_a": 6,
         "fouls_b": 7
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "46": {
       "a": 0,
@@ -3860,7 +3860,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "47": {
       "a": 0,
@@ -3870,7 +3870,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "48": {
       "a": 0,
@@ -3880,7 +3880,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -3900,30 +3900,69 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-23T05:48:13.460Z",
-        "ultimo_acesso": "2026-06-23T05:48:13.460Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-23T17:13:35.999Z",
+        "ultimo_acesso": "2026-06-23T17:13:35.999Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
-        "fp": "0ac05a10",
-        "ts": "2026-06-23T05:00:50.483Z"
+        "fp": "e90920e2",
+        "ts": "2026-06-22T14:13:01.498Z"
       },
       {
         "fp": "f603cb5b",
-        "ts": "2026-06-23T05:48:13.460Z"
+        "ts": "2026-06-22T14:43:26.759Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-22T19:10:44.609Z"
+      },
+      {
+        "fp": "42e916ad",
+        "ts": "2026-06-22T23:23:46.494Z"
+      },
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-23T00:21:00.684Z",
+        "jogo": "J43"
+      },
+      {
+        "fp": "38fb5c9c",
+        "ts": "2026-06-23T00:22:48.828Z",
+        "jogo": "J43"
+      },
+      {
+        "fp": "4d573831",
+        "ts": "2026-06-23T11:31:38.648Z"
+      },
+      {
+        "fp": "53490cda",
+        "ts": "2026-06-23T13:31:10.376Z"
+      },
+      {
+        "fp": "4bfeccac",
+        "ts": "2026-06-23T13:57:01.885Z"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-23T15:37:18.296Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-23T17:13:35.999Z",
+        "jogo": "J45"
       }
     ]
   },
-  "updatedAt": "2026-06-23T17:47:44.261Z"
+  "updatedAt": "2026-06-23T17:48:09.165Z"
 }
