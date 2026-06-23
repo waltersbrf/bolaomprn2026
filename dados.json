@@ -3943,7 +3943,7 @@
         "fouls_a": 2,
         "fouls_b": 4
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "48": {
       "a": 0,
@@ -3953,7 +3953,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -3973,9 +3973,9 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "53490cda": {
-        "primeiro_acesso": "2026-06-23T23:22:22.389Z",
-        "ultimo_acesso": "2026-06-23T23:22:22.389Z",
+      "38528ef0": {
+        "primeiro_acesso": "2026-06-23T22:34:59.515Z",
+        "ultimo_acesso": "2026-06-23T22:34:59.515Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -4036,11 +4036,22 @@
         "jogo": "J45"
       },
       {
-        "fp": "53490cda",
-        "ts": "2026-06-23T23:22:22.389Z",
-        "jogo": "J47"
+        "fp": "f603cb5b",
+        "ts": "2026-06-23T21:51:18.797Z"
+      },
+      {
+        "fp": "22244835",
+        "ts": "2026-06-23T22:22:21.298Z"
+      },
+      {
+        "fp": "88522cd8",
+        "ts": "2026-06-23T22:29:38.573Z"
+      },
+      {
+        "fp": "38528ef0",
+        "ts": "2026-06-23T22:34:59.515Z"
       }
     ]
   },
-  "updatedAt": "2026-06-23T23:25:21.018Z"
+  "updatedAt": "2026-06-23T23:25:41.357Z"
 }
