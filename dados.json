@@ -3778,8 +3778,8 @@
     "45": {
       "a": 1,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "16",
+      "status": "IN_PLAY",
+      "minute": "17",
       "events": [
         {
           "type": "goal",
@@ -3868,18 +3868,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "42e916ad": {
-        "primeiro_acesso": "2026-06-23T17:08:56.015Z",
-        "ultimo_acesso": "2026-06-23T17:08:56.015Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-23T17:13:35.999Z",
+        "ultimo_acesso": "2026-06-23T17:13:35.999Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -3926,11 +3926,11 @@
         "ts": "2026-06-23T15:37:18.296Z"
       },
       {
-        "fp": "42e916ad",
-        "ts": "2026-06-23T17:08:56.015Z",
+        "fp": "3cb3d598",
+        "ts": "2026-06-23T17:13:35.999Z",
         "jogo": "J45"
       }
     ]
   },
-  "updatedAt": "2026-06-23T17:16:52.655Z"
+  "updatedAt": "2026-06-23T17:17:05.630Z"
 }
