@@ -3593,7 +3593,7 @@
       "a": 3,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "63",
+      "minute": "64",
       "events": [
         {
           "type": "goal",
@@ -3674,7 +3674,7 @@
         "fouls_a": 7,
         "fouls_b": 1
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "44": {
       "a": 0,
@@ -3703,18 +3703,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "13c4181d": {
-        "primeiro_acesso": "2026-06-23T01:21:31.832Z",
-        "ultimo_acesso": "2026-06-23T01:21:31.832Z",
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-23T01:12:58.751Z",
+        "ultimo_acesso": "2026-06-23T01:12:58.751Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
+        "dispositivo": "Android",
+        "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "Piraju",
-        "estado": "SP",
-        "pais": "BR",
-        "lat": -23.19361,
-        "lng": -49.38389
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -3743,13 +3743,8 @@
         "fp": "0ac05a10",
         "ts": "2026-06-23T01:12:58.751Z",
         "jogo": "J43"
-      },
-      {
-        "fp": "13c4181d",
-        "ts": "2026-06-23T01:21:31.832Z",
-        "jogo": "J43"
       }
     ]
   },
-  "updatedAt": "2026-06-23T01:22:28.315Z"
+  "updatedAt": "2026-06-23T01:22:53.799Z"
 }
