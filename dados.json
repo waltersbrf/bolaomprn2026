@@ -3592,8 +3592,8 @@
     "43": {
       "a": 3,
       "b": 1,
-      "status": "SCHEDULED",
-      "minute": "69",
+      "status": "IN_PLAY",
+      "minute": "70",
       "events": [
         {
           "type": "goal",
@@ -3703,10 +3703,23 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-23T01:23:48.876Z",
-        "ultimo_acesso": "2026-06-23T01:23:48.876Z",
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-23T01:12:58.751Z",
+        "ultimo_acesso": "2026-06-23T01:12:58.751Z",
         "acessos_total": 0,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      },
+      "3b3cffe9": {
+        "primeiro_acesso": "2026-06-23T01:16:55.597Z",
+        "ultimo_acesso": "2026-06-23T01:26:48.804Z",
+        "acessos_total": 2,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
@@ -3745,11 +3758,16 @@
         "jogo": "J43"
       },
       {
-        "fp": "22244835",
-        "ts": "2026-06-23T01:23:48.876Z",
+        "fp": "3b3cffe9",
+        "ts": "2026-06-23T01:16:55.597Z",
+        "jogo": "J43"
+      },
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-23T01:26:48.804Z",
         "jogo": "J43"
       }
     ]
   },
-  "updatedAt": "2026-06-23T01:28:30.034Z"
+  "updatedAt": "2026-06-23T01:28:56.689Z"
 }
