@@ -3914,7 +3914,7 @@
         "corners_a": 3,
         "corners_b": 1,
         "fouls_a": 9,
-        "fouls_b": 9
+        "fouls_b": 10
       },
       "savedToGH": true
     },
@@ -4020,5 +4020,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T21:14:20.224Z"
+  "updatedAt": "2026-06-23T21:15:20.875Z"
 }
