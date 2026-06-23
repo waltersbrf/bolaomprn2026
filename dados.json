@@ -3779,7 +3779,7 @@
       "a": 4,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "60",
+      "minute": "61",
       "events": [
         {
           "type": "goal",
@@ -3857,12 +3857,12 @@
       "stats": {
         "possession_a": 64.7,
         "possession_b": 35.3,
-        "shots_a": 11,
+        "shots_a": 12,
         "shots_b": 5,
         "shots_on_a": 5,
         "shots_on_b": 2,
         "corners_a": 2,
-        "corners_b": 1,
+        "corners_b": 2,
         "fouls_a": 9,
         "fouls_b": 9
       },
@@ -3916,18 +3916,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "0ac05a10": {
-        "primeiro_acesso": "2026-06-23T15:37:18.296Z",
-        "ultimo_acesso": "2026-06-23T15:37:18.296Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-23T17:13:35.999Z",
+        "ultimo_acesso": "2026-06-23T17:13:35.999Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -3972,8 +3972,13 @@
       {
         "fp": "0ac05a10",
         "ts": "2026-06-23T15:37:18.296Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-23T17:13:35.999Z",
+        "jogo": "J45"
       }
     ]
   },
-  "updatedAt": "2026-06-23T18:24:47.495Z"
+  "updatedAt": "2026-06-23T18:25:14.413Z"
 }
