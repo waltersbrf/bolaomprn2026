@@ -3590,7 +3590,7 @@
       "savedToGH": true
     },
     "43": {
-      "a": 2,
+      "a": 3,
       "b": 1,
       "status": "SCHEDULED",
       "minute": "58",
@@ -3663,11 +3663,11 @@
         }
       ],
       "stats": {
-        "possession_a": 46.2,
-        "possession_b": 53.8,
-        "shots_a": 9,
+        "possession_a": 46.4,
+        "possession_b": 53.6,
+        "shots_a": 10,
         "shots_b": 9,
-        "shots_on_a": 5,
+        "shots_on_a": 6,
         "shots_on_b": 3,
         "corners_a": 4,
         "corners_b": 1,
@@ -3736,5 +3736,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T01:17:22.167Z"
+  "updatedAt": "2026-06-23T01:17:28.895Z"
 }
