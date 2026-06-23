@@ -3778,8 +3778,8 @@
     "45": {
       "a": 3,
       "b": 0,
-      "status": "PAUSED",
-      "minute": "45+6'",
+      "status": "SCHEDULED",
+      "minute": "46",
       "events": [
         {
           "type": "goal",
@@ -3912,19 +3912,6 @@
         "pais": "BR",
         "lat": -5.8111,
         "lng": -35.2235
-      },
-      "3b3cffe9": {
-        "primeiro_acesso": "2026-06-23T17:20:07.385Z",
-        "ultimo_acesso": "2026-06-23T17:20:07.385Z",
-        "acessos_total": 1,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
       }
     },
     "acessos_log": [
@@ -3974,13 +3961,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-23T17:13:35.999Z",
         "jogo": "J45"
-      },
-      {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-23T17:20:07.385Z",
-        "jogo": "J45"
       }
     ]
   },
-  "updatedAt": "2026-06-23T18:08:07.446Z"
+  "updatedAt": "2026-06-23T18:09:58.748Z"
 }
