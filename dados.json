@@ -3593,7 +3593,7 @@
       "a": 3,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "90+1'",
+      "minute": "88",
       "events": [
         {
           "type": "goal",
@@ -3665,13 +3665,13 @@
       "stats": {
         "possession_a": 44.4,
         "possession_b": 55.6,
-        "shots_a": 13,
+        "shots_a": 11,
         "shots_b": 12,
-        "shots_on_a": 7,
+        "shots_on_a": 6,
         "shots_on_b": 3,
-        "corners_a": 5,
+        "corners_a": 4,
         "corners_b": 2,
-        "fouls_a": 11,
+        "fouls_a": 9,
         "fouls_b": 4
       },
       "savedToGH": true
@@ -3732,5 +3732,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T01:50:42.624Z"
+  "updatedAt": "2026-06-23T01:51:43.362Z"
 }
