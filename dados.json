@@ -3592,8 +3592,8 @@
     "43": {
       "a": 3,
       "b": 2,
-      "status": "SCHEDULED",
-      "minute": "90+8'",
+      "status": "FINISHED",
+      "minute": "90+10'",
       "events": [
         {
           "type": "goal",
@@ -3679,14 +3679,14 @@
         }
       ],
       "stats": {
-        "possession_a": 42.5,
-        "possession_b": 57.5,
+        "possession_a": 41.7,
+        "possession_b": 58.3,
         "shots_a": 13,
-        "shots_b": 14,
+        "shots_b": 16,
         "shots_on_a": 7,
         "shots_on_b": 4,
         "corners_a": 5,
-        "corners_b": 3,
+        "corners_b": 4,
         "fouls_a": 13,
         "fouls_b": 5
       },
@@ -3719,12 +3719,12 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "0ac05a10": {
-        "primeiro_acesso": "2026-06-23T01:52:30.917Z",
-        "ultimo_acesso": "2026-06-23T01:52:30.917Z",
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-22T23:23:46.494Z",
+        "ultimo_acesso": "2026-06-22T23:23:46.494Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -3747,10 +3747,10 @@
         "ts": "2026-06-22T19:10:44.609Z"
       },
       {
-        "fp": "0ac05a10",
-        "ts": "2026-06-23T01:52:30.917Z"
+        "fp": "42e916ad",
+        "ts": "2026-06-22T23:23:46.494Z"
       }
     ]
   },
-  "updatedAt": "2026-06-23T01:57:45.005Z"
+  "updatedAt": "2026-06-23T02:00:50.378Z"
 }
