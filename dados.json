@@ -3777,9 +3777,9 @@
     },
     "45": {
       "a": 2,
-      "b": 0,
+      "b": 1,
       "status": "SCHEDULED",
-      "minute": "29",
+      "minute": "30",
       "events": [
         {
           "type": "goal",
@@ -3802,6 +3802,14 @@
           "minute": "17",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Azizjon Ganiev",
+          "team": "Uzbequistão",
+          "minute": "29",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -3820,18 +3828,26 @@
           "minute": "17",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Azizjon Ganiev",
+          "team": "Uzbequistão",
+          "minute": "29",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 73,
-        "possession_b": 27,
+        "possession_a": 71.8,
+        "possession_b": 28.2,
         "shots_a": 6,
-        "shots_b": 1,
+        "shots_b": 2,
         "shots_on_a": 2,
-        "shots_on_b": 1,
+        "shots_on_b": 2,
         "corners_a": 1,
         "corners_b": 0,
-        "fouls_a": 2,
+        "fouls_a": 3,
         "fouls_b": 5
       },
       "savedToGH": true
@@ -3948,5 +3964,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T17:29:17.963Z"
+  "updatedAt": "2026-06-23T17:30:19.315Z"
 }
