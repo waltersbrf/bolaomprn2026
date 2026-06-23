@@ -3928,12 +3928,12 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "29",
+      "minute": "30",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 39.9,
-        "possession_b": 60.1,
+        "possession_a": 39.8,
+        "possession_b": 60.2,
         "shots_a": 1,
         "shots_b": 1,
         "shots_on_a": 1,
@@ -4037,5 +4037,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T23:29:56.221Z"
+  "updatedAt": "2026-06-23T23:30:56.939Z"
 }
