@@ -3778,7 +3778,7 @@
     "45": {
       "a": 5,
       "b": 0,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+6'",
       "events": [
         {
@@ -4002,5 +4002,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T18:59:49.268Z"
+  "updatedAt": "2026-06-23T19:00:48.903Z"
 }
