@@ -3315,8 +3315,8 @@
         }
       ],
       "stats": {
-        "possession_a": 65.2,
-        "possession_b": 34.8,
+        "possession_a": 65.3,
+        "possession_b": 34.7,
         "shots_a": 17,
         "shots_b": 12,
         "shots_on_a": 2,
@@ -3420,9 +3420,9 @@
         }
       ],
       "stats": {
-        "possession_a": 44.4,
-        "possession_b": 55.6,
-        "shots_a": 11,
+        "possession_a": 44.3,
+        "possession_b": 55.7,
+        "shots_a": 12,
         "shots_b": 19,
         "shots_on_a": 5,
         "shots_on_b": 7,
@@ -3592,7 +3592,7 @@
     "43": {
       "a": 1,
       "b": 0,
-      "status": "SCHEDULED",
+      "status": "PAUSED",
       "minute": "45+4'",
       "events": [
         {
@@ -3626,7 +3626,7 @@
         "fouls_a": 6,
         "fouls_b": 1
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "44": {
       "a": 0,
@@ -3636,7 +3636,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -3655,9 +3655,9 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "625face4": {
-        "primeiro_acesso": "2026-06-23T00:15:47.652Z",
-        "ultimo_acesso": "2026-06-23T00:15:47.652Z",
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-23T00:41:33.591Z",
+        "ultimo_acesso": "2026-06-23T00:41:33.591Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -3671,27 +3671,11 @@
     },
     "acessos_log": [
       {
-        "fp": "e90920e2",
-        "ts": "2026-06-22T14:13:01.498Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-22T14:43:26.759Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-22T19:10:44.609Z"
-      },
-      {
-        "fp": "42e916ad",
-        "ts": "2026-06-22T23:23:46.494Z"
-      },
-      {
-        "fp": "625face4",
-        "ts": "2026-06-23T00:15:47.652Z",
+        "fp": "0ac05a10",
+        "ts": "2026-06-23T00:41:33.591Z",
         "jogo": "J43"
       }
     ]
   },
-  "updatedAt": "2026-06-23T00:50:14.237Z"
+  "updatedAt": "2026-06-23T00:50:28.145Z"
 }
