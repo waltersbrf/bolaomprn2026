@@ -3934,7 +3934,7 @@
       "stats": {
         "possession_a": 41.6,
         "possession_b": 58.4,
-        "shots_a": 2,
+        "shots_a": 1,
         "shots_b": 1,
         "shots_on_a": 1,
         "shots_on_b": 0,
@@ -3973,18 +3973,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "53490cda": {
-        "primeiro_acesso": "2026-06-23T23:22:22.389Z",
-        "ultimo_acesso": "2026-06-23T23:22:22.389Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-23T17:13:35.999Z",
+        "ultimo_acesso": "2026-06-23T17:13:35.999Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4034,13 +4034,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-23T17:13:35.999Z",
         "jogo": "J45"
-      },
-      {
-        "fp": "53490cda",
-        "ts": "2026-06-23T23:22:22.389Z",
-        "jogo": "J47"
       }
     ]
   },
-  "updatedAt": "2026-06-23T23:24:21.409Z"
+  "updatedAt": "2026-06-23T23:24:52.468Z"
 }
