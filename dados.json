@@ -3513,10 +3513,10 @@
       "savedToGH": true
     },
     "42": {
-      "a": 1,
+      "a": 2,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "50",
+      "minute": "58",
       "events": [
         {
           "type": "yellow_card",
@@ -3531,6 +3531,14 @@
           "minute": "14",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Kylian Mbappé",
+          "team": "França",
+          "minute": "54",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -3541,42 +3549,50 @@
           "minute": "14",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Kylian Mbappé",
+          "team": "França",
+          "minute": "54",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 58.1,
-        "possession_b": 41.9,
-        "shots_a": 7,
+        "possession_a": 55.6,
+        "possession_b": 44.4,
+        "shots_a": 9,
         "shots_b": 2,
-        "shots_on_a": 1,
+        "shots_on_a": 2,
         "shots_on_b": 0,
         "corners_a": 1,
         "corners_b": 1,
         "fouls_a": 5,
-        "fouls_b": 2
+        "fouls_b": 3
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "43": {
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "6",
+      "minute": "14",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 96.6,
-        "possession_b": 3.4,
+        "possession_a": 53.9,
+        "possession_b": 46.1,
         "shots_a": 2,
-        "shots_b": 0,
+        "shots_b": 1,
         "shots_on_a": 1,
         "shots_on_b": 0,
         "corners_a": 4,
         "corners_b": 0,
-        "fouls_a": 0,
-        "fouls_b": 0
+        "fouls_a": 1,
+        "fouls_b": 1
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "44": {
       "a": 0,
@@ -3586,7 +3602,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -3605,18 +3621,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "a2130edf": {
-        "primeiro_acesso": "2026-06-23T00:05:15.948Z",
-        "ultimo_acesso": "2026-06-23T00:05:15.948Z",
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-22T23:23:46.494Z",
+        "ultimo_acesso": "2026-06-22T23:23:46.494Z",
         "acessos_total": 0,
         "dispositivo": "iOS",
         "navegador": "Safari",
         "tipo": "Mobile",
-        "cidade": "Fortaleza",
-        "estado": "CE",
-        "pais": "BR",
-        "lat": -3.71722,
-        "lng": -38.54306
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -3635,13 +3651,8 @@
       {
         "fp": "42e916ad",
         "ts": "2026-06-22T23:23:46.494Z"
-      },
-      {
-        "fp": "a2130edf",
-        "ts": "2026-06-23T00:05:15.948Z",
-        "jogo": "J43"
       }
     ]
   },
-  "updatedAt": "2026-06-23T00:06:12.805Z"
+  "updatedAt": "2026-06-23T00:14:02.472Z"
 }
