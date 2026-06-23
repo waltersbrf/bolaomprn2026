@@ -3894,19 +3894,25 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "59",
+      "minute": "60",
       "events": [
         {
           "type": "yellow_card",
           "player": "Declan Rice",
           "team": "Inglaterra",
           "minute": "41"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Iñaki Williams",
+          "team": "Gana",
+          "minute": "60"
         }
       ],
       "goals": [],
       "stats": {
-        "possession_a": 75.5,
-        "possession_b": 24.5,
+        "possession_a": 75.9,
+        "possession_b": 24.1,
         "shots_a": 8,
         "shots_b": 1,
         "shots_on_a": 1,
@@ -3914,7 +3920,7 @@
         "corners_a": 3,
         "corners_b": 2,
         "fouls_a": 9,
-        "fouls_b": 15
+        "fouls_b": 16
       },
       "savedToGH": true
     },
@@ -4020,5 +4026,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T21:22:59.911Z"
+  "updatedAt": "2026-06-23T21:24:01.334Z"
 }
