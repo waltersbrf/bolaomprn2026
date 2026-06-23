@@ -3894,19 +3894,26 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "40",
-      "events": [],
+      "minute": "41",
+      "events": [
+        {
+          "type": "yellow_card",
+          "player": "Declan Rice",
+          "team": "Inglaterra",
+          "minute": "41"
+        }
+      ],
       "goals": [],
       "stats": {
-        "possession_a": 84.2,
-        "possession_b": 15.8,
+        "possession_a": 82.4,
+        "possession_b": 17.6,
         "shots_a": 5,
         "shots_b": 0,
         "shots_on_a": 0,
         "shots_on_b": 0,
         "corners_a": 1,
         "corners_b": 0,
-        "fouls_a": 7,
+        "fouls_a": 8,
         "fouls_b": 8
       },
       "savedToGH": true
@@ -4013,5 +4020,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T20:40:30.105Z"
+  "updatedAt": "2026-06-23T20:41:31.284Z"
 }
