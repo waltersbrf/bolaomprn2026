@@ -3631,8 +3631,8 @@
         }
       ],
       "stats": {
-        "possession_a": 47.9,
-        "possession_b": 52.1,
+        "possession_a": 48.4,
+        "possession_b": 51.6,
         "shots_a": 9,
         "shots_b": 6,
         "shots_on_a": 5,
@@ -3722,5 +3722,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T01:09:19.084Z"
+  "updatedAt": "2026-06-23T01:10:18.355Z"
 }
