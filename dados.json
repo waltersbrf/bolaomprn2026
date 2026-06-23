@@ -3779,7 +3779,7 @@
       "a": 4,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "67",
+      "minute": "68",
       "events": [
         {
           "type": "goal",
@@ -3818,6 +3818,12 @@
           "minute": "60",
           "penalty": false,
           "og": true
+        },
+        {
+          "type": "yellow_card",
+          "player": "Renato Veiga",
+          "team": "Portugal",
+          "minute": "68"
         }
       ],
       "goals": [
@@ -3855,16 +3861,16 @@
         }
       ],
       "stats": {
-        "possession_a": 65.4,
-        "possession_b": 34.6,
-        "shots_a": 11,
+        "possession_a": 65.8,
+        "possession_b": 34.2,
+        "shots_a": 12,
         "shots_b": 6,
-        "shots_on_a": 5,
+        "shots_on_a": 6,
         "shots_on_b": 2,
         "corners_a": 2,
         "corners_b": 2,
         "fouls_a": 10,
-        "fouls_b": 9
+        "fouls_b": 10
       },
       "savedToGH": true
     },
@@ -3980,5 +3986,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T18:31:20.292Z"
+  "updatedAt": "2026-06-23T18:32:19.888Z"
 }
