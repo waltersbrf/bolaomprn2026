@@ -3877,8 +3877,8 @@
         }
       ],
       "stats": {
-        "possession_a": 66.1,
-        "possession_b": 33.9,
+        "possession_a": 66,
+        "possession_b": 34,
         "shots_a": 17,
         "shots_b": 7,
         "shots_on_a": 9,
@@ -3897,7 +3897,18 @@
       "minute": "0",
       "events": [],
       "goals": [],
-      "stats": null,
+      "stats": {
+        "possession_a": 0,
+        "possession_b": 0,
+        "shots_a": 0,
+        "shots_b": 0,
+        "shots_on_a": 0,
+        "shots_on_b": 0,
+        "corners_a": 0,
+        "corners_b": 0,
+        "fouls_a": 0,
+        "fouls_b": 0
+      },
       "savedToGH": true
     },
     "47": {
@@ -4002,5 +4013,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-23T19:00:48.903Z"
+  "updatedAt": "2026-06-23T19:01:50.247Z"
 }
