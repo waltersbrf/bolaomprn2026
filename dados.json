@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "61",
+      "minute": "62",
       "events": [
         {
           "type": "goal",
@@ -4278,24 +4278,24 @@
         }
       ],
       "stats": {
-        "possession_a": 48.8,
-        "possession_b": 51.2,
+        "possession_a": 48.4,
+        "possession_b": 51.6,
         "shots_a": 5,
-        "shots_b": 15,
+        "shots_b": 16,
         "shots_on_a": 1,
-        "shots_on_b": 6,
+        "shots_on_b": 7,
         "corners_a": 3,
         "corners_b": 4,
         "fouls_a": 7,
         "fouls_b": 2
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "52": {
       "a": 2,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "63",
+      "minute": "64",
       "events": [
         {
           "type": "goal",
@@ -4373,10 +4373,10 @@
         "shots_on_b": 1,
         "corners_a": 5,
         "corners_b": 0,
-        "fouls_a": 4,
+        "fouls_a": 5,
         "fouls_b": 12
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "53": {
       "a": 0,
@@ -4386,7 +4386,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "54": {
       "a": 0,
@@ -4396,7 +4396,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4417,18 +4417,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
-        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4439,8 +4439,13 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-24T20:39:41.674Z",
+        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:26:19.972Z"
+  "updatedAt": "2026-06-24T23:26:58.753Z"
 }
