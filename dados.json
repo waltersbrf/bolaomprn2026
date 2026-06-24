@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "9",
+      "minute": "10",
       "events": [
         {
           "type": "goal",
@@ -4261,11 +4261,29 @@
     },
     "52": {
       "a": 0,
-      "b": 0,
+      "b": 1,
       "status": "SCHEDULED",
-      "minute": "9",
-      "events": [],
-      "goals": [],
+      "minute": "10",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Lenny Joseph",
+          "team": "Haiti",
+          "minute": "10",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Lenny Joseph",
+          "team": "Haiti",
+          "minute": "10",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
         "possession_a": 76.1,
         "possession_b": 23.9,
@@ -4349,5 +4367,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T22:10:11.763Z"
+  "updatedAt": "2026-06-24T22:11:13.104Z"
 }
