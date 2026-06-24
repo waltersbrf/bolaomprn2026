@@ -4033,10 +4033,10 @@
       "savedToGH": true
     },
     "49": {
-      "a": 1,
+      "a": 2,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "57",
+      "status": "IN_PLAY",
+      "minute": "58",
       "events": [
         {
           "type": "yellow_card",
@@ -4057,6 +4057,14 @@
           "minute": "46",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Johan Manzambi",
+          "team": "Suíça",
+          "minute": "57",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -4067,11 +4075,19 @@
           "minute": "46",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Johan Manzambi",
+          "team": "Suíça",
+          "minute": "57",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 66.6,
-        "possession_b": 33.4,
+        "possession_a": 64.9,
+        "possession_b": 35.1,
         "shots_a": 5,
         "shots_b": 5,
         "shots_on_a": 3,
@@ -4235,5 +4251,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:16:24.193Z"
+  "updatedAt": "2026-06-24T20:16:54.792Z"
 }
