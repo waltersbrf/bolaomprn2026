@@ -3926,16 +3926,34 @@
     },
     "47": {
       "a": 0,
-      "b": 0,
+      "b": 1,
       "status": "SCHEDULED",
-      "minute": "53",
-      "events": [],
-      "goals": [],
+      "minute": "54",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Ante Budimir",
+          "team": "Croácia",
+          "minute": "54",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Ante Budimir",
+          "team": "Croácia",
+          "minute": "54",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 37.1,
-        "possession_b": 62.9,
+        "possession_a": 36.1,
+        "possession_b": 63.9,
         "shots_a": 1,
-        "shots_b": 2,
+        "shots_b": 3,
         "shots_on_a": 1,
         "shots_on_b": 1,
         "corners_a": 1,
@@ -4037,5 +4055,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T00:12:24.263Z"
+  "updatedAt": "2026-06-24T00:13:23.889Z"
 }
