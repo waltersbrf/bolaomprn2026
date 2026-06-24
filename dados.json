@@ -4222,9 +4222,9 @@
     },
     "51": {
       "a": 0,
-      "b": 2,
+      "b": 3,
       "status": "SCHEDULED",
-      "minute": "60",
+      "minute": "61",
       "events": [
         {
           "type": "goal",
@@ -4239,6 +4239,14 @@
           "player": "Vinícius Júnior",
           "team": "Brasil",
           "minute": "45+3'",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Matheus Cunha",
+          "team": "Brasil",
+          "minute": "60",
           "penalty": false,
           "og": false
         }
@@ -4259,6 +4267,14 @@
           "minute": "45+3'",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Matheus Cunha",
+          "team": "Brasil",
+          "minute": "60",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
@@ -4273,7 +4289,7 @@
         "fouls_a": 7,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "52": {
       "a": 2,
@@ -4349,8 +4365,8 @@
         }
       ],
       "stats": {
-        "possession_a": 69.8,
-        "possession_b": 30.2,
+        "possession_a": 70.4,
+        "possession_b": 29.6,
         "shots_a": 14,
         "shots_b": 4,
         "shots_on_a": 8,
@@ -4358,9 +4374,9 @@
         "corners_a": 5,
         "corners_b": 0,
         "fouls_a": 4,
-        "fouls_b": 11
+        "fouls_b": 12
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "53": {
       "a": 0,
@@ -4370,7 +4386,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "54": {
       "a": 0,
@@ -4380,7 +4396,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4401,18 +4417,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
+        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4423,13 +4439,8 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-24T18:21:23.433Z"
-      },
-      {
-        "fp": "3cb3d598",
-        "ts": "2026-06-24T20:39:41.674Z",
-        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:25:57.659Z"
+  "updatedAt": "2026-06-24T23:26:19.972Z"
 }
