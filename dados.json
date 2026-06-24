@@ -4035,7 +4035,7 @@
     "49": {
       "a": 2,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "81",
       "events": [
         {
@@ -4113,7 +4113,7 @@
         "fouls_a": 16,
         "fouls_b": 9
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "50": {
       "a": 2,
@@ -4144,6 +4144,12 @@
           "minute": "42",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Ahmed Fathy",
+          "team": "Catar",
+          "minute": "78"
         }
       ],
       "goals": [
@@ -4184,7 +4190,7 @@
         "fouls_a": 7,
         "fouls_b": 10
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "51": {
       "a": 0,
@@ -4194,7 +4200,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "52": {
       "a": 0,
@@ -4204,7 +4210,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "53": {
       "a": 0,
@@ -4214,7 +4220,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "54": {
       "a": 0,
@@ -4224,7 +4230,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4245,18 +4251,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
-        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4267,8 +4273,13 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-24T20:39:41.674Z",
+        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:40:13.390Z"
+  "updatedAt": "2026-06-24T20:40:40.163Z"
 }
