@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "79",
+      "minute": "80",
       "events": [
         {
           "type": "goal",
@@ -4284,14 +4284,14 @@
         }
       ],
       "stats": {
-        "possession_a": 49.8,
-        "possession_b": 50.2,
+        "possession_a": 49.5,
+        "possession_b": 50.5,
         "shots_a": 10,
         "shots_b": 16,
         "shots_on_a": 3,
         "shots_on_b": 7,
         "corners_a": 6,
-        "corners_b": 4,
+        "corners_b": 5,
         "fouls_a": 7,
         "fouls_b": 5
       },
@@ -4301,7 +4301,7 @@
       "a": 3,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "81",
+      "minute": "82",
       "events": [
         {
           "type": "goal",
@@ -4342,6 +4342,12 @@
           "minute": "78",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Duckens Nazon",
+          "team": "Haiti",
+          "minute": "79"
         }
       ],
       "goals": [
@@ -4469,5 +4475,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:43:45.752Z"
+  "updatedAt": "2026-06-24T23:44:47.104Z"
 }
