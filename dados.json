@@ -3932,15 +3932,15 @@
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 36.4,
-        "possession_b": 63.6,
+        "possession_a": 37.1,
+        "possession_b": 62.9,
         "shots_a": 1,
         "shots_b": 2,
         "shots_on_a": 1,
         "shots_on_b": 1,
         "corners_a": 1,
         "corners_b": 1,
-        "fouls_a": 11,
+        "fouls_a": 12,
         "fouls_b": 5
       },
       "savedToGH": true
@@ -4042,5 +4042,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T00:11:43.569Z"
+  "updatedAt": "2026-06-24T00:11:51.622Z"
 }
