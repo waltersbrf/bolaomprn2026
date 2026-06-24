@@ -3962,7 +3962,7 @@
         }
       ],
       "stats": {
-        "possession_a": 42,
+        "possession_a": 42.3,
         "possession_b": 57.7,
         "shots_a": 8,
         "shots_b": 6,
@@ -3970,7 +3970,7 @@
         "shots_on_b": 2,
         "corners_a": 7,
         "corners_b": 2,
-        "fouls_a": 18,
+        "fouls_a": 19,
         "fouls_b": 12
       },
       "savedToGH": true
@@ -4015,19 +4015,6 @@
         "pais": "BR",
         "lat": -5.8111,
         "lng": -35.2235
-      },
-      "58c3033d": {
-        "primeiro_acesso": "2026-06-24T00:49:39.745Z",
-        "ultimo_acesso": "2026-06-24T00:49:39.745Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
       }
     },
     "acessos_log": [
@@ -4077,12 +4064,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-23T17:13:35.999Z",
         "jogo": "J45"
-      },
-      {
-        "fp": "58c3033d",
-        "ts": "2026-06-24T00:49:39.745Z"
       }
     ]
   },
-  "updatedAt": "2026-06-24T00:54:03.108Z"
+  "updatedAt": "2026-06-24T00:54:06.663Z"
 }
