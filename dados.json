@@ -4019,10 +4019,10 @@
         }
       ],
       "stats": {
-        "possession_a": 63.6,
-        "possession_b": 36.4,
+        "possession_a": 63.5,
+        "possession_b": 36.5,
         "shots_a": 20,
-        "shots_b": 8,
+        "shots_b": 7,
         "shots_on_a": 9,
         "shots_on_b": 1,
         "corners_a": 5,
@@ -4035,13 +4035,13 @@
     "49": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "22",
+      "status": "IN_PLAY",
+      "minute": "28",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 71.1,
-        "possession_b": 28.9,
+        "possession_a": 69.1,
+        "possession_b": 30.9,
         "shots_a": 3,
         "shots_b": 1,
         "shots_on_a": 2,
@@ -4057,20 +4057,20 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "22",
+      "minute": "28",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 57.3,
-        "possession_b": 42.7,
-        "shots_a": 4,
+        "possession_a": 60,
+        "possession_b": 40,
+        "shots_a": 5,
         "shots_b": 0,
         "shots_on_a": 2,
         "shots_on_b": 0,
-        "corners_a": 2,
+        "corners_a": 3,
         "corners_b": 1,
         "fouls_a": 4,
-        "fouls_b": 2
+        "fouls_b": 4
       },
       "savedToGH": false
     },
@@ -4133,9 +4133,9 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3b3cffe9": {
-        "primeiro_acesso": "2026-06-24T18:14:36.371Z",
-        "ultimo_acesso": "2026-06-24T18:14:36.371Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
+        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -4151,8 +4151,12 @@
       {
         "fp": "3b3cffe9",
         "ts": "2026-06-24T18:14:36.371Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-24T18:21:23.433Z"
       }
     ]
   },
-  "updatedAt": "2026-06-24T19:22:19.650Z"
+  "updatedAt": "2026-06-24T19:28:05.818Z"
 }
