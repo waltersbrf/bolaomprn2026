@@ -4246,9 +4246,9 @@
         }
       ],
       "stats": {
-        "possession_a": 53.4,
-        "possession_b": 46.6,
-        "shots_a": 1,
+        "possession_a": 51.2,
+        "possession_b": 48.8,
+        "shots_a": 2,
         "shots_b": 5,
         "shots_on_a": 0,
         "shots_on_b": 1,
@@ -4262,7 +4262,7 @@
     "52": {
       "a": 0,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "37",
       "events": [
         {
@@ -4285,8 +4285,8 @@
         }
       ],
       "stats": {
-        "possession_a": 69.1,
-        "possession_b": 30.9,
+        "possession_a": 66.5,
+        "possession_b": 33.5,
         "shots_a": 8,
         "shots_b": 3,
         "shots_on_a": 3,
@@ -4367,5 +4367,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T22:38:13.316Z"
+  "updatedAt": "2026-06-24T22:38:43.784Z"
 }
