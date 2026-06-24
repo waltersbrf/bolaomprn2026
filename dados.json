@@ -4036,7 +4036,7 @@
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "85",
+      "minute": "86",
       "events": [
         {
           "type": "yellow_card",
@@ -4102,8 +4102,8 @@
         }
       ],
       "stats": {
-        "possession_a": 55.6,
-        "possession_b": 44.4,
+        "possession_a": 55.7,
+        "possession_b": 44.3,
         "shots_a": 6,
         "shots_b": 9,
         "shots_on_a": 4,
@@ -4119,7 +4119,7 @@
       "a": 3,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "81",
+      "minute": "83",
       "events": [
         {
           "type": "goal",
@@ -4158,6 +4158,12 @@
           "minute": "80",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Ermin Mahmic",
+          "team": "Bósnia",
+          "minute": "82"
         }
       ],
       "goals": [
@@ -4297,5 +4303,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:44:13.244Z"
+  "updatedAt": "2026-06-24T20:45:14.028Z"
 }
