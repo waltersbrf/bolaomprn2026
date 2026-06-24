@@ -2584,36 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-24T11:52:01.398Z",
-  "analytics": {
-    "visitors": {
-      "b7f7ba1a": {
-        "primeiro_acesso": "2026-06-24T11:51:57.800Z",
-        "ultimo_acesso": "2026-06-24T11:51:57.800Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Narandiba",
-        "estado": "SP",
-        "pais": "BR",
-        "lat": -22.40722,
-        "lng": -51.52444
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "e6c0424a",
-        "ts": "2026-06-24T11:43:44.424Z"
-      },
-      {
-        "fp": "4d573831",
-        "ts": "2026-06-24T11:44:48.146Z"
-      },
-      {
-        "fp": "b7f7ba1a",
-        "ts": "2026-06-24T11:51:57.800Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-24T12:40:50.419Z"
 }
