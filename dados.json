@@ -4035,8 +4035,8 @@
     "49": {
       "a": 2,
       "b": 1,
-      "status": "IN_PLAY",
-      "minute": "82",
+      "status": "SCHEDULED",
+      "minute": "83",
       "events": [
         {
           "type": "yellow_card",
@@ -4179,13 +4179,13 @@
         }
       ],
       "stats": {
-        "possession_a": 57.2,
-        "possession_b": 42.8,
+        "possession_a": 57.5,
+        "possession_b": 42.5,
         "shots_a": 10,
         "shots_b": 6,
         "shots_on_a": 3,
         "shots_on_b": 1,
-        "corners_a": 4,
+        "corners_a": 5,
         "corners_b": 3,
         "fouls_a": 7,
         "fouls_b": 11
@@ -4281,5 +4281,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:41:41.407Z"
+  "updatedAt": "2026-06-24T20:42:10.798Z"
 }
