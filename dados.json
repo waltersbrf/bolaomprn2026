@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "88",
+      "minute": "89",
       "events": [
         {
           "type": "goal",
@@ -4261,6 +4261,12 @@
           "player": "Fabinho",
           "team": "Brasil",
           "minute": "82"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Ryan Christie",
+          "team": "Escócia",
+          "minute": "89"
         }
       ],
       "goals": [
@@ -4307,7 +4313,7 @@
       "a": 4,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "90+1'",
+      "minute": "90+2'",
       "events": [
         {
           "type": "goal",
@@ -4503,5 +4509,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:53:56.112Z"
+  "updatedAt": "2026-06-24T23:54:56.896Z"
 }
