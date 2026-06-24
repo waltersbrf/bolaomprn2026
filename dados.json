@@ -4284,8 +4284,8 @@
         }
       ],
       "stats": {
-        "possession_a": 50.3,
-        "possession_b": 49.7,
+        "possession_a": 51,
+        "possession_b": 49,
         "shots_a": 7,
         "shots_b": 16,
         "shots_on_a": 3,
@@ -4293,15 +4293,15 @@
         "corners_a": 4,
         "corners_b": 4,
         "fouls_a": 7,
-        "fouls_b": 3
+        "fouls_b": 4
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "52": {
       "a": 2,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "74",
+      "minute": "75",
       "events": [
         {
           "type": "goal",
@@ -4382,7 +4382,7 @@
         "fouls_a": 7,
         "fouls_b": 15
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "53": {
       "a": 0,
@@ -4392,7 +4392,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "54": {
       "a": 0,
@@ -4402,7 +4402,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4423,18 +4423,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
-        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4445,8 +4445,13 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-24T20:39:41.674Z",
+        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:37:04.131Z"
+  "updatedAt": "2026-06-24T23:37:40.723Z"
 }
