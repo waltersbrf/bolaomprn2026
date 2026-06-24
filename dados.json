@@ -4036,7 +4036,7 @@
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "87",
+      "minute": "88",
       "events": [
         {
           "type": "yellow_card",
@@ -4073,6 +4073,12 @@
           "minute": "76",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Liam Millar",
+          "team": "Canadá",
+          "minute": "87"
         }
       ],
       "goals": [
@@ -4102,16 +4108,16 @@
         }
       ],
       "stats": {
-        "possession_a": 56.2,
-        "possession_b": 43.8,
+        "possession_a": 56.5,
+        "possession_b": 43.5,
         "shots_a": 6,
         "shots_b": 9,
         "shots_on_a": 4,
         "shots_on_b": 4,
         "corners_a": 2,
-        "corners_b": 6,
+        "corners_b": 7,
         "fouls_a": 16,
-        "fouls_b": 11
+        "fouls_b": 12
       },
       "savedToGH": true
     },
@@ -4119,7 +4125,7 @@
       "a": 3,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "84",
+      "minute": "85",
       "events": [
         {
           "type": "goal",
@@ -4201,8 +4207,8 @@
         }
       ],
       "stats": {
-        "possession_a": 56.6,
-        "possession_b": 43.4,
+        "possession_a": 56.7,
+        "possession_b": 43.3,
         "shots_a": 14,
         "shots_b": 6,
         "shots_on_a": 5,
@@ -4210,7 +4216,7 @@
         "corners_a": 5,
         "corners_b": 3,
         "fouls_a": 7,
-        "fouls_b": 11
+        "fouls_b": 12
       },
       "savedToGH": true
     },
@@ -4303,5 +4309,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:46:15.249Z"
+  "updatedAt": "2026-06-24T20:47:15.770Z"
 }
