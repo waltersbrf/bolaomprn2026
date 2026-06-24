@@ -4223,7 +4223,7 @@
     "51": {
       "a": 0,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "45",
       "events": [
         {
@@ -4260,10 +4260,10 @@
       "savedToGH": true
     },
     "52": {
-      "a": 1,
+      "a": 2,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "44",
+      "minute": "45",
       "events": [
         {
           "type": "goal",
@@ -4286,6 +4286,14 @@
           "player": "Wilson Isidor",
           "team": "Haiti",
           "minute": "43",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Ismael Saibari",
+          "team": "Marrocos",
+          "minute": "45+1'",
           "penalty": false,
           "og": false
         }
@@ -4312,6 +4320,14 @@
           "player": "Wilson Isidor",
           "team": "Haiti",
           "minute": "43",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Ismael Saibari",
+          "team": "Marrocos",
+          "minute": "45+1'",
           "penalty": false,
           "og": false
         }
@@ -4399,5 +4415,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T22:45:52.153Z"
+  "updatedAt": "2026-06-24T22:46:23.135Z"
 }
