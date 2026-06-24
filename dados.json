@@ -4036,19 +4036,19 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "17",
+      "minute": "22",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 77.3,
-        "possession_b": 22.7,
-        "shots_a": 2,
-        "shots_b": 0,
-        "shots_on_a": 1,
-        "shots_on_b": 0,
+        "possession_a": 71.1,
+        "possession_b": 28.9,
+        "shots_a": 3,
+        "shots_b": 1,
+        "shots_on_a": 2,
+        "shots_on_b": 1,
         "corners_a": 1,
         "corners_b": 0,
-        "fouls_a": 5,
+        "fouls_a": 8,
         "fouls_b": 3
       },
       "savedToGH": false
@@ -4057,19 +4057,19 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "17",
+      "minute": "22",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 55.1,
-        "possession_b": 44.9,
-        "shots_a": 3,
+        "possession_a": 57.3,
+        "possession_b": 42.7,
+        "shots_a": 4,
         "shots_b": 0,
         "shots_on_a": 2,
         "shots_on_b": 0,
-        "corners_a": 1,
+        "corners_a": 2,
         "corners_b": 1,
-        "fouls_a": 3,
+        "fouls_a": 4,
         "fouls_b": 2
       },
       "savedToGH": false
@@ -4154,5 +4154,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T19:17:54.953Z"
+  "updatedAt": "2026-06-24T19:22:19.650Z"
 }
