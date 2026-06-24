@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "82",
+      "minute": "83",
       "events": [
         {
           "type": "goal",
@@ -4255,6 +4255,12 @@
           "player": "Danilo",
           "team": "Brasil",
           "minute": "62"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Fabinho",
+          "team": "Brasil",
+          "minute": "82"
         }
       ],
       "goals": [
@@ -4287,13 +4293,13 @@
         "possession_a": 49.3,
         "possession_b": 50.7,
         "shots_a": 10,
-        "shots_b": 17,
+        "shots_b": 18,
         "shots_on_a": 3,
         "shots_on_b": 8,
         "corners_a": 6,
         "corners_b": 5,
         "fouls_a": 7,
-        "fouls_b": 7
+        "fouls_b": 8
       },
       "savedToGH": true
     },
@@ -4301,7 +4307,7 @@
       "a": 3,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "84",
+      "minute": "85",
       "events": [
         {
           "type": "goal",
@@ -4475,5 +4481,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:46:48.764Z"
+  "updatedAt": "2026-06-24T23:47:49.834Z"
 }
