@@ -4014,22 +4014,9 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-23T17:13:35.999Z",
-        "ultimo_acesso": "2026-06-23T17:13:35.999Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
-      },
-      "58c3033d": {
-        "primeiro_acesso": "2026-06-24T00:49:39.745Z",
-        "ultimo_acesso": "2026-06-24T00:49:39.745Z",
+      "3b3cffe9": {
+        "primeiro_acesso": "2026-06-24T00:54:43.317Z",
+        "ultimo_acesso": "2026-06-24T00:54:43.317Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -4092,8 +4079,12 @@
       {
         "fp": "58c3033d",
         "ts": "2026-06-24T00:49:39.745Z"
+      },
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T00:54:43.317Z"
       }
     ]
   },
-  "updatedAt": "2026-06-24T01:12:10.387Z"
+  "updatedAt": "2026-06-24T01:16:15.670Z"
 }
