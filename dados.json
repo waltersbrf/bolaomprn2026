@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "18",
+      "minute": "19",
       "events": [
         {
           "type": "goal",
@@ -4246,14 +4246,14 @@
         }
       ],
       "stats": {
-        "possession_a": 49.8,
-        "possession_b": 50.2,
+        "possession_a": 50,
+        "possession_b": 50,
         "shots_a": 0,
         "shots_b": 4,
         "shots_on_a": 0,
         "shots_on_b": 1,
         "corners_a": 0,
-        "corners_b": 0,
+        "corners_b": 1,
         "fouls_a": 0,
         "fouls_b": 0
       },
@@ -4262,8 +4262,8 @@
     "52": {
       "a": 0,
       "b": 1,
-      "status": "SCHEDULED",
-      "minute": "19",
+      "status": "IN_PLAY",
+      "minute": "20",
       "events": [
         {
           "type": "goal",
@@ -4285,8 +4285,8 @@
         }
       ],
       "stats": {
-        "possession_a": 67,
-        "possession_b": 33,
+        "possession_a": 68.7,
+        "possession_b": 31.3,
         "shots_a": 3,
         "shots_b": 2,
         "shots_on_a": 1,
@@ -4294,7 +4294,7 @@
         "corners_a": 2,
         "corners_b": 0,
         "fouls_a": 2,
-        "fouls_b": 1
+        "fouls_b": 2
       },
       "savedToGH": true
     },
@@ -4367,5 +4367,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T22:19:54.378Z"
+  "updatedAt": "2026-06-24T22:20:54.181Z"
 }
