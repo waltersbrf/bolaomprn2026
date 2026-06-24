@@ -4304,7 +4304,7 @@
       "savedToGH": true
     },
     "52": {
-      "a": 3,
+      "a": 4,
       "b": 2,
       "status": "SCHEDULED",
       "minute": "89",
@@ -4360,6 +4360,14 @@
           "player": "Duckens Nazon",
           "team": "Haiti",
           "minute": "80"
+        },
+        {
+          "type": "goal",
+          "player": "Gessime Yassine",
+          "team": "Marrocos",
+          "minute": "89",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -4400,6 +4408,14 @@
           "player": "Soufiane Rahimi",
           "team": "Marrocos",
           "minute": "78",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Gessime Yassine",
+          "team": "Marrocos",
+          "minute": "89",
           "penalty": false,
           "og": false
         }
@@ -4457,18 +4473,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-24T23:40:47.117Z",
-        "ultimo_acesso": "2026-06-24T23:40:47.117Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4484,13 +4500,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "22244835",
-        "ts": "2026-06-24T23:40:47.117Z",
-        "jogo": "J51"
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:51:49.590Z"
+  "updatedAt": "2026-06-24T23:51:55.348Z"
 }
