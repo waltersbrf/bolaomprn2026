@@ -4241,6 +4241,19 @@
         "pais": "?",
         "lat": null,
         "lng": null
+      },
+      "20a834c8": {
+        "primeiro_acesso": "2026-06-24T20:30:19.420Z",
+        "ultimo_acesso": "2026-06-24T20:30:19.420Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4251,8 +4264,13 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "20a834c8",
+        "ts": "2026-06-24T20:30:19.420Z",
+        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:27:28.994Z"
+  "updatedAt": "2026-06-24T20:30:19.430Z"
 }
