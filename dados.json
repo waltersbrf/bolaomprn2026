@@ -4036,7 +4036,7 @@
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "89",
+      "minute": "90",
       "events": [
         {
           "type": "yellow_card",
@@ -4125,7 +4125,7 @@
       "a": 3,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "86",
+      "minute": "87",
       "events": [
         {
           "type": "goal",
@@ -4279,9 +4279,9 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-24T19:37:42.643Z",
-        "ultimo_acesso": "2026-06-24T19:37:42.643Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
+        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -4295,11 +4295,14 @@
     },
     "acessos_log": [
       {
-        "fp": "22244835",
-        "ts": "2026-06-24T19:37:42.643Z",
-        "jogo": "J49"
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T18:14:36.371Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-24T18:21:23.433Z"
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:48:30.569Z"
+  "updatedAt": "2026-06-24T20:48:56.217Z"
 }
