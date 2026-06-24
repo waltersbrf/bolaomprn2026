@@ -3994,7 +3994,7 @@
         "fouls_a": 3,
         "fouls_b": 3
       },
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4026,19 +4026,6 @@
         "pais": "BR",
         "lat": -5.8111,
         "lng": -35.2235
-      },
-      "42e916ad": {
-        "primeiro_acesso": "2026-06-24T02:31:37.332Z",
-        "ultimo_acesso": "2026-06-24T02:31:37.332Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
       }
     },
     "acessos_log": [
@@ -4088,13 +4075,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-23T17:13:35.999Z",
         "jogo": "J45"
-      },
-      {
-        "fp": "42e916ad",
-        "ts": "2026-06-24T02:31:37.332Z",
-        "jogo": "J48"
       }
     ]
   },
-  "updatedAt": "2026-06-24T02:32:34.312Z"
+  "updatedAt": "2026-06-24T02:32:45.855Z"
 }
