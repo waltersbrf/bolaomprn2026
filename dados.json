@@ -4307,7 +4307,7 @@
         "fouls_a": 9,
         "fouls_b": 8
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "52": {
       "a": 4,
@@ -4433,18 +4433,18 @@
         }
       ],
       "stats": {
-        "possession_a": 69.8,
-        "possession_b": 30.2,
+        "possession_a": 69.9,
+        "possession_b": 30.1,
         "shots_a": 22,
         "shots_b": 5,
         "shots_on_a": 11,
         "shots_on_b": 1,
         "corners_a": 9,
         "corners_b": 0,
-        "fouls_a": 9,
+        "fouls_a": 10,
         "fouls_b": 18
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "53": {
       "a": 0,
@@ -4454,7 +4454,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "54": {
       "a": 0,
@@ -4464,7 +4464,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4485,18 +4485,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
-        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4507,8 +4507,13 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-24T20:39:41.674Z",
+        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:56:49.878Z"
+  "updatedAt": "2026-06-24T23:57:00.597Z"
 }
