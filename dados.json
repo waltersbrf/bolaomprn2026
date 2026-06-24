@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "73",
+      "minute": "74",
       "events": [
         {
           "type": "goal",
@@ -4284,9 +4284,9 @@
         }
       ],
       "stats": {
-        "possession_a": 51,
-        "possession_b": 49,
-        "shots_a": 7,
+        "possession_a": 50,
+        "possession_b": 50,
+        "shots_a": 9,
         "shots_b": 16,
         "shots_on_a": 3,
         "shots_on_b": 7,
@@ -4301,7 +4301,7 @@
       "a": 2,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "76",
+      "minute": "77",
       "events": [
         {
           "type": "goal",
@@ -4371,8 +4371,8 @@
         }
       ],
       "stats": {
-        "possession_a": 70.9,
-        "possession_b": 29.1,
+        "possession_a": 71.5,
+        "possession_b": 28.5,
         "shots_a": 16,
         "shots_b": 5,
         "shots_on_a": 8,
@@ -4453,5 +4453,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:38:40.181Z"
+  "updatedAt": "2026-06-24T23:39:40.761Z"
 }
