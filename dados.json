@@ -4086,7 +4086,7 @@
     "50": {
       "a": 2,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "53",
       "events": [
         {
@@ -4141,8 +4141,8 @@
         }
       ],
       "stats": {
-        "possession_a": 58.7,
-        "possession_b": 41.3,
+        "possession_a": 59.2,
+        "possession_b": 40.8,
         "shots_a": 9,
         "shots_b": 4,
         "shots_on_a": 3,
@@ -4235,5 +4235,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:15:19.792Z"
+  "updatedAt": "2026-06-24T20:15:49.771Z"
 }
