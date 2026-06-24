@@ -4278,8 +4278,8 @@
     "52": {
       "a": 2,
       "b": 2,
-      "status": "PAUSED",
-      "minute": "45+5'",
+      "status": "IN_PLAY",
+      "minute": "46",
       "events": [
         {
           "type": "goal",
@@ -4431,5 +4431,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:04:27.123Z"
+  "updatedAt": "2026-06-24T23:08:35.869Z"
 }
