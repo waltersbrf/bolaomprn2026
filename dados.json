@@ -4223,8 +4223,8 @@
     "51": {
       "a": 0,
       "b": 2,
-      "status": "PAUSED",
-      "minute": "45+7'",
+      "status": "SCHEDULED",
+      "minute": "46",
       "events": [
         {
           "type": "goal",
@@ -4431,5 +4431,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:10:40.195Z"
+  "updatedAt": "2026-06-24T23:11:11.095Z"
 }
