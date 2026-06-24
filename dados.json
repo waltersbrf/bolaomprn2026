@@ -4223,7 +4223,7 @@
     "51": {
       "a": 0,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "12",
       "events": [
         {
@@ -4262,8 +4262,8 @@
     "52": {
       "a": 0,
       "b": 1,
-      "status": "SCHEDULED",
-      "minute": "12",
+      "status": "IN_PLAY",
+      "minute": "13",
       "events": [
         {
           "type": "goal",
@@ -4367,5 +4367,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T22:13:16.769Z"
+  "updatedAt": "2026-06-24T22:13:45.779Z"
 }
