@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "19",
+      "minute": "20",
       "events": [
         {
           "type": "goal",
@@ -4246,10 +4246,10 @@
         }
       ],
       "stats": {
-        "possession_a": 50,
-        "possession_b": 50,
+        "possession_a": 49.8,
+        "possession_b": 50.2,
         "shots_a": 0,
-        "shots_b": 4,
+        "shots_b": 5,
         "shots_on_a": 0,
         "shots_on_b": 1,
         "corners_a": 0,
@@ -4262,7 +4262,7 @@
     "52": {
       "a": 0,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "20",
       "events": [
         {
@@ -4296,7 +4296,7 @@
         "fouls_a": 2,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "53": {
       "a": 0,
@@ -4337,18 +4337,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-24T22:18:52.870Z",
+        "ultimo_acesso": "2026-06-24T22:18:52.870Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
+        "tipo": "Mobile",
+        "cidade": "Currais Novos",
         "estado": "RN",
         "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "lat": -6.2106,
+        "lng": -36.4817
       }
     },
     "acessos_log": [
@@ -4364,8 +4364,13 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
+      },
+      {
+        "fp": "c3622db8",
+        "ts": "2026-06-24T22:18:52.870Z",
+        "jogo": "J51"
       }
     ]
   },
-  "updatedAt": "2026-06-24T22:20:54.181Z"
+  "updatedAt": "2026-06-24T22:21:22.972Z"
 }
