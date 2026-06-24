@@ -3927,13 +3927,13 @@
     "47": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "48",
+      "status": "IN_PLAY",
+      "minute": "49",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 36.8,
-        "possession_b": 63.2,
+        "possession_a": 36.1,
+        "possession_b": 63.9,
         "shots_a": 1,
         "shots_b": 2,
         "shots_on_a": 1,
@@ -4037,5 +4037,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T00:06:47.528Z"
+  "updatedAt": "2026-06-24T00:07:48.572Z"
 }
