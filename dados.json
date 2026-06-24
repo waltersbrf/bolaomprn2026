@@ -4035,7 +4035,7 @@
     "49": {
       "a": 2,
       "b": 1,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+7'",
       "events": [
         {
@@ -4108,24 +4108,24 @@
         }
       ],
       "stats": {
-        "possession_a": 55.3,
-        "possession_b": 44.7,
+        "possession_a": 55.2,
+        "possession_b": 44.8,
         "shots_a": 6,
-        "shots_b": 11,
+        "shots_b": 13,
         "shots_on_a": 4,
-        "shots_on_b": 5,
+        "shots_on_b": 7,
         "corners_a": 2,
         "corners_b": 7,
         "fouls_a": 19,
-        "fouls_b": 12
+        "fouls_b": 13
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "50": {
       "a": 3,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "90+3'",
+      "minute": "90+4'",
       "events": [
         {
           "type": "goal",
@@ -4207,8 +4207,8 @@
         }
       ],
       "stats": {
-        "possession_a": 55.5,
-        "possession_b": 44.5,
+        "possession_a": 54.7,
+        "possession_b": 45.3,
         "shots_a": 14,
         "shots_b": 7,
         "shots_on_a": 5,
@@ -4218,7 +4218,7 @@
         "fouls_a": 8,
         "fouls_b": 13
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "51": {
       "a": 0,
@@ -4228,7 +4228,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "52": {
       "a": 0,
@@ -4238,7 +4238,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "53": {
       "a": 0,
@@ -4248,7 +4248,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "54": {
       "a": 0,
@@ -4258,7 +4258,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4279,18 +4279,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
-        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4301,8 +4301,13 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-24T20:39:41.674Z",
+        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:56:01.025Z"
+  "updatedAt": "2026-06-24T20:56:59.593Z"
 }
