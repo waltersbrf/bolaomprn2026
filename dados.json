@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "59",
+      "minute": "60",
       "events": [
         {
           "type": "goal",
@@ -4262,24 +4262,24 @@
         }
       ],
       "stats": {
-        "possession_a": 49.1,
-        "possession_b": 50.9,
+        "possession_a": 48.8,
+        "possession_b": 51.2,
         "shots_a": 5,
-        "shots_b": 13,
+        "shots_b": 15,
         "shots_on_a": 1,
         "shots_on_b": 6,
         "corners_a": 3,
         "corners_b": 4,
-        "fouls_a": 6,
+        "fouls_a": 7,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "52": {
       "a": 2,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "62",
+      "minute": "63",
       "events": [
         {
           "type": "goal",
@@ -4349,8 +4349,8 @@
         }
       ],
       "stats": {
-        "possession_a": 70,
-        "possession_b": 30,
+        "possession_a": 69.8,
+        "possession_b": 30.2,
         "shots_a": 14,
         "shots_b": 4,
         "shots_on_a": 8,
@@ -4360,7 +4360,7 @@
         "fouls_a": 4,
         "fouls_b": 11
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "53": {
       "a": 0,
@@ -4401,18 +4401,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "20a834c8": {
+        "primeiro_acesso": "2026-06-24T23:13:46.907Z",
+        "ultimo_acesso": "2026-06-24T23:13:46.907Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4428,8 +4428,13 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
+      },
+      {
+        "fp": "20a834c8",
+        "ts": "2026-06-24T23:13:46.907Z",
+        "jogo": "J51"
       }
     ]
   },
-  "updatedAt": "2026-06-24T23:24:55.195Z"
+  "updatedAt": "2026-06-24T23:25:39.896Z"
 }
