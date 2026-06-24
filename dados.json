@@ -4296,7 +4296,7 @@
         "fouls_a": 2,
         "fouls_b": 2
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "53": {
       "a": 0,
@@ -4337,18 +4337,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-24T22:18:52.870Z",
-        "ultimo_acesso": "2026-06-24T22:18:52.870Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "Currais Novos",
+        "tipo": "Desktop",
+        "cidade": "Natal",
         "estado": "RN",
         "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4364,13 +4364,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "c3622db8",
-        "ts": "2026-06-24T22:18:52.870Z",
-        "jogo": "J51"
       }
     ]
   },
-  "updatedAt": "2026-06-24T22:21:22.972Z"
+  "updatedAt": "2026-06-24T22:21:25.819Z"
 }
