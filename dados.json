@@ -3979,22 +3979,22 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "31",
+      "minute": "32",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 75.2,
-        "possession_b": 24.8,
-        "shots_a": 9,
+        "possession_a": 73.8,
+        "possession_b": 26.2,
+        "shots_a": 10,
         "shots_b": 1,
         "shots_on_a": 5,
         "shots_on_b": 0,
         "corners_a": 2,
         "corners_b": 0,
-        "fouls_a": 2,
+        "fouls_a": 3,
         "fouls_b": 3
       },
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4026,6 +4026,19 @@
         "pais": "BR",
         "lat": -5.8111,
         "lng": -35.2235
+      },
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-24T02:31:37.332Z",
+        "ultimo_acesso": "2026-06-24T02:31:37.332Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4075,8 +4088,13 @@
         "fp": "3cb3d598",
         "ts": "2026-06-23T17:13:35.999Z",
         "jogo": "J45"
+      },
+      {
+        "fp": "42e916ad",
+        "ts": "2026-06-24T02:31:37.332Z",
+        "jogo": "J48"
       }
     ]
   },
-  "updatedAt": "2026-06-24T02:31:44.861Z"
+  "updatedAt": "2026-06-24T02:32:34.312Z"
 }
