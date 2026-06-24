@@ -3979,14 +3979,14 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "1",
+      "minute": "2",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 0,
-        "possession_b": 0,
+        "possession_a": 40,
+        "possession_b": 60,
         "shots_a": 0,
-        "shots_b": 0,
+        "shots_b": 1,
         "shots_on_a": 0,
         "shots_on_b": 0,
         "corners_a": 0,
@@ -4078,5 +4078,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T02:01:12.201Z"
+  "updatedAt": "2026-06-24T02:02:11.905Z"
 }
