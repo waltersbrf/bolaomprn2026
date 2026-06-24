@@ -2584,5 +2584,40 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-24T12:40:50.419Z"
+  "updatedAt": "2026-06-24T12:40:54.258Z",
+  "analytics": {
+    "visitors": {
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-24T12:40:53.892Z",
+        "ultimo_acesso": "2026-06-24T12:40:53.892Z",
+        "acessos_total": 0,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "e6c0424a",
+        "ts": "2026-06-24T11:43:44.424Z"
+      },
+      {
+        "fp": "4d573831",
+        "ts": "2026-06-24T11:44:48.146Z"
+      },
+      {
+        "fp": "b7f7ba1a",
+        "ts": "2026-06-24T11:51:57.800Z"
+      },
+      {
+        "fp": "c3622db8",
+        "ts": "2026-06-24T12:40:53.892Z"
+      }
+    ]
+  }
 }
