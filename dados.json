@@ -2584,5 +2584,37 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-24T19:34:14.900Z"
+  "updatedAt": "2026-06-24T19:34:18.532Z",
+  "analytics": {
+    "visitors": {
+      "9ac4a621": {
+        "primeiro_acesso": "2026-06-24T19:34:18.062Z",
+        "ultimo_acesso": "2026-06-24T19:34:18.062Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Marica",
+        "estado": "RJ",
+        "pais": "BR",
+        "lat": -22.91944,
+        "lng": -42.81861
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T18:14:36.371Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "9ac4a621",
+        "ts": "2026-06-24T19:34:18.062Z",
+        "jogo": "J49"
+      }
+    ]
+  }
 }
