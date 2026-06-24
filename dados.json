@@ -4009,19 +4009,6 @@
         "pais": "BR",
         "lat": -5.8111,
         "lng": -35.2235
-      },
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-24T00:28:08.925Z",
-        "ultimo_acesso": "2026-06-24T00:28:08.925Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
       }
     },
     "acessos_log": [
@@ -4071,13 +4058,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-23T17:13:35.999Z",
         "jogo": "J45"
-      },
-      {
-        "fp": "c3622db8",
-        "ts": "2026-06-24T00:28:08.925Z",
-        "jogo": "J47"
       }
     ]
   },
-  "updatedAt": "2026-06-24T00:29:05.970Z"
+  "updatedAt": "2026-06-24T00:29:42.596Z"
 }
