@@ -3978,7 +3978,7 @@
     "48": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "45+1'",
       "events": [],
       "goals": [],
@@ -4078,5 +4078,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T02:45:59.328Z"
+  "updatedAt": "2026-06-24T02:46:29.218Z"
 }
