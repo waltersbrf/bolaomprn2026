@@ -3928,7 +3928,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "60",
+      "minute": "61",
       "events": [
         {
           "type": "goal",
@@ -3937,6 +3937,12 @@
           "minute": "54",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Édgar Yoel Bárcenas",
+          "team": "Panamá",
+          "minute": "61"
         }
       ],
       "goals": [
@@ -3950,15 +3956,15 @@
         }
       ],
       "stats": {
-        "possession_a": 37.2,
-        "possession_b": 62.8,
+        "possession_a": 37,
+        "possession_b": 63,
         "shots_a": 2,
         "shots_b": 5,
         "shots_on_a": 1,
         "shots_on_b": 2,
         "corners_a": 2,
         "corners_b": 1,
-        "fouls_a": 13,
+        "fouls_a": 15,
         "fouls_b": 6
       },
       "savedToGH": true
@@ -4055,5 +4061,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T00:19:00.239Z"
+  "updatedAt": "2026-06-24T00:20:01.236Z"
 }
