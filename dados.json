@@ -4036,7 +4036,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "45+2'",
+      "minute": "45+3'",
       "events": [
         {
           "type": "yellow_card",
@@ -4064,7 +4064,7 @@
         "fouls_a": 10,
         "fouls_b": 5
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "50": {
       "a": 2,
@@ -4145,7 +4145,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "52": {
       "a": 0,
@@ -4155,7 +4155,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "53": {
       "a": 0,
@@ -4165,7 +4165,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "54": {
       "a": 0,
@@ -4175,7 +4175,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4196,12 +4196,12 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "6335f0b1": {
-        "primeiro_acesso": "2026-06-24T19:46:18.686Z",
-        "ultimo_acesso": "2026-06-24T19:46:18.686Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
+        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
+        "dispositivo": "Android",
+        "navegador": "Chrome",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -4218,18 +4218,8 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-24T18:21:23.433Z"
-      },
-      {
-        "fp": "c2e1ae55",
-        "ts": "2026-06-24T19:36:46.041Z",
-        "jogo": "J49"
-      },
-      {
-        "fp": "6335f0b1",
-        "ts": "2026-06-24T19:46:18.686Z",
-        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-24T19:47:21.582Z"
+  "updatedAt": "2026-06-24T19:48:08.348Z"
 }
