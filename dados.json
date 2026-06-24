@@ -4222,23 +4222,15 @@
     },
     "51": {
       "a": 0,
-      "b": 2,
+      "b": 1,
       "status": "SCHEDULED",
-      "minute": "24",
+      "minute": "25",
       "events": [
         {
           "type": "goal",
           "player": "Vinícius Júnior",
           "team": "Brasil",
           "minute": "7",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Vinícius Júnior",
-          "team": "Brasil",
-          "minute": "22",
           "penalty": false,
           "og": false
         }
@@ -4251,27 +4243,19 @@
           "minute": "7",
           "penalty": false,
           "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Vinícius Júnior",
-          "team": "Brasil",
-          "minute": "22",
-          "penalty": false,
-          "og": false
         }
       ],
       "stats": {
         "possession_a": 47.7,
         "possession_b": 52.3,
         "shots_a": 0,
-        "shots_b": 6,
+        "shots_b": 5,
         "shots_on_a": 0,
-        "shots_on_b": 2,
+        "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 1,
         "fouls_a": 0,
-        "fouls_b": 0
+        "fouls_b": 1
       },
       "savedToGH": true
     },
@@ -4279,7 +4263,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "24",
+      "minute": "25",
       "events": [
         {
           "type": "goal",
@@ -4383,5 +4367,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T22:25:28.781Z"
+  "updatedAt": "2026-06-24T22:26:30.132Z"
 }
