@@ -4224,7 +4224,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "26",
+      "minute": "27",
       "events": [
         {
           "type": "goal",
@@ -4263,32 +4263,32 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "26",
+      "minute": "27",
       "events": [
         {
           "type": "goal",
-          "player": "Lenny Joseph",
+          "player": "Yassine Bounou",
           "team": "Haiti",
           "minute": "10",
           "penalty": false,
-          "og": false
+          "og": true
         }
       ],
       "goals": [
         {
           "type": "goal",
-          "player": "Lenny Joseph",
+          "player": "Yassine Bounou",
           "team": "Haiti",
           "minute": "10",
           "penalty": false,
-          "og": false
+          "og": true
         }
       ],
       "stats": {
-        "possession_a": 69.8,
-        "possession_b": 30.2,
+        "possession_a": 69,
+        "possession_b": 31,
         "shots_a": 4,
-        "shots_b": 2,
+        "shots_b": 3,
         "shots_on_a": 1,
         "shots_on_b": 1,
         "corners_a": 2,
@@ -4367,5 +4367,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-24T22:27:31.453Z"
+  "updatedAt": "2026-06-24T22:28:32.188Z"
 }
