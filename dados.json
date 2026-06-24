@@ -2584,5 +2584,42 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-24T21:25:42.661Z"
+  "updatedAt": "2026-06-24T21:25:46.247Z",
+  "analytics": {
+    "visitors": {
+      "20a834c8": {
+        "primeiro_acesso": "2026-06-24T21:25:45.707Z",
+        "ultimo_acesso": "2026-06-24T21:25:45.707Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.795,
+        "lng": -35.20944
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T18:14:36.371Z"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-24T20:00:03.379Z",
+        "jogo": "J49"
+      },
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T20:09:16.659Z",
+        "jogo": "J49"
+      },
+      {
+        "fp": "20a834c8",
+        "ts": "2026-06-24T21:25:45.707Z"
+      }
+    ]
+  }
 }
