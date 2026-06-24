@@ -4019,10 +4019,10 @@
         }
       ],
       "stats": {
-        "possession_a": 63.5,
-        "possession_b": 36.5,
+        "possession_a": 63.6,
+        "possession_b": 36.4,
         "shots_a": 20,
-        "shots_b": 7,
+        "shots_b": 8,
         "shots_on_a": 9,
         "shots_on_b": 1,
         "corners_a": 5,
@@ -4036,7 +4036,7 @@
       "a": 2,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "63",
+      "minute": "64",
       "events": [
         {
           "type": "yellow_card",
@@ -4086,8 +4086,8 @@
         }
       ],
       "stats": {
-        "possession_a": 61.9,
-        "possession_b": 38.1,
+        "possession_a": 62.2,
+        "possession_b": 37.8,
         "shots_a": 6,
         "shots_b": 7,
         "shots_on_a": 4,
@@ -4095,7 +4095,7 @@
         "corners_a": 2,
         "corners_b": 3,
         "fouls_a": 14,
-        "fouls_b": 5
+        "fouls_b": 6
       },
       "savedToGH": false
     },
@@ -4103,7 +4103,7 @@
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "59",
+      "minute": "60",
       "events": [
         {
           "type": "goal",
@@ -4157,8 +4157,8 @@
         }
       ],
       "stats": {
-        "possession_a": 60,
-        "possession_b": 40,
+        "possession_a": 59.9,
+        "possession_b": 40.1,
         "shots_a": 9,
         "shots_b": 5,
         "shots_on_a": 3,
@@ -4229,9 +4229,22 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
-        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-24T20:00:03.379Z",
+        "ultimo_acesso": "2026-06-24T20:00:03.379Z",
+        "acessos_total": 0,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      },
+      "3b3cffe9": {
+        "primeiro_acesso": "2026-06-24T20:09:16.659Z",
+        "ultimo_acesso": "2026-06-24T20:09:16.659Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -4249,10 +4262,16 @@
         "ts": "2026-06-24T18:14:36.371Z"
       },
       {
-        "fp": "f603cb5b",
-        "ts": "2026-06-24T18:21:23.433Z"
+        "fp": "0ac05a10",
+        "ts": "2026-06-24T20:00:03.379Z",
+        "jogo": "J49"
+      },
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T20:09:16.659Z",
+        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-24T20:21:43.089Z"
+  "updatedAt": "2026-06-24T20:22:35.125Z"
 }
