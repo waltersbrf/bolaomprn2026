@@ -4633,7 +4633,7 @@
       "a": 0,
       "b": 1,
       "status": "IN_PLAY",
-      "minute": "32",
+      "minute": "33",
       "events": [
         {
           "type": "goal",
@@ -4655,8 +4655,8 @@
         }
       ],
       "stats": {
-        "possession_a": 26.4,
-        "possession_b": 73.6,
+        "possession_a": 26.1,
+        "possession_b": 73.9,
         "shots_a": 2,
         "shots_b": 4,
         "shots_on_a": 1,
@@ -4758,5 +4758,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:34:06.665Z"
+  "updatedAt": "2026-06-25T20:34:37.649Z"
 }
