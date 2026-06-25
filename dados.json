@@ -4802,7 +4802,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "30",
+      "minute": "32",
       "events": [
         {
           "type": "goal",
@@ -4840,15 +4840,15 @@
         }
       ],
       "stats": {
-        "possession_a": 32.6,
-        "possession_b": 67.4,
+        "possession_a": 31.9,
+        "possession_b": 68.1,
         "shots_a": 3,
-        "shots_b": 6,
+        "shots_b": 8,
         "shots_on_a": 1,
         "shots_on_b": 2,
         "corners_a": 1,
-        "corners_b": 2,
-        "fouls_a": 3,
+        "corners_b": 3,
+        "fouls_a": 4,
         "fouls_b": 2
       },
       "savedToGH": true
@@ -4857,12 +4857,19 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "31",
-      "events": [],
+      "minute": "32",
+      "events": [
+        {
+          "type": "yellow_card",
+          "player": "Isak Hien",
+          "team": "Suécia",
+          "minute": "32"
+        }
+      ],
       "goals": [],
       "stats": {
-        "possession_a": 51.4,
-        "possession_b": 48.6,
+        "possession_a": 50.6,
+        "possession_b": 49.4,
         "shots_a": 2,
         "shots_b": 1,
         "shots_on_a": 0,
@@ -4870,7 +4877,7 @@
         "corners_a": 0,
         "corners_b": 2,
         "fouls_a": 5,
-        "fouls_b": 1
+        "fouls_b": 3
       },
       "savedToGH": true
     },
@@ -4944,5 +4951,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T23:30:58.995Z"
+  "updatedAt": "2026-06-25T23:31:59.716Z"
 }
