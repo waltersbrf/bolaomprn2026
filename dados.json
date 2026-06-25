@@ -4801,7 +4801,7 @@
     "57": {
       "a": 0,
       "b": 2,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "45+1'",
       "events": [
         {
@@ -4876,7 +4876,7 @@
         "shots_on_b": 1,
         "corners_a": 1,
         "corners_b": 2,
-        "fouls_a": 9,
+        "fouls_a": 10,
         "fouls_b": 6
       },
       "savedToGH": true
@@ -4951,5 +4951,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T23:46:21.918Z"
+  "updatedAt": "2026-06-25T23:46:52.663Z"
 }
