@@ -4578,7 +4578,7 @@
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "84",
+      "minute": "86",
       "events": [
         {
           "type": "goal",
@@ -4667,7 +4667,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "84",
+      "minute": "85",
       "events": [
         {
           "type": "goal",
@@ -4701,7 +4701,7 @@
           "type": "yellow_card",
           "player": "Gervane Kastaneer",
           "team": "Curaçau",
-          "minute": "84"
+          "minute": "83"
         }
       ],
       "goals": [
@@ -4826,5 +4826,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T21:45:34.893Z"
+  "updatedAt": "2026-06-25T21:46:35.479Z"
 }
