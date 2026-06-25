@@ -4578,7 +4578,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "45+1'",
+      "minute": "45+2'",
       "events": [
         {
           "type": "goal",
@@ -4628,8 +4628,8 @@
         }
       ],
       "stats": {
-        "possession_a": 38.9,
-        "possession_b": 61.1,
+        "possession_a": 37.1,
+        "possession_b": 62.9,
         "shots_a": 2,
         "shots_b": 6,
         "shots_on_a": 1,
@@ -4639,13 +4639,13 @@
         "fouls_a": 9,
         "fouls_b": 3
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "56": {
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "45+1'",
+      "minute": "45+2'",
       "events": [
         {
           "type": "goal",
@@ -4673,18 +4673,18 @@
         }
       ],
       "stats": {
-        "possession_a": 28.1,
-        "possession_b": 71.9,
+        "possession_a": 28.2,
+        "possession_b": 71.8,
         "shots_a": 4,
         "shots_b": 4,
         "shots_on_a": 1,
         "shots_on_b": 1,
         "corners_a": 1,
-        "corners_b": 2,
+        "corners_b": 3,
         "fouls_a": 7,
         "fouls_b": 3
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "57": {
       "a": 0,
@@ -4694,7 +4694,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "58": {
       "a": 0,
@@ -4704,7 +4704,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "59": {
       "a": 0,
@@ -4714,7 +4714,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "60": {
       "a": 0,
@@ -4724,7 +4724,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4758,6 +4758,19 @@
         "pais": "BR",
         "lat": -5.8111,
         "lng": -35.2235
+      },
+      "4cc0b7dc": {
+        "primeiro_acesso": "2026-06-25T20:46:38.371Z",
+        "ultimo_acesso": "2026-06-25T20:46:38.371Z",
+        "acessos_total": 0,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4773,8 +4786,13 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
+      },
+      {
+        "fp": "4cc0b7dc",
+        "ts": "2026-06-25T20:46:38.371Z",
+        "jogo": "J55"
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:46:53.089Z"
+  "updatedAt": "2026-06-25T20:47:38.514Z"
 }
