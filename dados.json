@@ -4575,16 +4575,24 @@
       "savedToGH": true
     },
     "55": {
-      "a": 0,
+      "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "8",
+      "minute": "9",
       "events": [
         {
           "type": "goal",
           "player": "Leroy Sané",
           "team": "Alemanha",
           "minute": "2",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Nilson Angulo",
+          "team": "Equador",
+          "minute": "9",
           "penalty": false,
           "og": false
         }
@@ -4595,6 +4603,14 @@
           "player": "Leroy Sané",
           "team": "Alemanha",
           "minute": "2",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Nilson Angulo",
+          "team": "Equador",
+          "minute": "9",
           "penalty": false,
           "og": false
         }
@@ -4617,7 +4633,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "8",
+      "minute": "9",
       "events": [
         {
           "type": "goal",
@@ -4639,15 +4655,15 @@
         }
       ],
       "stats": {
-        "possession_a": 25.7,
-        "possession_b": 74.3,
+        "possession_a": 29.9,
+        "possession_b": 70.1,
         "shots_a": 1,
         "shots_b": 1,
         "shots_on_a": 1,
         "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 0,
-        "fouls_a": 1,
+        "fouls_a": 2,
         "fouls_b": 0
       },
       "savedToGH": false
@@ -4742,5 +4758,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:09:09.530Z"
+  "updatedAt": "2026-06-25T20:10:08.671Z"
 }
