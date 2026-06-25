@@ -4632,8 +4632,8 @@
     "56": {
       "a": 0,
       "b": 1,
-      "status": "IN_PLAY",
-      "minute": "34",
+      "status": "SCHEDULED",
+      "minute": "35",
       "events": [
         {
           "type": "goal",
@@ -4642,6 +4642,12 @@
           "minute": "7",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Nicolas Pépé",
+          "team": "Costa do Marfim",
+          "minute": "36"
         }
       ],
       "goals": [
@@ -4655,8 +4661,8 @@
         }
       ],
       "stats": {
-        "possession_a": 24.9,
-        "possession_b": 75.1,
+        "possession_a": 25.6,
+        "possession_b": 74.4,
         "shots_a": 2,
         "shots_b": 4,
         "shots_on_a": 1,
@@ -4664,7 +4670,7 @@
         "corners_a": 1,
         "corners_b": 1,
         "fouls_a": 6,
-        "fouls_b": 1
+        "fouls_b": 2
       },
       "savedToGH": false
     },
@@ -4758,5 +4764,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:36:10.669Z"
+  "updatedAt": "2026-06-25T20:36:41.688Z"
 }
