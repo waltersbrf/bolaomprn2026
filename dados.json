@@ -4577,7 +4577,7 @@
     "55": {
       "a": 1,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "46",
       "events": [
         {
@@ -4644,8 +4644,8 @@
     "56": {
       "a": 0,
       "b": 1,
-      "status": "PAUSED",
-      "minute": "45+5'",
+      "status": "SCHEDULED",
+      "minute": "46",
       "events": [
         {
           "type": "goal",
@@ -4673,8 +4673,8 @@
         }
       ],
       "stats": {
-        "possession_a": 30.4,
-        "possession_b": 69.6,
+        "possession_a": 30.6,
+        "possession_b": 69.4,
         "shots_a": 4,
         "shots_b": 4,
         "shots_on_a": 1,
@@ -4776,5 +4776,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T21:06:54.746Z"
+  "updatedAt": "2026-06-25T21:07:23.733Z"
 }
