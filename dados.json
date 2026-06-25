@@ -4577,8 +4577,8 @@
     "55": {
       "a": 1,
       "b": 1,
-      "status": "PAUSED",
-      "minute": "45+4'",
+      "status": "IN_PLAY",
+      "minute": "46",
       "events": [
         {
           "type": "goal",
@@ -4639,7 +4639,7 @@
         "fouls_a": 9,
         "fouls_b": 3
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "56": {
       "a": 0,
@@ -4694,7 +4694,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "58": {
       "a": 0,
@@ -4704,7 +4704,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "59": {
       "a": 0,
@@ -4714,7 +4714,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "60": {
       "a": 0,
@@ -4724,7 +4724,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4746,19 +4746,6 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-25T20:39:26.479Z",
-        "ultimo_acesso": "2026-06-25T20:39:26.479Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      },
       "3cb3d598": {
         "primeiro_acesso": "2026-06-24T20:39:41.674Z",
         "ultimo_acesso": "2026-06-24T20:39:41.674Z",
@@ -4786,13 +4773,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "22244835",
-        "ts": "2026-06-25T20:39:26.479Z",
-        "jogo": "J55"
       }
     ]
   },
-  "updatedAt": "2026-06-25T21:04:41.327Z"
+  "updatedAt": "2026-06-25T21:06:54.746Z"
 }
