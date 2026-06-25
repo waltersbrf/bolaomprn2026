@@ -4494,8 +4494,8 @@
         }
       ],
       "stats": {
-        "possession_a": 52.6,
-        "possession_b": 47.4,
+        "possession_a": 52.5,
+        "possession_b": 47.5,
         "shots_a": 10,
         "shots_b": 9,
         "shots_on_a": 1,
@@ -4511,7 +4511,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "78",
+      "minute": "79",
       "events": [
         {
           "type": "goal",
@@ -4526,6 +4526,12 @@
           "player": "Aubrey Modiba",
           "team": "África do Sul",
           "minute": "73"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Cho Gue-Sung",
+          "team": "Coreia do Sul",
+          "minute": "79"
         }
       ],
       "goals": [
@@ -4601,5 +4607,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:38:44.761Z"
+  "updatedAt": "2026-06-25T02:39:46.105Z"
 }
