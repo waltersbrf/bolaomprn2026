@@ -4526,7 +4526,7 @@
     "54": {
       "a": 1,
       "b": 0,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+6'",
       "events": [
         {
@@ -4561,8 +4561,8 @@
         }
       ],
       "stats": {
-        "possession_a": 31.4,
-        "possession_b": 68.6,
+        "possession_a": 31.6,
+        "possession_b": 68.4,
         "shots_a": 13,
         "shots_b": 8,
         "shots_on_a": 4,
@@ -4588,7 +4588,8 @@
     "20260620",
     "20260621",
     "20260622",
-    "20260623"
+    "20260623",
+    "20260624"
   ],
   "adminMsg": null,
   "analytics": {
@@ -4623,5 +4624,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:58:04.764Z"
+  "updatedAt": "2026-06-25T03:00:07.177Z"
 }
