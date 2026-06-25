@@ -4433,8 +4433,8 @@
         }
       ],
       "stats": {
-        "possession_a": 69,
-        "possession_b": 31,
+        "possession_a": 69.1,
+        "possession_b": 30.9,
         "shots_a": 22,
         "shots_b": 9,
         "shots_on_a": 11,
@@ -4561,8 +4561,8 @@
         }
       ],
       "stats": {
-        "possession_a": 31.6,
-        "possession_b": 68.4,
+        "possession_a": 31.5,
+        "possession_b": 68.5,
         "shots_a": 13,
         "shots_b": 8,
         "shots_on_a": 4,
@@ -4578,7 +4578,7 @@
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "83",
+      "minute": "84",
       "events": [
         {
           "type": "goal",
@@ -4667,7 +4667,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "83",
+      "minute": "84",
       "events": [
         {
           "type": "goal",
@@ -4696,6 +4696,12 @@
           "player": "Juninho Bacuna",
           "team": "Curaçau",
           "minute": "75"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Gervane Kastaneer",
+          "team": "Curaçau",
+          "minute": "84"
         }
       ],
       "goals": [
@@ -4790,35 +4796,27 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-25T21:44:18.089Z",
+        "ultimo_acesso": "2026-06-25T21:44:18.089Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
       {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-24T18:14:36.371Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-24T18:21:23.433Z"
-      },
-      {
-        "fp": "3cb3d598",
-        "ts": "2026-06-24T20:39:41.674Z",
-        "jogo": "J49"
+        "fp": "0ac05a10",
+        "ts": "2026-06-25T21:44:18.089Z",
+        "jogo": "J55"
       }
     ]
   },
-  "updatedAt": "2026-06-25T21:44:31.479Z"
+  "updatedAt": "2026-06-25T21:45:12.359Z"
 }
