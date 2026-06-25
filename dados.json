@@ -4470,7 +4470,7 @@
     "54": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "17",
       "events": [],
       "goals": [],
@@ -4537,5 +4537,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T01:17:35.874Z"
+  "updatedAt": "2026-06-25T01:18:06.756Z"
 }
