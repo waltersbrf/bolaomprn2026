@@ -4450,7 +4450,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "71",
+      "minute": "73",
       "events": [
         {
           "type": "goal",
@@ -4494,8 +4494,8 @@
         }
       ],
       "stats": {
-        "possession_a": 52.1,
-        "possession_b": 47.9,
+        "possession_a": 52,
+        "possession_b": 48,
         "shots_a": 10,
         "shots_b": 8,
         "shots_on_a": 1,
@@ -4511,7 +4511,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "72",
+      "minute": "73",
       "events": [
         {
           "type": "goal",
@@ -4520,6 +4520,12 @@
           "minute": "63",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Aubrey Modiba",
+          "team": "África do Sul",
+          "minute": "73"
         }
       ],
       "goals": [
@@ -4533,15 +4539,15 @@
         }
       ],
       "stats": {
-        "possession_a": 35.3,
-        "possession_b": 64.7,
+        "possession_a": 35.1,
+        "possession_b": 64.9,
         "shots_a": 13,
         "shots_b": 5,
         "shots_on_a": 4,
         "shots_on_b": 2,
         "corners_a": 4,
         "corners_b": 2,
-        "fouls_a": 4,
+        "fouls_a": 5,
         "fouls_b": 6
       },
       "savedToGH": true
@@ -4595,5 +4601,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:32:38.770Z"
+  "updatedAt": "2026-06-25T02:33:39.978Z"
 }
