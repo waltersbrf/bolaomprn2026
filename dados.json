@@ -4801,8 +4801,8 @@
     "57": {
       "a": 0,
       "b": 2,
-      "status": "SCHEDULED",
-      "minute": "45",
+      "status": "IN_PLAY",
+      "minute": "45+1'",
       "events": [
         {
           "type": "goal",
@@ -4857,7 +4857,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "45",
+      "minute": "45+1'",
       "events": [
         {
           "type": "yellow_card",
@@ -4951,5 +4951,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T23:45:20.629Z"
+  "updatedAt": "2026-06-25T23:46:21.918Z"
 }
