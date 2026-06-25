@@ -4507,18 +4507,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "f9645585": {
+        "primeiro_acesso": "2026-06-25T00:00:15.662Z",
+        "ultimo_acesso": "2026-06-25T00:00:15.662Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Recife",
+        "estado": "PE",
         "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "lat": -8.0091,
+        "lng": -34.9498
       }
     },
     "acessos_log": [
@@ -4534,8 +4534,12 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
+      },
+      {
+        "fp": "f9645585",
+        "ts": "2026-06-25T00:00:15.662Z"
       }
     ]
   },
-  "updatedAt": "2026-06-25T00:01:04.434Z"
+  "updatedAt": "2026-06-25T00:01:13.921Z"
 }
