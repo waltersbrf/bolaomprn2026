@@ -4433,8 +4433,8 @@
         }
       ],
       "stats": {
-        "possession_a": 69,
-        "possession_b": 31,
+        "possession_a": 69.1,
+        "possession_b": 30.9,
         "shots_a": 22,
         "shots_b": 9,
         "shots_on_a": 11,
@@ -4561,8 +4561,8 @@
         }
       ],
       "stats": {
-        "possession_a": 31.6,
-        "possession_b": 68.4,
+        "possession_a": 31.5,
+        "possession_b": 68.5,
         "shots_a": 13,
         "shots_b": 8,
         "shots_on_a": 4,
@@ -4573,6 +4573,66 @@
         "fouls_b": 9
       },
       "savedToGH": true
+    },
+    "55": {
+      "a": 0,
+      "b": 0,
+      "status": "SCHEDULED",
+      "minute": "0",
+      "events": [],
+      "goals": [],
+      "stats": null,
+      "savedToGH": false
+    },
+    "56": {
+      "a": 0,
+      "b": 0,
+      "status": "SCHEDULED",
+      "minute": "0",
+      "events": [],
+      "goals": [],
+      "stats": null,
+      "savedToGH": false
+    },
+    "57": {
+      "a": 0,
+      "b": 0,
+      "status": "SCHEDULED",
+      "minute": "0",
+      "events": [],
+      "goals": [],
+      "stats": null,
+      "savedToGH": false
+    },
+    "58": {
+      "a": 0,
+      "b": 0,
+      "status": "SCHEDULED",
+      "minute": "0",
+      "events": [],
+      "goals": [],
+      "stats": null,
+      "savedToGH": false
+    },
+    "59": {
+      "a": 0,
+      "b": 0,
+      "status": "SCHEDULED",
+      "minute": "0",
+      "events": [],
+      "goals": [],
+      "stats": null,
+      "savedToGH": false
+    },
+    "60": {
+      "a": 0,
+      "b": 0,
+      "status": "SCHEDULED",
+      "minute": "0",
+      "events": [],
+      "goals": [],
+      "stats": null,
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4594,35 +4654,27 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "22244835": {
+        "primeiro_acesso": "2026-06-25T02:17:43.912Z",
+        "ultimo_acesso": "2026-06-25T02:17:43.912Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
       {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-24T18:14:36.371Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-24T18:21:23.433Z"
-      },
-      {
-        "fp": "3cb3d598",
-        "ts": "2026-06-24T20:39:41.674Z",
-        "jogo": "J49"
+        "fp": "22244835",
+        "ts": "2026-06-25T02:17:43.912Z",
+        "jogo": "J53"
       }
     ]
   },
-  "updatedAt": "2026-06-25T03:00:07.177Z"
+  "updatedAt": "2026-06-25T03:11:40.209Z"
 }
