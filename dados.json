@@ -4475,8 +4475,8 @@
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 37.6,
-        "possession_b": 62.4,
+        "possession_a": 36.9,
+        "possession_b": 63.1,
         "shots_a": 4,
         "shots_b": 3,
         "shots_on_a": 1,
@@ -4519,19 +4519,6 @@
         "pais": "BR",
         "lat": -5.8111,
         "lng": -35.2235
-      },
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-25T01:30:50.384Z",
-        "ultimo_acesso": "2026-06-25T01:30:50.384Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
       }
     },
     "acessos_log": [
@@ -4547,13 +4534,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-25T01:30:50.384Z",
-        "jogo": "J53"
       }
     ]
   },
-  "updatedAt": "2026-06-25T01:30:50.461Z"
+  "updatedAt": "2026-06-25T01:31:50.540Z"
 }
