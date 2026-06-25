@@ -4433,8 +4433,8 @@
         }
       ],
       "stats": {
-        "possession_a": 69.1,
-        "possession_b": 30.9,
+        "possession_a": 69,
+        "possession_b": 31,
         "shots_a": 22,
         "shots_b": 9,
         "shots_on_a": 11,
@@ -4510,8 +4510,8 @@
         }
       ],
       "stats": {
-        "possession_a": 51.9,
-        "possession_b": 48.1,
+        "possession_a": 51.6,
+        "possession_b": 48.4,
         "shots_a": 13,
         "shots_b": 11,
         "shots_on_a": 1,
@@ -4746,7 +4746,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "21",
+      "minute": "22",
       "events": [
         {
           "type": "goal",
@@ -4784,8 +4784,8 @@
         }
       ],
       "stats": {
-        "possession_a": 34.2,
-        "possession_b": 65.8,
+        "possession_a": 32.4,
+        "possession_b": 67.6,
         "shots_a": 3,
         "shots_b": 4,
         "shots_on_a": 1,
@@ -4801,13 +4801,13 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "20",
+      "minute": "21",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 56.5,
-        "possession_b": 43.5,
-        "shots_a": 1,
+        "possession_a": 57.7,
+        "possession_b": 42.3,
+        "shots_a": 2,
         "shots_b": 1,
         "shots_on_a": 0,
         "shots_on_b": 1,
@@ -4858,27 +4858,35 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "42e916ad": {
-        "primeiro_acesso": "2026-06-25T21:40:01.622Z",
-        "ultimo_acesso": "2026-06-25T21:40:01.622Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
-        "fp": "42e916ad",
-        "ts": "2026-06-25T21:40:01.622Z",
-        "jogo": "J55"
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T18:14:36.371Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-24T20:39:41.674Z",
+        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-25T23:21:20.179Z"
+  "updatedAt": "2026-06-25T23:22:17.397Z"
 }
