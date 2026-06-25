@@ -4578,7 +4578,7 @@
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "89",
+      "minute": "90+1'",
       "events": [
         {
           "type": "goal",
@@ -4667,13 +4667,13 @@
         "fouls_a": 15,
         "fouls_b": 9
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "56": {
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "89",
+      "minute": "90",
       "events": [
         {
           "type": "goal",
@@ -4729,8 +4729,8 @@
         }
       ],
       "stats": {
-        "possession_a": 36.1,
-        "possession_b": 63.9,
+        "possession_a": 36.2,
+        "possession_b": 63.8,
         "shots_a": 9,
         "shots_b": 6,
         "shots_on_a": 2,
@@ -4750,7 +4750,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "58": {
       "a": 0,
@@ -4760,7 +4760,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "59": {
       "a": 0,
@@ -4770,7 +4770,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "60": {
       "a": 0,
@@ -4780,7 +4780,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4802,19 +4802,6 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-25T20:39:26.479Z",
-        "ultimo_acesso": "2026-06-25T20:39:26.479Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      },
       "3cb3d598": {
         "primeiro_acesso": "2026-06-24T20:39:41.674Z",
         "ultimo_acesso": "2026-06-24T20:39:41.674Z",
@@ -4842,13 +4829,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "22244835",
-        "ts": "2026-06-25T20:39:26.479Z",
-        "jogo": "J55"
       }
     ]
   },
-  "updatedAt": "2026-06-25T21:50:57.397Z"
+  "updatedAt": "2026-06-25T21:51:43.203Z"
 }
