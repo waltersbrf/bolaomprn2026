@@ -4312,8 +4312,8 @@
     "52": {
       "a": 4,
       "b": 2,
-      "status": "SCHEDULED",
-      "minute": "90+8'",
+      "status": "FINISHED",
+      "minute": "90+9'",
       "events": [
         {
           "type": "goal",
@@ -4433,10 +4433,10 @@
         }
       ],
       "stats": {
-        "possession_a": 69.2,
-        "possession_b": 30.8,
+        "possession_a": 69,
+        "possession_b": 31,
         "shots_a": 22,
-        "shots_b": 7,
+        "shots_b": 10,
         "shots_on_a": 11,
         "shots_on_b": 2,
         "corners_a": 9,
@@ -4507,18 +4507,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f9645585": {
-        "primeiro_acesso": "2026-06-25T00:00:15.662Z",
-        "ultimo_acesso": "2026-06-25T00:00:15.662Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Recife",
-        "estado": "PE",
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
         "pais": "BR",
-        "lat": -8.0091,
-        "lng": -34.9498
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4534,12 +4534,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "f9645585",
-        "ts": "2026-06-25T00:00:15.662Z"
       }
     ]
   },
-  "updatedAt": "2026-06-25T00:01:13.921Z"
+  "updatedAt": "2026-06-25T00:02:05.585Z"
 }
