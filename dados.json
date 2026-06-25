@@ -4448,9 +4448,9 @@
     },
     "53": {
       "a": 0,
-      "b": 2,
+      "b": 3,
       "status": "SCHEDULED",
-      "minute": "90+3'",
+      "minute": "90+5'",
       "events": [
         {
           "type": "goal",
@@ -4473,6 +4473,14 @@
           "player": "Edson Álvarez",
           "team": "México",
           "minute": "64"
+        },
+        {
+          "type": "goal",
+          "player": "Álvaro Fidalgo",
+          "team": "México",
+          "minute": "90+4'",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -4491,15 +4499,23 @@
           "minute": "61",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Álvaro Fidalgo",
+          "team": "México",
+          "minute": "90+4'",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 51,
-        "possession_b": 49,
-        "shots_a": 12,
-        "shots_b": 9,
+        "possession_a": 51.3,
+        "possession_b": 48.7,
+        "shots_a": 13,
+        "shots_b": 10,
         "shots_on_a": 1,
-        "shots_on_b": 3,
+        "shots_on_b": 4,
         "corners_a": 5,
         "corners_b": 1,
         "fouls_a": 9,
@@ -4511,7 +4527,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "90+3'",
+      "minute": "90+4'",
       "events": [
         {
           "type": "goal",
@@ -4545,12 +4561,12 @@
         }
       ],
       "stats": {
-        "possession_a": 30.5,
-        "possession_b": 69.5,
+        "possession_a": 31,
+        "possession_b": 69,
         "shots_a": 13,
-        "shots_b": 7,
+        "shots_b": 8,
         "shots_on_a": 4,
-        "shots_on_b": 2,
+        "shots_on_b": 3,
         "corners_a": 4,
         "corners_b": 6,
         "fouls_a": 7,
@@ -4607,5 +4623,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:54:00.851Z"
+  "updatedAt": "2026-06-25T02:55:01.883Z"
 }
