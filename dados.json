@@ -4577,7 +4577,7 @@
     "55": {
       "a": 1,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "31",
       "events": [
         {
@@ -4633,7 +4633,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "29",
+      "minute": "30",
       "events": [
         {
           "type": "goal",
@@ -4758,5 +4758,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:31:02.703Z"
+  "updatedAt": "2026-06-25T20:31:33.970Z"
 }
