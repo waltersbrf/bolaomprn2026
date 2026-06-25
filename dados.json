@@ -4600,8 +4600,8 @@
         }
       ],
       "stats": {
-        "possession_a": 17.6,
-        "possession_b": 82.4,
+        "possession_a": 17.1,
+        "possession_b": 82.9,
         "shots_a": 0,
         "shots_b": 1,
         "shots_on_a": 0,
@@ -4616,7 +4616,7 @@
     "56": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "5",
       "events": [],
       "goals": [],
@@ -4724,5 +4724,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:06:07.224Z"
+  "updatedAt": "2026-06-25T20:06:34.644Z"
 }
