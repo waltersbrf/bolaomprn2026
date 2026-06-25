@@ -4448,19 +4448,37 @@
     },
     "53": {
       "a": 0,
-      "b": 0,
+      "b": 1,
       "status": "SCHEDULED",
-      "minute": "54",
-      "events": [],
-      "goals": [],
+      "minute": "55",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Mateo Chávez",
+          "team": "México",
+          "minute": "55",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Mateo Chávez",
+          "team": "México",
+          "minute": "55",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 45.2,
-        "possession_b": 54.8,
+        "possession_a": 45.8,
+        "possession_b": 54.2,
         "shots_a": 7,
         "shots_b": 6,
         "shots_on_a": 1,
         "shots_on_b": 1,
-        "corners_a": 0,
+        "corners_a": 1,
         "corners_b": 0,
         "fouls_a": 5,
         "fouls_b": 9
@@ -4471,7 +4489,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "54",
+      "minute": "55",
       "events": [],
       "goals": [],
       "stats": {
@@ -4507,18 +4525,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-25T02:14:03.990Z",
-        "ultimo_acesso": "2026-06-25T02:14:03.990Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "Currais Novos",
+        "tipo": "Desktop",
+        "cidade": "Natal",
         "estado": "RN",
         "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4534,13 +4552,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "c3622db8",
-        "ts": "2026-06-25T02:14:03.990Z",
-        "jogo": "J53"
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:15:01.610Z"
+  "updatedAt": "2026-06-25T02:15:52.320Z"
 }
