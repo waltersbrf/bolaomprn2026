@@ -4449,7 +4449,7 @@
     "53": {
       "a": 0,
       "b": 3,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+6'",
       "events": [
         {
@@ -4510,8 +4510,8 @@
         }
       ],
       "stats": {
-        "possession_a": 51.7,
-        "possession_b": 48.3,
+        "possession_a": 51.6,
+        "possession_b": 48.4,
         "shots_a": 13,
         "shots_b": 11,
         "shots_on_a": 1,
@@ -4623,5 +4623,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:57:04.226Z"
+  "updatedAt": "2026-06-25T02:58:04.764Z"
 }
