@@ -4449,8 +4449,8 @@
     "53": {
       "a": 0,
       "b": 0,
-      "status": "PAUSED",
-      "minute": "45+4'",
+      "status": "SCHEDULED",
+      "minute": "46",
       "events": [],
       "goals": [],
       "stats": {
@@ -4470,8 +4470,8 @@
     "54": {
       "a": 0,
       "b": 0,
-      "status": "PAUSED",
-      "minute": "45+5'",
+      "status": "SCHEDULED",
+      "minute": "46",
       "events": [],
       "goals": [],
       "stats": {
@@ -4537,5 +4537,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:06:11.121Z"
+  "updatedAt": "2026-06-25T02:06:40.817Z"
 }
