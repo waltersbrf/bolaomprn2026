@@ -4650,24 +4650,24 @@
         }
       ],
       "stats": {
-        "possession_a": 42.7,
-        "possession_b": 57.3,
-        "shots_a": 6,
+        "possession_a": 42.5,
+        "possession_b": 57.5,
+        "shots_a": 8,
         "shots_b": 9,
-        "shots_on_a": 2,
+        "shots_on_a": 3,
         "shots_on_b": 3,
         "corners_a": 3,
         "corners_b": 1,
         "fouls_a": 11,
         "fouls_b": 8
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "56": {
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "78",
+      "minute": "79",
       "events": [
         {
           "type": "goal",
@@ -4728,7 +4728,7 @@
         "fouls_a": 11,
         "fouls_b": 4
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "57": {
       "a": 0,
@@ -4738,7 +4738,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "58": {
       "a": 0,
@@ -4748,7 +4748,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "59": {
       "a": 0,
@@ -4758,7 +4758,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "60": {
       "a": 0,
@@ -4768,7 +4768,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4790,18 +4790,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-25T21:07:53.358Z",
+        "ultimo_acesso": "2026-06-25T21:07:53.358Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4817,8 +4817,13 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
+      },
+      {
+        "fp": "42e916ad",
+        "ts": "2026-06-25T21:07:53.358Z",
+        "jogo": "J55"
       }
     ]
   },
-  "updatedAt": "2026-06-25T21:39:22.648Z"
+  "updatedAt": "2026-06-25T21:39:55.188Z"
 }
