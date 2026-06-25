@@ -4860,8 +4860,8 @@
     "visitors": {
       "3cb3d598": {
         "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
-        "acessos_total": 0,
+        "ultimo_acesso": "2026-06-25T23:26:26.774Z",
+        "acessos_total": 1,
         "dispositivo": "Windows",
         "navegador": "Chrome",
         "tipo": "Desktop",
@@ -4888,5 +4888,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T23:23:54.383Z"
+  "updatedAt": "2026-06-25T23:26:28.516Z"
 }
