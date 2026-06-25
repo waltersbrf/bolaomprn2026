@@ -2584,5 +2584,28 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-25T18:41:12.229Z"
+  "updatedAt": "2026-06-25T18:41:15.897Z",
+  "analytics": {
+    "visitors": {
+      "51249f10": {
+        "primeiro_acesso": "2026-06-25T18:41:15.307Z",
+        "ultimo_acesso": "2026-06-25T18:41:15.307Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Jacarezinho",
+        "estado": "PR",
+        "pais": "BR",
+        "lat": -23.16056,
+        "lng": -49.96944
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "51249f10",
+        "ts": "2026-06-25T18:41:15.307Z"
+      }
+    ]
+  }
 }
