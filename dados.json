@@ -4450,7 +4450,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "45+3'",
+      "minute": "45+4'",
       "events": [],
       "goals": [],
       "stats": {
@@ -4486,7 +4486,7 @@
         "fouls_a": 2,
         "fouls_b": 4
       },
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4507,18 +4507,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "20a834c8": {
-        "primeiro_acesso": "2026-06-25T01:45:11.517Z",
-        "ultimo_acesso": "2026-06-25T01:45:11.517Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4534,13 +4534,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "20a834c8",
-        "ts": "2026-06-25T01:45:11.517Z",
-        "jogo": "J53"
       }
     ]
   },
-  "updatedAt": "2026-06-25T01:49:11.958Z"
+  "updatedAt": "2026-06-25T01:49:40.689Z"
 }
