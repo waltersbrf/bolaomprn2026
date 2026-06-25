@@ -4465,20 +4465,20 @@
         "fouls_a": 1,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "54": {
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "8",
+      "minute": "9",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 42.6,
-        "possession_b": 57.4,
+        "possession_a": 40.2,
+        "possession_b": 59.8,
         "shots_a": 1,
-        "shots_b": 1,
+        "shots_b": 3,
         "shots_on_a": 0,
         "shots_on_b": 1,
         "corners_a": 2,
@@ -4486,7 +4486,7 @@
         "fouls_a": 0,
         "fouls_b": 1
       },
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4507,18 +4507,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-24T18:21:23.433Z",
+        "ultimo_acesso": "2026-06-24T18:21:23.433Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4529,13 +4529,8 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-24T18:21:23.433Z"
-      },
-      {
-        "fp": "3cb3d598",
-        "ts": "2026-06-24T20:39:41.674Z",
-        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-25T01:08:56.119Z"
+  "updatedAt": "2026-06-25T01:09:14.731Z"
 }
