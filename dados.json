@@ -4578,7 +4578,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "49",
+      "minute": "51",
       "events": [
         {
           "type": "goal",
@@ -4607,6 +4607,12 @@
           "player": "Aleksandar Pavlovic",
           "team": "Alemanha",
           "minute": "44"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Alan Franco",
+          "team": "Equador",
+          "minute": "50"
         }
       ],
       "goals": [
@@ -4645,7 +4651,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "49",
+      "minute": "50",
       "events": [
         {
           "type": "goal",
@@ -4776,5 +4782,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T21:10:36.681Z"
+  "updatedAt": "2026-06-25T21:11:37.678Z"
 }
