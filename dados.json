@@ -4450,16 +4450,16 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "39",
+      "minute": "40",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 50.6,
-        "possession_b": 49.4,
+        "possession_a": 49.7,
+        "possession_b": 50.3,
         "shots_a": 5,
-        "shots_b": 1,
+        "shots_b": 4,
         "shots_on_a": 0,
-        "shots_on_b": 0,
+        "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 0,
         "fouls_a": 4,
@@ -4471,12 +4471,12 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "39",
+      "minute": "40",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 37.2,
-        "possession_b": 62.8,
+        "possession_a": 35.7,
+        "possession_b": 64.3,
         "shots_a": 7,
         "shots_b": 4,
         "shots_on_a": 3,
@@ -4507,18 +4507,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "20a834c8": {
+        "primeiro_acesso": "2026-06-24T23:13:46.907Z",
+        "ultimo_acesso": "2026-06-24T23:13:46.907Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4534,8 +4534,13 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
+      },
+      {
+        "fp": "20a834c8",
+        "ts": "2026-06-24T23:13:46.907Z",
+        "jogo": "J51"
       }
     ]
   },
-  "updatedAt": "2026-06-25T01:40:00.552Z"
+  "updatedAt": "2026-06-25T01:40:43.347Z"
 }
