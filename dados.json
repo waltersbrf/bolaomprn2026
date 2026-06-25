@@ -4448,8 +4448,8 @@
     },
     "53": {
       "a": 0,
-      "b": 1,
-      "status": "IN_PLAY",
+      "b": 2,
+      "status": "SCHEDULED",
       "minute": "62",
       "events": [
         {
@@ -4491,9 +4491,9 @@
         "possession_a": 49.2,
         "possession_b": 50.8,
         "shots_a": 9,
-        "shots_b": 7,
+        "shots_b": 8,
         "shots_on_a": 1,
-        "shots_on_b": 2,
+        "shots_on_b": 3,
         "corners_a": 1,
         "corners_b": 0,
         "fouls_a": 6,
@@ -4505,7 +4505,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "61",
+      "minute": "62",
       "events": [],
       "goals": [],
       "stats": {
@@ -4541,18 +4541,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "0ac05a10": {
-        "primeiro_acesso": "2026-06-25T02:02:51.926Z",
-        "ultimo_acesso": "2026-06-25T02:12:01.728Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4568,23 +4568,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "20a834c8",
-        "ts": "2026-06-25T01:45:11.517Z",
-        "jogo": "J53"
-      },
-      {
-        "fp": "0ac05a10",
-        "ts": "2026-06-25T02:02:51.926Z",
-        "jogo": "J53"
-      },
-      {
-        "fp": "0ac05a10",
-        "ts": "2026-06-25T02:12:01.728Z",
-        "jogo": "J53"
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:22:13.014Z"
+  "updatedAt": "2026-06-25T02:22:30.635Z"
 }
