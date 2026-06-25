@@ -4616,10 +4616,10 @@
         }
       ],
       "stats": {
-        "possession_a": 42.1,
-        "possession_b": 57.9,
+        "possession_a": 41.4,
+        "possession_b": 58.6,
         "shots_a": 2,
-        "shots_b": 5,
+        "shots_b": 6,
         "shots_on_a": 1,
         "shots_on_b": 2,
         "corners_a": 1,
@@ -4627,12 +4627,12 @@
         "fouls_a": 8,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "56": {
       "a": 0,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "39",
       "events": [
         {
@@ -4661,8 +4661,8 @@
         }
       ],
       "stats": {
-        "possession_a": 25.4,
-        "possession_b": 74.6,
+        "possession_a": 25.7,
+        "possession_b": 74.3,
         "shots_a": 2,
         "shots_b": 4,
         "shots_on_a": 1,
@@ -4672,7 +4672,7 @@
         "fouls_a": 7,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "57": {
       "a": 0,
@@ -4682,7 +4682,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "58": {
       "a": 0,
@@ -4692,7 +4692,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "59": {
       "a": 0,
@@ -4702,7 +4702,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "60": {
       "a": 0,
@@ -4712,7 +4712,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4734,19 +4734,6 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-25T20:30:05.316Z",
-        "ultimo_acesso": "2026-06-25T20:30:05.316Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      },
       "3cb3d598": {
         "primeiro_acesso": "2026-06-24T20:39:41.674Z",
         "ultimo_acesso": "2026-06-24T20:39:41.674Z",
@@ -4774,13 +4761,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "22244835",
-        "ts": "2026-06-25T20:30:05.316Z",
-        "jogo": "J55"
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:39:22.854Z"
+  "updatedAt": "2026-06-25T20:39:46.413Z"
 }
