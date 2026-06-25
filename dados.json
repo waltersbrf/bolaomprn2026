@@ -4433,8 +4433,8 @@
         }
       ],
       "stats": {
-        "possession_a": 69,
-        "possession_b": 31,
+        "possession_a": 69.1,
+        "possession_b": 30.9,
         "shots_a": 22,
         "shots_b": 9,
         "shots_on_a": 11,
@@ -4510,8 +4510,8 @@
         }
       ],
       "stats": {
-        "possession_a": 51.6,
-        "possession_b": 48.4,
+        "possession_a": 51.9,
+        "possession_b": 48.1,
         "shots_a": 13,
         "shots_b": 11,
         "shots_on_a": 1,
@@ -4858,35 +4858,27 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-25T21:40:01.622Z",
+        "ultimo_acesso": "2026-06-25T21:40:01.622Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
       {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-24T18:14:36.371Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-24T18:21:23.433Z"
-      },
-      {
-        "fp": "3cb3d598",
-        "ts": "2026-06-24T20:39:41.674Z",
-        "jogo": "J49"
+        "fp": "42e916ad",
+        "ts": "2026-06-25T21:40:01.622Z",
+        "jogo": "J55"
       }
     ]
   },
-  "updatedAt": "2026-06-25T23:21:13.619Z"
+  "updatedAt": "2026-06-25T23:21:20.179Z"
 }
