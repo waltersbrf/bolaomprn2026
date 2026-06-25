@@ -4436,7 +4436,7 @@
         "possession_a": 69,
         "possession_b": 31,
         "shots_a": 22,
-        "shots_b": 10,
+        "shots_b": 9,
         "shots_on_a": 11,
         "shots_on_b": 2,
         "corners_a": 9,
@@ -4537,5 +4537,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T00:03:06.612Z"
+  "updatedAt": "2026-06-25T00:07:10.864Z"
 }
