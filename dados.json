@@ -4505,7 +4505,7 @@
         "fouls_a": 9,
         "fouls_b": 12
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "54": {
       "a": 1,
@@ -4545,18 +4545,18 @@
         }
       ],
       "stats": {
-        "possession_a": 32.4,
-        "possession_b": 67.6,
+        "possession_a": 32.1,
+        "possession_b": 67.9,
         "shots_a": 13,
         "shots_b": 5,
         "shots_on_a": 4,
         "shots_on_b": 2,
         "corners_a": 4,
-        "corners_b": 3,
+        "corners_b": 4,
         "fouls_a": 7,
         "fouls_b": 8
       },
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4577,27 +4577,35 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-25T02:17:43.912Z",
-        "ultimo_acesso": "2026-06-25T02:17:43.912Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
-        "fp": "22244835",
-        "ts": "2026-06-25T02:17:43.912Z",
-        "jogo": "J53"
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T18:14:36.371Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-24T20:39:41.674Z",
+        "jogo": "J49"
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:45:41.665Z"
+  "updatedAt": "2026-06-25T02:45:54.520Z"
 }
