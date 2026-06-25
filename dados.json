@@ -4578,7 +4578,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "40",
+      "minute": "41",
       "events": [
         {
           "type": "goal",
@@ -4627,13 +4627,13 @@
         "fouls_a": 8,
         "fouls_b": 2
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "56": {
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "40",
+      "minute": "41",
       "events": [
         {
           "type": "goal",
@@ -4682,7 +4682,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "58": {
       "a": 0,
@@ -4692,7 +4692,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "59": {
       "a": 0,
@@ -4702,7 +4702,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "60": {
       "a": 0,
@@ -4712,7 +4712,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4734,6 +4734,19 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
+      "22244835": {
+        "primeiro_acesso": "2026-06-25T20:39:26.479Z",
+        "ultimo_acesso": "2026-06-25T20:39:26.479Z",
+        "acessos_total": 0,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      },
       "3cb3d598": {
         "primeiro_acesso": "2026-06-24T20:39:41.674Z",
         "ultimo_acesso": "2026-06-24T20:39:41.674Z",
@@ -4761,8 +4774,13 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
+      },
+      {
+        "fp": "22244835",
+        "ts": "2026-06-25T20:39:26.479Z",
+        "jogo": "J55"
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:40:45.718Z"
+  "updatedAt": "2026-06-25T20:41:35.271Z"
 }
