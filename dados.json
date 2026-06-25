@@ -2584,5 +2584,41 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-25T03:31:24.617Z"
+  "updatedAt": "2026-06-25T03:31:28.653Z",
+  "analytics": {
+    "visitors": {
+      "4cc0b7dc": {
+        "primeiro_acesso": "2026-06-25T03:23:17.369Z",
+        "ultimo_acesso": "2026-06-25T03:31:28.130Z",
+        "acessos_total": 0,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "22244835",
+        "ts": "2026-06-25T02:17:43.912Z",
+        "jogo": "J53"
+      },
+      {
+        "fp": "22244835",
+        "ts": "2026-06-25T03:11:50.617Z"
+      },
+      {
+        "fp": "4cc0b7dc",
+        "ts": "2026-06-25T03:23:17.369Z"
+      },
+      {
+        "fp": "4cc0b7dc",
+        "ts": "2026-06-25T03:31:28.130Z"
+      }
+    ]
+  }
 }
