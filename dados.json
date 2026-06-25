@@ -4576,11 +4576,29 @@
     },
     "55": {
       "a": 0,
-      "b": 0,
-      "status": "IN_PLAY",
-      "minute": "2",
-      "events": [],
-      "goals": [],
+      "b": 1,
+      "status": "SCHEDULED",
+      "minute": "3",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Leroy Sané",
+          "team": "Alemanha",
+          "minute": "2",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Leroy Sané",
+          "team": "Alemanha",
+          "minute": "2",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
         "possession_a": 0,
         "possession_b": 100,
@@ -4599,12 +4617,12 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "1",
+      "minute": "2",
       "events": [],
       "goals": [],
       "stats": {
         "possession_a": 0,
-        "possession_b": 0,
+        "possession_b": 100,
         "shots_a": 0,
         "shots_b": 0,
         "shots_on_a": 0,
@@ -4706,5 +4724,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:02:29.646Z"
+  "updatedAt": "2026-06-25T20:03:01.111Z"
 }
