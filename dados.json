@@ -4639,7 +4639,7 @@
         "fouls_a": 9,
         "fouls_b": 3
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "56": {
       "a": 0,
@@ -4684,7 +4684,7 @@
         "fouls_a": 7,
         "fouls_b": 3
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "57": {
       "a": 0,
@@ -4694,7 +4694,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "58": {
       "a": 0,
@@ -4704,7 +4704,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "59": {
       "a": 0,
@@ -4714,7 +4714,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "60": {
       "a": 0,
@@ -4724,7 +4724,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4758,19 +4758,6 @@
         "pais": "BR",
         "lat": -5.8111,
         "lng": -35.2235
-      },
-      "4cc0b7dc": {
-        "primeiro_acesso": "2026-06-25T20:46:38.371Z",
-        "ultimo_acesso": "2026-06-25T20:46:38.371Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
       }
     },
     "acessos_log": [
@@ -4786,13 +4773,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "4cc0b7dc",
-        "ts": "2026-06-25T20:46:38.371Z",
-        "jogo": "J55"
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:47:38.514Z"
+  "updatedAt": "2026-06-25T20:47:54.606Z"
 }
