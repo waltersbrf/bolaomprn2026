@@ -4433,8 +4433,8 @@
         }
       ],
       "stats": {
-        "possession_a": 69.1,
-        "possession_b": 30.9,
+        "possession_a": 69,
+        "possession_b": 31,
         "shots_a": 22,
         "shots_b": 9,
         "shots_on_a": 11,
@@ -4561,8 +4561,8 @@
         }
       ],
       "stats": {
-        "possession_a": 31.5,
-        "possession_b": 68.5,
+        "possession_a": 31.6,
+        "possession_b": 68.4,
         "shots_a": 13,
         "shots_b": 8,
         "shots_on_a": 4,
@@ -4578,7 +4578,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "12",
+      "minute": "13",
       "events": [
         {
           "type": "goal",
@@ -4616,10 +4616,10 @@
         }
       ],
       "stats": {
-        "possession_a": 32.3,
-        "possession_b": 67.7,
+        "possession_a": 25.6,
+        "possession_b": 74.4,
         "shots_a": 1,
-        "shots_b": 2,
+        "shots_b": 3,
         "shots_on_a": 1,
         "shots_on_b": 1,
         "corners_a": 0,
@@ -4627,13 +4627,13 @@
         "fouls_a": 4,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "56": {
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "12",
+      "minute": "13",
       "events": [
         {
           "type": "goal",
@@ -4655,8 +4655,8 @@
         }
       ],
       "stats": {
-        "possession_a": 31.2,
-        "possession_b": 68.8,
+        "possession_a": 28.8,
+        "possession_b": 71.2,
         "shots_a": 1,
         "shots_b": 2,
         "shots_on_a": 1,
@@ -4666,7 +4666,7 @@
         "fouls_a": 3,
         "fouls_b": 0
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "57": {
       "a": 0,
@@ -4676,7 +4676,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "58": {
       "a": 0,
@@ -4686,7 +4686,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "59": {
       "a": 0,
@@ -4696,7 +4696,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "60": {
       "a": 0,
@@ -4706,7 +4706,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -4728,18 +4728,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-25T09:03:27.959Z",
-        "ultimo_acesso": "2026-06-25T09:03:27.959Z",
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
+        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
+        "dispositivo": "Windows",
         "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -4755,27 +4755,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "20a834c8",
-        "ts": "2026-06-25T01:45:11.517Z",
-        "jogo": "J53"
-      },
-      {
-        "fp": "0ac05a10",
-        "ts": "2026-06-25T02:02:51.926Z",
-        "jogo": "J53"
-      },
-      {
-        "fp": "0ac05a10",
-        "ts": "2026-06-25T02:12:01.728Z",
-        "jogo": "J53"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-25T09:03:27.959Z"
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:13:21.629Z"
+  "updatedAt": "2026-06-25T20:14:14.104Z"
 }
