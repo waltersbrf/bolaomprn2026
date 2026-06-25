@@ -4575,10 +4575,10 @@
       "savedToGH": true
     },
     "55": {
-      "a": 1,
+      "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "78",
+      "minute": "79",
       "events": [
         {
           "type": "goal",
@@ -4613,6 +4613,14 @@
           "player": "Alan Franco",
           "team": "Equador",
           "minute": "50"
+        },
+        {
+          "type": "goal",
+          "player": "Gonzalo Plata",
+          "team": "Equador",
+          "minute": "77",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -4631,16 +4639,24 @@
           "minute": "9",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Gonzalo Plata",
+          "team": "Equador",
+          "minute": "77",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 42.6,
-        "possession_b": 57.4,
-        "shots_a": 5,
+        "possession_a": 42.7,
+        "possession_b": 57.3,
+        "shots_a": 6,
         "shots_b": 9,
         "shots_on_a": 2,
         "shots_on_b": 3,
-        "corners_a": 2,
+        "corners_a": 3,
         "corners_b": 1,
         "fouls_a": 11,
         "fouls_b": 8
@@ -4651,7 +4667,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "77",
+      "minute": "78",
       "events": [
         {
           "type": "goal",
@@ -4804,5 +4820,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T21:38:21.889Z"
+  "updatedAt": "2026-06-25T21:39:22.648Z"
 }
