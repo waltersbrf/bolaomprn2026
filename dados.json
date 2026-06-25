@@ -4578,7 +4578,7 @@
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "88",
+      "minute": "89",
       "events": [
         {
           "type": "goal",
@@ -4621,6 +4621,12 @@
           "minute": "77",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Gonzalo Plata",
+          "team": "Equador",
+          "minute": "89"
         }
       ],
       "goals": [
@@ -4650,14 +4656,14 @@
         }
       ],
       "stats": {
-        "possession_a": 40.9,
-        "possession_b": 59.1,
+        "possession_a": 40.6,
+        "possession_b": 59.4,
         "shots_a": 7,
         "shots_b": 9,
         "shots_on_a": 3,
         "shots_on_b": 3,
         "corners_a": 3,
-        "corners_b": 1,
+        "corners_b": 2,
         "fouls_a": 14,
         "fouls_b": 9
       },
@@ -4667,7 +4673,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "87",
+      "minute": "88",
       "events": [
         {
           "type": "goal",
@@ -4723,14 +4729,14 @@
         }
       ],
       "stats": {
-        "possession_a": 36.2,
-        "possession_b": 63.8,
+        "possession_a": 36.1,
+        "possession_b": 63.9,
         "shots_a": 9,
         "shots_b": 6,
         "shots_on_a": 2,
         "shots_on_b": 2,
         "corners_a": 3,
-        "corners_b": 4,
+        "corners_b": 5,
         "fouls_a": 11,
         "fouls_b": 6
       },
@@ -4826,5 +4832,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T21:48:37.986Z"
+  "updatedAt": "2026-06-25T21:49:38.642Z"
 }
