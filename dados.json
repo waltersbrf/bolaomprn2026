@@ -4449,14 +4449,22 @@
     "53": {
       "a": 0,
       "b": 1,
-      "status": "SCHEDULED",
-      "minute": "61",
+      "status": "IN_PLAY",
+      "minute": "62",
       "events": [
         {
           "type": "goal",
           "player": "Mateo Chávez",
           "team": "México",
           "minute": "55",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Julián Quiñones",
+          "team": "México",
+          "minute": "61",
           "penalty": false,
           "og": false
         }
@@ -4467,6 +4475,14 @@
           "player": "Mateo Chávez",
           "team": "México",
           "minute": "55",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Julián Quiñones",
+          "team": "México",
+          "minute": "61",
           "penalty": false,
           "og": false
         }
@@ -4493,8 +4509,8 @@
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 37.7,
-        "possession_b": 62.3,
+        "possession_a": 37.1,
+        "possession_b": 62.9,
         "shots_a": 12,
         "shots_b": 4,
         "shots_on_a": 3,
@@ -4525,18 +4541,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "0ac05a10": {
+        "primeiro_acesso": "2026-06-25T02:02:51.926Z",
+        "ultimo_acesso": "2026-06-25T02:12:01.728Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4552,8 +4568,23 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
+      },
+      {
+        "fp": "20a834c8",
+        "ts": "2026-06-25T01:45:11.517Z",
+        "jogo": "J53"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-25T02:02:51.926Z",
+        "jogo": "J53"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-25T02:12:01.728Z",
+        "jogo": "J53"
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:21:27.768Z"
+  "updatedAt": "2026-06-25T02:22:13.014Z"
 }
