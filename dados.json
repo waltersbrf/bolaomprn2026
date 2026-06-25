@@ -4450,12 +4450,12 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "47",
+      "minute": "48",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 46.9,
-        "possession_b": 53.1,
+        "possession_a": 46.7,
+        "possession_b": 53.3,
         "shots_a": 7,
         "shots_b": 5,
         "shots_on_a": 1,
@@ -4471,7 +4471,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "47",
+      "minute": "49",
       "events": [],
       "goals": [],
       "stats": {
@@ -4537,5 +4537,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T02:08:15.349Z"
+  "updatedAt": "2026-06-25T02:09:14.157Z"
 }
