@@ -4450,12 +4450,12 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "45+1'",
+      "minute": "45+2'",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 48.8,
-        "possession_b": 51.2,
+        "possession_a": 47.6,
+        "possession_b": 52.4,
         "shots_a": 6,
         "shots_b": 4,
         "shots_on_a": 0,
@@ -4475,8 +4475,8 @@
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 36.9,
-        "possession_b": 63.1,
+        "possession_a": 37.5,
+        "possession_b": 62.5,
         "shots_a": 9,
         "shots_b": 4,
         "shots_on_a": 3,
@@ -4507,18 +4507,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-24T20:39:41.674Z",
-        "ultimo_acesso": "2026-06-24T20:39:41.674Z",
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-24T23:40:02.459Z",
+        "ultimo_acesso": "2026-06-24T23:40:02.459Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -4534,8 +4534,13 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
+      },
+      {
+        "fp": "42e916ad",
+        "ts": "2026-06-24T23:40:02.459Z",
+        "jogo": "J51"
       }
     ]
   },
-  "updatedAt": "2026-06-25T01:47:37.108Z"
+  "updatedAt": "2026-06-25T01:47:52.246Z"
 }
