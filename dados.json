@@ -2584,5 +2584,61 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-25T20:17:40.096Z"
+  "updatedAt": "2026-06-25T20:17:44.334Z",
+  "analytics": {
+    "visitors": {
+      "3b3cffe9": {
+        "primeiro_acesso": "2026-06-25T20:17:43.750Z",
+        "ultimo_acesso": "2026-06-25T20:17:43.750Z",
+        "acessos_total": 0,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T18:14:36.371Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-24T20:39:41.674Z",
+        "jogo": "J49"
+      },
+      {
+        "fp": "20a834c8",
+        "ts": "2026-06-25T01:45:11.517Z",
+        "jogo": "J53"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-25T02:02:51.926Z",
+        "jogo": "J53"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-25T02:12:01.728Z",
+        "jogo": "J53"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-25T09:03:27.959Z"
+      },
+      {
+        "fp": "3b3cffe9",
+        "ts": "2026-06-25T20:17:43.750Z",
+        "jogo": "J55"
+      }
+    ]
+  }
 }
