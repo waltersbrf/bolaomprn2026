@@ -4578,7 +4578,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "5",
+      "minute": "6",
       "events": [
         {
           "type": "goal",
@@ -4615,14 +4615,32 @@
     },
     "56": {
       "a": 0,
-      "b": 0,
-      "status": "SCHEDULED",
-      "minute": "5",
-      "events": [],
-      "goals": [],
+      "b": 1,
+      "status": "IN_PLAY",
+      "minute": "6",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Nicolas Pépé",
+          "team": "Costa do Marfim",
+          "minute": "7",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Nicolas Pépé",
+          "team": "Costa do Marfim",
+          "minute": "7",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 16.4,
-        "possession_b": 83.6,
+        "possession_a": 28.4,
+        "possession_b": 71.6,
         "shots_a": 1,
         "shots_b": 0,
         "shots_on_a": 1,
@@ -4724,5 +4742,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-25T20:06:34.644Z"
+  "updatedAt": "2026-06-25T20:07:36.101Z"
 }
