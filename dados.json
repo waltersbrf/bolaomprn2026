@@ -4802,7 +4802,7 @@
       "a": 1,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "85",
+      "minute": "86",
       "events": [
         {
           "type": "goal",
@@ -4889,7 +4889,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "83",
+      "minute": "84",
       "events": [
         {
           "type": "yellow_card",
@@ -4918,6 +4918,12 @@
           "player": "Shogo Taniguchi",
           "team": "Japão",
           "minute": "77"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Viktor Gyökeres",
+          "team": "Suécia",
+          "minute": "85"
         }
       ],
       "goals": [
@@ -4939,8 +4945,8 @@
         }
       ],
       "stats": {
-        "possession_a": 54.1,
-        "possession_b": 45.9,
+        "possession_a": 53.7,
+        "possession_b": 46.3,
         "shots_a": 8,
         "shots_b": 8,
         "shots_on_a": 3,
@@ -4948,7 +4954,7 @@
         "corners_a": 2,
         "corners_b": 7,
         "fouls_a": 18,
-        "fouls_b": 10
+        "fouls_b": 11
       },
       "savedToGH": true
     },
@@ -5022,5 +5028,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T00:44:46.640Z"
+  "updatedAt": "2026-06-26T00:45:47.667Z"
 }
