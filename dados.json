@@ -5136,7 +5136,7 @@
         "fouls_a": 7,
         "fouls_b": 8
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "62": {
       "a": 3,
@@ -5282,12 +5282,12 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3b3cffe9": {
-        "primeiro_acesso": "2026-06-26T20:29:24.967Z",
-        "ultimo_acesso": "2026-06-26T20:29:24.967Z",
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-26T20:24:46.834Z",
+        "ultimo_acesso": "2026-06-26T20:24:46.834Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -5315,11 +5315,11 @@
         "jogo": "J61"
       },
       {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-26T20:29:24.967Z",
+        "fp": "42e916ad",
+        "ts": "2026-06-26T20:24:46.834Z",
         "jogo": "J61"
       }
     ]
   },
-  "updatedAt": "2026-06-26T20:30:22.245Z"
+  "updatedAt": "2026-06-26T20:30:26.229Z"
 }
