@@ -4802,7 +4802,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "52",
+      "minute": "53",
       "events": [
         {
           "type": "goal",
@@ -4840,13 +4840,13 @@
         }
       ],
       "stats": {
-        "possession_a": 28.9,
-        "possession_b": 71.1,
+        "possession_a": 29.5,
+        "possession_b": 70.5,
         "shots_a": 4,
         "shots_b": 13,
         "shots_on_a": 1,
         "shots_on_b": 3,
-        "corners_a": 1,
+        "corners_a": 2,
         "corners_b": 3,
         "fouls_a": 5,
         "fouls_b": 6
@@ -4857,7 +4857,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "51",
+      "minute": "52",
       "events": [
         {
           "type": "yellow_card",
@@ -4868,8 +4868,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 56.7,
-        "possession_b": 43.3,
+        "possession_a": 56.9,
+        "possession_b": 43.1,
         "shots_a": 5,
         "shots_b": 3,
         "shots_on_a": 2,
@@ -4951,5 +4951,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T00:11:44.000Z"
+  "updatedAt": "2026-06-26T00:12:44.697Z"
 }
