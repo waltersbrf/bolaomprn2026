@@ -4800,9 +4800,9 @@
     },
     "57": {
       "a": 1,
-      "b": 2,
+      "b": 3,
       "status": "SCHEDULED",
-      "minute": "61",
+      "minute": "63",
       "events": [
         {
           "type": "goal",
@@ -4825,6 +4825,14 @@
           "player": "Hazem Mastouri",
           "team": "Tunísia",
           "minute": "54",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Jan Paul van Hecke",
+          "team": "Holanda",
+          "minute": "62",
           "penalty": false,
           "og": false
         }
@@ -4853,17 +4861,25 @@
           "minute": "54",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Jan Paul van Hecke",
+          "team": "Holanda",
+          "minute": "62",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 27.9,
-        "possession_b": 72.1,
+        "possession_a": 28,
+        "possession_b": 72,
         "shots_a": 5,
-        "shots_b": 13,
+        "shots_b": 15,
         "shots_on_a": 2,
-        "shots_on_b": 3,
+        "shots_on_b": 4,
         "corners_a": 2,
-        "corners_b": 4,
+        "corners_b": 5,
         "fouls_a": 6,
         "fouls_b": 7
       },
@@ -4873,7 +4889,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "60",
+      "minute": "61",
       "events": [
         {
           "type": "yellow_card",
@@ -4901,15 +4917,15 @@
         }
       ],
       "stats": {
-        "possession_a": 55.5,
-        "possession_b": 44.5,
+        "possession_a": 54.9,
+        "possession_b": 45.1,
         "shots_a": 7,
         "shots_b": 3,
         "shots_on_a": 3,
         "shots_on_b": 1,
         "corners_a": 1,
         "corners_b": 5,
-        "fouls_a": 11,
+        "fouls_a": 12,
         "fouls_b": 7
       },
       "savedToGH": true
@@ -4984,5 +5000,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T00:20:52.641Z"
+  "updatedAt": "2026-06-26T00:21:53.723Z"
 }
