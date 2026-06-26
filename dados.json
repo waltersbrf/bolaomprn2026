@@ -2584,36 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-26T04:02:27.488Z",
-  "analytics": {
-    "visitors": {
-      "cd85a1c5": {
-        "primeiro_acesso": "2026-06-26T03:54:36.456Z",
-        "ultimo_acesso": "2026-06-26T04:02:26.885Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Jequie",
-        "estado": "BA",
-        "pais": "BR",
-        "lat": -13.85875,
-        "lng": -40.08512
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "22244835",
-        "ts": "2026-06-26T00:58:51.744Z"
-      },
-      {
-        "fp": "cd85a1c5",
-        "ts": "2026-06-26T03:54:36.456Z"
-      },
-      {
-        "fp": "cd85a1c5",
-        "ts": "2026-06-26T04:02:26.885Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-26T04:03:56.550Z"
 }
