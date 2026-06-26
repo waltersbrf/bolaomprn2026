@@ -4959,16 +4959,24 @@
       "savedToGH": true
     },
     "59": {
-      "a": 0,
+      "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "9",
+      "minute": "11",
       "events": [
         {
           "type": "goal",
           "player": "Auston Trusty",
           "team": "Estados Unidos",
           "minute": "3",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Arda Güler",
+          "team": "Turquia",
+          "minute": "10",
           "penalty": false,
           "og": false
         }
@@ -4981,11 +4989,19 @@
           "minute": "3",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Arda Güler",
+          "team": "Turquia",
+          "minute": "10",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 38.9,
-        "possession_b": 61.1,
+        "possession_a": 41.2,
+        "possession_b": 58.8,
         "shots_a": 0,
         "shots_b": 3,
         "shots_on_a": 0,
@@ -4993,7 +5009,7 @@
         "corners_a": 0,
         "corners_b": 2,
         "fouls_a": 2,
-        "fouls_b": 1
+        "fouls_b": 2
       },
       "savedToGH": true
     },
@@ -5001,14 +5017,14 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "9",
+      "minute": "10",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 22.4,
-        "possession_b": 77.6,
+        "possession_a": 22.3,
+        "possession_b": 77.7,
         "shots_a": 0,
-        "shots_b": 1,
+        "shots_b": 2,
         "shots_on_a": 0,
         "shots_on_b": 1,
         "corners_a": 0,
@@ -5068,5 +5084,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T02:09:40.622Z"
+  "updatedAt": "2026-06-26T02:10:41.958Z"
 }
