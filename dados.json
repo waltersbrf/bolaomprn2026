@@ -4961,7 +4961,7 @@
     "59": {
       "a": 2,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "minute": "45+6'",
       "events": [
         {
@@ -5022,8 +5022,8 @@
         }
       ],
       "stats": {
-        "possession_a": 42.6,
-        "possession_b": 57.4,
+        "possession_a": 41.7,
+        "possession_b": 58.3,
         "shots_a": 4,
         "shots_b": 8,
         "shots_on_a": 2,
@@ -5038,7 +5038,7 @@
     "60": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
+      "status": "PAUSED",
       "minute": "45+6'",
       "events": [],
       "goals": [],
@@ -5106,5 +5106,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T02:51:25.959Z"
+  "updatedAt": "2026-06-26T02:51:56.918Z"
 }
