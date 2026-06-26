@@ -4510,8 +4510,8 @@
         }
       ],
       "stats": {
-        "possession_a": 51.9,
-        "possession_b": 48.1,
+        "possession_a": 51.6,
+        "possession_b": 48.4,
         "shots_a": 13,
         "shots_b": 11,
         "shots_on_a": 1,
@@ -4561,8 +4561,8 @@
         }
       ],
       "stats": {
-        "possession_a": 31.6,
-        "possession_b": 68.4,
+        "possession_a": 31.5,
+        "possession_b": 68.5,
         "shots_a": 13,
         "shots_b": 8,
         "shots_on_a": 4,
@@ -4746,7 +4746,7 @@
       "a": 1,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "66",
+      "minute": "67",
       "events": [
         {
           "type": "goal",
@@ -4816,10 +4816,10 @@
         }
       ],
       "stats": {
-        "possession_a": 28,
-        "possession_b": 72,
+        "possession_a": 27.5,
+        "possession_b": 72.5,
         "shots_a": 6,
-        "shots_b": 15,
+        "shots_b": 17,
         "shots_on_a": 3,
         "shots_on_b": 5,
         "corners_a": 2,
@@ -4827,13 +4827,13 @@
         "fouls_a": 7,
         "fouls_b": 7
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "58": {
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "64",
+      "minute": "65",
       "events": [
         {
           "type": "yellow_card",
@@ -4877,18 +4877,18 @@
         }
       ],
       "stats": {
-        "possession_a": 53.9,
-        "possession_b": 46.1,
+        "possession_a": 53.5,
+        "possession_b": 46.5,
         "shots_a": 7,
-        "shots_b": 4,
+        "shots_b": 5,
         "shots_on_a": 3,
-        "shots_on_b": 2,
+        "shots_on_b": 3,
         "corners_a": 1,
-        "corners_b": 5,
+        "corners_b": 6,
         "fouls_a": 14,
         "fouls_b": 7
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "59": {
       "a": 0,
@@ -4898,7 +4898,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "60": {
       "a": 0,
@@ -4908,7 +4908,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -4930,12 +4930,12 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "42e916ad": {
-        "primeiro_acesso": "2026-06-25T21:40:01.622Z",
-        "ultimo_acesso": "2026-06-25T21:40:01.622Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-25T09:03:27.959Z",
+        "ultimo_acesso": "2026-06-25T09:03:27.959Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
+        "dispositivo": "Android",
+        "navegador": "Chrome",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -4946,11 +4946,38 @@
     },
     "acessos_log": [
       {
-        "fp": "42e916ad",
-        "ts": "2026-06-25T21:40:01.622Z",
-        "jogo": "J55"
+        "fp": "3b3cffe9",
+        "ts": "2026-06-24T18:14:36.371Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-24T18:21:23.433Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-24T20:39:41.674Z",
+        "jogo": "J49"
+      },
+      {
+        "fp": "20a834c8",
+        "ts": "2026-06-25T01:45:11.517Z",
+        "jogo": "J53"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-25T02:02:51.926Z",
+        "jogo": "J53"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-25T02:12:01.728Z",
+        "jogo": "J53"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-25T09:03:27.959Z"
       }
     ]
   },
-  "updatedAt": "2026-06-26T00:25:32.591Z"
+  "updatedAt": "2026-06-26T00:26:18.287Z"
 }
