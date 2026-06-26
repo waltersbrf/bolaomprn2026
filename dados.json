@@ -2584,45 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-26T01:32:59.636Z",
-  "analytics": {
-    "visitors": {
-      "4f98c67a": {
-        "primeiro_acesso": "2026-06-26T00:55:19.604Z",
-        "ultimo_acesso": "2026-06-26T01:32:59.241Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Macae",
-        "estado": "RJ",
-        "pais": "BR",
-        "lat": -22.38484,
-        "lng": -41.78324
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-24T18:14:36.371Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-24T18:21:23.433Z"
-      },
-      {
-        "fp": "3cb3d598",
-        "ts": "2026-06-24T20:39:41.674Z",
-        "jogo": "J49"
-      },
-      {
-        "fp": "4f98c67a",
-        "ts": "2026-06-26T00:55:19.604Z"
-      },
-      {
-        "fp": "4f98c67a",
-        "ts": "2026-06-26T01:32:59.241Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-26T01:44:42.699Z"
 }
