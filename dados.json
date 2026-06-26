@@ -4959,10 +4959,10 @@
       "savedToGH": true
     },
     "59": {
-      "a": 1,
+      "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "31",
+      "minute": "32",
       "events": [
         {
           "type": "goal",
@@ -4985,6 +4985,14 @@
           "player": "Sebastian Berhalter",
           "team": "Estados Unidos",
           "minute": "19"
+        },
+        {
+          "type": "goal",
+          "player": "Orkun Kökçü",
+          "team": "Turquia",
+          "minute": "31",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -5003,14 +5011,22 @@
           "minute": "10",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Orkun Kökçü",
+          "team": "Turquia",
+          "minute": "31",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 40.7,
-        "possession_b": 59.3,
-        "shots_a": 1,
+        "possession_a": 41.5,
+        "possession_b": 58.5,
+        "shots_a": 2,
         "shots_b": 6,
-        "shots_on_a": 1,
+        "shots_on_a": 2,
         "shots_on_b": 3,
         "corners_a": 0,
         "corners_b": 3,
@@ -5023,7 +5039,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "31",
+      "minute": "32",
       "events": [],
       "goals": [],
       "stats": {
@@ -5090,5 +5106,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T02:31:34.959Z"
+  "updatedAt": "2026-06-26T02:32:35.628Z"
 }
