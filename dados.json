@@ -5300,8 +5300,19 @@
       "minute": "0",
       "events": [],
       "goals": [],
-      "stats": null,
-      "savedToGH": false
+      "stats": {
+        "possession_a": 0,
+        "possession_b": 0,
+        "shots_a": 0,
+        "shots_b": 0,
+        "shots_on_a": 0,
+        "shots_on_b": 0,
+        "corners_a": 0,
+        "corners_b": 0,
+        "fouls_a": 0,
+        "fouls_b": 0
+      },
+      "savedToGH": true
     },
     "64": {
       "a": 0,
@@ -5322,7 +5333,7 @@
         "fouls_a": 0,
         "fouls_b": 0
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "65": {
       "a": 0,
@@ -5332,7 +5343,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "66": {
       "a": 0,
@@ -5342,7 +5353,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -5365,46 +5376,65 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-26T22:59:29.176Z",
-        "ultimo_acesso": "2026-06-26T22:59:29.176Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
-        "fp": "712191fc",
-        "ts": "2026-06-26T22:01:42.721Z"
+        "fp": "22244835",
+        "ts": "2026-06-26T15:07:17.037Z"
       },
       {
-        "fp": "712191fc",
-        "ts": "2026-06-26T22:10:33.063Z"
-      },
-      {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-26T22:31:06.758Z"
-      },
-      {
-        "fp": "42e916ad",
-        "ts": "2026-06-26T22:48:50.676Z"
-      },
-      {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-26T22:52:08.852Z"
+        "fp": "3cb3d598",
+        "ts": "2026-06-26T16:53:05.985Z"
       },
       {
         "fp": "22244835",
-        "ts": "2026-06-26T22:59:29.176Z"
+        "ts": "2026-06-26T18:48:59.759Z"
+      },
+      {
+        "fp": "712191fc",
+        "ts": "2026-06-26T19:21:28.886Z",
+        "jogo": "J61"
+      },
+      {
+        "fp": "22244835",
+        "ts": "2026-06-26T20:24:38.632Z",
+        "jogo": "J61"
+      },
+      {
+        "fp": "c3622db8",
+        "ts": "2026-06-26T20:58:35.432Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-26T21:03:39.301Z"
       }
     ]
   },
-  "updatedAt": "2026-06-26T23:00:26.035Z"
+  "updatedAt": "2026-06-26T23:00:37.951Z"
 }
