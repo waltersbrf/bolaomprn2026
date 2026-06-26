@@ -5266,12 +5266,12 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "42e916ad": {
-        "primeiro_acesso": "2026-06-26T20:24:46.834Z",
-        "ultimo_acesso": "2026-06-26T20:24:46.834Z",
+      "22244835": {
+        "primeiro_acesso": "2026-06-26T20:24:38.632Z",
+        "ultimo_acesso": "2026-06-26T20:24:38.632Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
+        "dispositivo": "Android",
+        "navegador": "Chrome",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -5299,11 +5299,11 @@
         "jogo": "J61"
       },
       {
-        "fp": "42e916ad",
-        "ts": "2026-06-26T20:24:46.834Z",
+        "fp": "22244835",
+        "ts": "2026-06-26T20:24:38.632Z",
         "jogo": "J61"
       }
     ]
   },
-  "updatedAt": "2026-06-26T20:25:24.294Z"
+  "updatedAt": "2026-06-26T20:25:37.012Z"
 }
