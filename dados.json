@@ -2584,32 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-26T03:54:37.049Z",
-  "analytics": {
-    "visitors": {
-      "cd85a1c5": {
-        "primeiro_acesso": "2026-06-26T03:54:36.456Z",
-        "ultimo_acesso": "2026-06-26T03:54:36.456Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Estancia",
-        "estado": "SE",
-        "pais": "BR",
-        "lat": -11.26833,
-        "lng": -37.43833
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "22244835",
-        "ts": "2026-06-26T00:58:51.744Z"
-      },
-      {
-        "fp": "cd85a1c5",
-        "ts": "2026-06-26T03:54:36.456Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-26T04:02:23.375Z"
 }
