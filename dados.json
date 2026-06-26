@@ -4802,7 +4802,7 @@
       "a": 1,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "90+1'",
+      "minute": "90+2'",
       "events": [
         {
           "type": "goal",
@@ -4889,7 +4889,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "89",
+      "minute": "90+1'",
       "events": [
         {
           "type": "yellow_card",
@@ -5028,5 +5028,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T00:50:52.650Z"
+  "updatedAt": "2026-06-26T00:51:53.638Z"
 }
