@@ -4802,7 +4802,7 @@
       "a": 1,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "77",
+      "minute": "78",
       "events": [
         {
           "type": "goal",
@@ -4872,15 +4872,15 @@
         }
       ],
       "stats": {
-        "possession_a": 29.3,
-        "possession_b": 70.7,
+        "possession_a": 29,
+        "possession_b": 71,
         "shots_a": 8,
-        "shots_b": 18,
+        "shots_b": 19,
         "shots_on_a": 4,
-        "shots_on_b": 6,
+        "shots_on_b": 7,
         "corners_a": 3,
         "corners_b": 5,
-        "fouls_a": 7,
+        "fouls_a": 8,
         "fouls_b": 9
       },
       "savedToGH": true
@@ -4889,7 +4889,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "76",
+      "minute": "77",
       "events": [
         {
           "type": "yellow_card",
@@ -4912,6 +4912,12 @@
           "minute": "62",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Shogo Taniguchi",
+          "team": "Japão",
+          "minute": "77"
         }
       ],
       "goals": [
@@ -4933,8 +4939,8 @@
         }
       ],
       "stats": {
-        "possession_a": 54.1,
-        "possession_b": 45.9,
+        "possession_a": 54.3,
+        "possession_b": 45.7,
         "shots_a": 7,
         "shots_b": 5,
         "shots_on_a": 3,
@@ -5016,5 +5022,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T00:36:39.139Z"
+  "updatedAt": "2026-06-26T00:37:39.649Z"
 }
