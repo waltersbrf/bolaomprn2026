@@ -4799,10 +4799,10 @@
       "savedToGH": true
     },
     "57": {
-      "a": 0,
+      "a": 1,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "53",
+      "minute": "54",
       "events": [
         {
           "type": "goal",
@@ -4817,6 +4817,14 @@
           "player": "Brian Brobbey",
           "team": "Holanda",
           "minute": "7",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Hazem Mastouri",
+          "team": "Tunísia",
+          "minute": "54",
           "penalty": false,
           "og": false
         }
@@ -4835,6 +4843,14 @@
           "player": "Brian Brobbey",
           "team": "Holanda",
           "minute": "7",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Hazem Mastouri",
+          "team": "Tunísia",
+          "minute": "54",
           "penalty": false,
           "og": false
         }
@@ -4857,7 +4873,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "52",
+      "minute": "53",
       "events": [
         {
           "type": "yellow_card",
@@ -4868,8 +4884,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 56.9,
-        "possession_b": 43.1,
+        "possession_a": 57.1,
+        "possession_b": 42.9,
         "shots_a": 5,
         "shots_b": 3,
         "shots_on_a": 2,
@@ -4951,5 +4967,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T00:12:44.697Z"
+  "updatedAt": "2026-06-26T00:13:45.621Z"
 }
