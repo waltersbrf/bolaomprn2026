@@ -5046,10 +5046,10 @@
       "savedToGH": true
     },
     "61": {
-      "a": 0,
+      "a": 1,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "21",
+      "minute": "22",
       "events": [
         {
           "type": "goal",
@@ -5072,6 +5072,14 @@
           "minute": "20",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Thelo Aasgaard",
+          "team": "Noruega",
+          "minute": "21",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -5090,14 +5098,22 @@
           "minute": "20",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Thelo Aasgaard",
+          "team": "Noruega",
+          "minute": "21",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 31,
-        "possession_b": 69,
-        "shots_a": 3,
+        "possession_a": 32.3,
+        "possession_b": 67.7,
+        "shots_a": 4,
         "shots_b": 8,
-        "shots_on_a": 1,
+        "shots_on_a": 2,
         "shots_on_b": 7,
         "corners_a": 0,
         "corners_b": 1,
@@ -5110,7 +5126,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "20",
+      "minute": "21",
       "events": [
         {
           "type": "goal",
@@ -5252,5 +5268,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T19:22:24.732Z"
+  "updatedAt": "2026-06-26T19:23:33.060Z"
 }
