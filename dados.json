@@ -5049,7 +5049,7 @@
       "a": 1,
       "b": 3,
       "status": "SCHEDULED",
-      "minute": "73",
+      "minute": "80",
       "events": [
         {
           "type": "goal",
@@ -5088,6 +5088,12 @@
           "minute": "32",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Aurélien Tchouaméni",
+          "team": "França",
+          "minute": "74"
         }
       ],
       "goals": [
@@ -5125,24 +5131,24 @@
         }
       ],
       "stats": {
-        "possession_a": 41.1,
-        "possession_b": 58.9,
-        "shots_a": 7,
+        "possession_a": 46,
+        "possession_b": 54,
+        "shots_a": 9,
         "shots_b": 16,
-        "shots_on_a": 3,
+        "shots_on_a": 4,
         "shots_on_b": 8,
         "corners_a": 3,
         "corners_b": 4,
         "fouls_a": 8,
-        "fouls_b": 8
+        "fouls_b": 9
       },
       "savedToGH": true
     },
     "62": {
-      "a": 3,
+      "a": 4,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "69",
+      "minute": "77",
       "events": [
         {
           "type": "goal",
@@ -5179,6 +5185,20 @@
           "minute": "59",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Pape Gueye",
+          "team": "Senegal",
+          "minute": "71",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Amir Al-Ammari",
+          "team": "Iraque",
+          "minute": "76"
         }
       ],
       "goals": [
@@ -5205,19 +5225,27 @@
           "minute": "59",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Pape Gueye",
+          "team": "Senegal",
+          "minute": "71",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 62.9,
-        "possession_b": 37.1,
-        "shots_a": 16,
-        "shots_b": 5,
-        "shots_on_a": 5,
+        "possession_a": 63.2,
+        "possession_b": 36.8,
+        "shots_a": 19,
+        "shots_b": 6,
+        "shots_on_a": 6,
         "shots_on_b": 1,
         "corners_a": 9,
         "corners_b": 3,
         "fouls_a": 8,
-        "fouls_b": 5
+        "fouls_b": 8
       },
       "savedToGH": true
     },
@@ -5321,5 +5349,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T20:37:17.896Z"
+  "updatedAt": "2026-06-26T20:44:39.282Z"
 }
