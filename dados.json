@@ -4856,8 +4856,8 @@
     "58": {
       "a": 0,
       "b": 0,
-      "status": "PAUSED",
-      "minute": "45+5'",
+      "status": "SCHEDULED",
+      "minute": "46",
       "events": [
         {
           "type": "yellow_card",
@@ -4951,5 +4951,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T00:06:05.642Z"
+  "updatedAt": "2026-06-26T00:07:07.655Z"
 }
