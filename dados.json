@@ -5022,7 +5022,7 @@
     "60": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "30",
       "events": [],
       "goals": [],
@@ -5090,5 +5090,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-26T02:30:02.631Z"
+  "updatedAt": "2026-06-26T02:30:33.948Z"
 }
