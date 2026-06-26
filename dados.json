@@ -4801,7 +4801,7 @@
     "57": {
       "a": 1,
       "b": 3,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+5'",
       "events": [
         {
@@ -4889,7 +4889,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "90+4'",
+      "minute": "90+5'",
       "events": [
         {
           "type": "yellow_card",
@@ -5010,19 +5010,6 @@
         "pais": "BR",
         "lat": -5.8111,
         "lng": -35.2235
-      },
-      "4f98c67a": {
-        "primeiro_acesso": "2026-06-26T00:55:19.604Z",
-        "ultimo_acesso": "2026-06-26T00:55:19.604Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Caraguatatuba",
-        "estado": "SP",
-        "pais": "BR",
-        "lat": -23.62028,
-        "lng": -45.41306
       }
     },
     "acessos_log": [
@@ -5038,12 +5025,8 @@
         "fp": "3cb3d598",
         "ts": "2026-06-24T20:39:41.674Z",
         "jogo": "J49"
-      },
-      {
-        "fp": "4f98c67a",
-        "ts": "2026-06-26T00:55:19.604Z"
       }
     ]
   },
-  "updatedAt": "2026-06-26T00:55:19.987Z"
+  "updatedAt": "2026-06-26T00:55:59.438Z"
 }
