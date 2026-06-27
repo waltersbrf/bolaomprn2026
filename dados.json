@@ -5297,7 +5297,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "8",
+      "minute": "9",
       "events": [],
       "goals": [],
       "stats": {
@@ -5318,27 +5318,33 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "7",
+      "minute": "8",
       "events": [
         {
           "type": "yellow_card",
           "player": "Saud Abdulhamid",
           "team": "Arábia Saudita",
           "minute": "4"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Wagner Pina",
+          "team": "Cabo Verde",
+          "minute": "9"
         }
       ],
       "goals": [],
       "stats": {
-        "possession_a": 64.9,
-        "possession_b": 35.1,
+        "possession_a": 58.7,
+        "possession_b": 41.3,
         "shots_a": 0,
         "shots_b": 0,
         "shots_on_a": 0,
         "shots_on_b": 0,
         "corners_a": 0,
         "corners_b": 0,
-        "fouls_a": 0,
-        "fouls_b": 1
+        "fouls_a": 2,
+        "fouls_b": 2
       },
       "savedToGH": true
     },
@@ -5443,5 +5449,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T00:09:47.264Z"
+  "updatedAt": "2026-06-27T00:10:46.535Z"
 }
