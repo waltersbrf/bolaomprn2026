@@ -5296,8 +5296,8 @@
     "63": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "7",
+      "status": "IN_PLAY",
+      "minute": "8",
       "events": [],
       "goals": [],
       "stats": {
@@ -5383,12 +5383,12 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-26T22:20:11.904Z",
-        "ultimo_acesso": "2026-06-27T00:02:08.343Z",
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-27T00:00:00.238Z",
+        "ultimo_acesso": "2026-06-27T00:00:00.238Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -5407,11 +5407,10 @@
         "ts": "2026-06-26T22:10:33.063Z"
       },
       {
-        "fp": "f603cb5b",
-        "ts": "2026-06-27T00:02:08.343Z",
-        "jogo": "J63"
+        "fp": "42e916ad",
+        "ts": "2026-06-27T00:00:00.238Z"
       }
     ]
   },
-  "updatedAt": "2026-06-27T00:08:58.110Z"
+  "updatedAt": "2026-06-27T00:09:15.465Z"
 }
