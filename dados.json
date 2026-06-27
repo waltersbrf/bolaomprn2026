@@ -5295,18 +5295,36 @@
     },
     "63": {
       "a": 0,
-      "b": 0,
+      "b": 1,
       "status": "SCHEDULED",
-      "minute": "41",
-      "events": [],
-      "goals": [],
+      "minute": "42",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Álex Baena",
+          "team": "Espanha",
+          "minute": "42",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Álex Baena",
+          "team": "Espanha",
+          "minute": "42",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 25.6,
-        "possession_b": 74.4,
+        "possession_a": 25.2,
+        "possession_b": 74.8,
         "shots_a": 3,
-        "shots_b": 2,
+        "shots_b": 3,
         "shots_on_a": 0,
-        "shots_on_b": 0,
+        "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 5,
         "fouls_a": 1,
@@ -5318,7 +5336,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "40",
+      "minute": "41",
       "events": [
         {
           "type": "yellow_card",
@@ -5449,5 +5467,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T00:42:21.949Z"
+  "updatedAt": "2026-06-27T00:43:22.632Z"
 }
