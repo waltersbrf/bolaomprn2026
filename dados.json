@@ -5297,7 +5297,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "84",
+      "minute": "85",
       "events": [
         {
           "type": "goal",
@@ -5354,7 +5354,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "85",
+      "minute": "87",
       "events": [
         {
           "type": "yellow_card",
@@ -5377,8 +5377,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 52,
-        "possession_b": 48,
+        "possession_a": 52.5,
+        "possession_b": 47.5,
         "shots_a": 14,
         "shots_b": 6,
         "shots_on_a": 2,
@@ -5491,5 +5491,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:49:18.357Z"
+  "updatedAt": "2026-06-27T01:50:17.565Z"
 }
