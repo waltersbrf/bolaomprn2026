@@ -5458,8 +5458,8 @@
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 28.1,
-        "possession_b": 71.9,
+        "possession_a": 27.9,
+        "possession_b": 72.1,
         "shots_a": 3,
         "shots_b": 9,
         "shots_on_a": 2,
@@ -5497,8 +5497,8 @@
         }
       ],
       "stats": {
-        "possession_a": 54,
-        "possession_b": 46,
+        "possession_a": 53.7,
+        "possession_b": 46.3,
         "shots_a": 5,
         "shots_b": 1,
         "shots_on_a": 2,
@@ -5632,5 +5632,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T21:50:10.386Z"
+  "updatedAt": "2026-06-27T21:51:12.995Z"
 }
