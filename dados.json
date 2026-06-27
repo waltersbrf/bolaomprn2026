@@ -5453,7 +5453,7 @@
     "67": {
       "a": 0,
       "b": 2,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": "90+6'",
       "events": [
         {
@@ -5510,8 +5510,8 @@
         }
       ],
       "stats": {
-        "possession_a": 32.4,
-        "possession_b": 67.6,
+        "possession_a": 32.9,
+        "possession_b": 67.1,
         "shots_a": 13,
         "shots_b": 17,
         "shots_on_a": 2,
@@ -5519,15 +5519,15 @@
         "corners_a": 3,
         "corners_b": 7,
         "fouls_a": 16,
-        "fouls_b": 12
+        "fouls_b": 13
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "68": {
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "90+3'",
+      "minute": "90+5'",
       "events": [
         {
           "type": "goal",
@@ -5558,6 +5558,12 @@
           "minute": "83",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Kojo Peprah Oppong",
+          "team": "Gana",
+          "minute": "90+4'"
         }
       ],
       "goals": [
@@ -5587,13 +5593,13 @@
         }
       ],
       "stats": {
-        "possession_a": 53.6,
-        "possession_b": 46.4,
-        "shots_a": 7,
+        "possession_a": 53.4,
+        "possession_b": 46.6,
+        "shots_a": 8,
         "shots_b": 4,
         "shots_on_a": 4,
         "shots_on_b": 1,
-        "corners_a": 1,
+        "corners_a": 2,
         "corners_b": 2,
         "fouls_a": 9,
         "fouls_b": 12
@@ -5744,5 +5750,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T22:55:02.831Z"
+  "updatedAt": "2026-06-27T22:56:02.787Z"
 }
