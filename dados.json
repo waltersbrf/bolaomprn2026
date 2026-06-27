@@ -2637,6 +2637,19 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
+      "22244835": {
+        "primeiro_acesso": "2026-06-27T06:46:57.945Z",
+        "ultimo_acesso": "2026-06-27T06:46:57.945Z",
+        "acessos_total": 0,
+        "dispositivo": "Android",
+        "navegador": "Chrome",
+        "tipo": "Mobile",
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
+      },
       "4cc0b7dc": {
         "primeiro_acesso": "2026-06-27T06:22:05.628Z",
         "ultimo_acesso": "2026-06-27T06:22:05.628Z",
@@ -2698,8 +2711,12 @@
       {
         "fp": "4cc0b7dc",
         "ts": "2026-06-27T06:22:05.628Z"
+      },
+      {
+        "fp": "22244835",
+        "ts": "2026-06-27T06:46:57.945Z"
       }
     ]
   },
-  "updatedAt": "2026-06-27T06:46:56.601Z"
+  "updatedAt": "2026-06-27T06:46:58.415Z"
 }
