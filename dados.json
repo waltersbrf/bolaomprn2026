@@ -5740,12 +5740,12 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "42e916ad": {
-        "primeiro_acesso": "2026-06-27T19:38:10.877Z",
-        "ultimo_acesso": "2026-06-27T19:38:10.877Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-27T17:19:49.104Z",
+        "ultimo_acesso": "2026-06-27T17:19:49.104Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
+        "dispositivo": "Android",
+        "navegador": "Chrome",
         "tipo": "Mobile",
         "cidade": "?",
         "estado": "?",
@@ -5758,16 +5758,8 @@
       {
         "fp": "f603cb5b",
         "ts": "2026-06-27T17:19:49.104Z"
-      },
-      {
-        "fp": "b70e1f46",
-        "ts": "2026-06-27T19:02:47.173Z"
-      },
-      {
-        "fp": "42e916ad",
-        "ts": "2026-06-27T19:38:10.877Z"
       }
     ]
   },
-  "updatedAt": "2026-06-27T20:02:04.858Z"
+  "updatedAt": "2026-06-27T20:48:01.458Z"
 }
