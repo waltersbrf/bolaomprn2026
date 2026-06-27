@@ -5453,8 +5453,8 @@
     "67": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
-      "minute": "59",
+      "status": "SCHEDULED",
+      "minute": "60",
       "events": [
         {
           "type": "yellow_card",
@@ -5468,11 +5468,11 @@
         "possession_a": 28,
         "possession_b": 72,
         "shots_a": 4,
-        "shots_b": 10,
+        "shots_b": 11,
         "shots_on_a": 2,
-        "shots_on_b": 2,
+        "shots_on_b": 3,
         "corners_a": 1,
-        "corners_b": 5,
+        "corners_b": 6,
         "fouls_a": 12,
         "fouls_b": 5
       },
@@ -5482,7 +5482,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "56",
+      "minute": "57",
       "events": [
         {
           "type": "goal",
@@ -5639,5 +5639,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T22:17:21.405Z"
+  "updatedAt": "2026-06-27T22:18:23.831Z"
 }
