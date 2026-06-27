@@ -2584,28 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-27T12:32:33.419Z",
-  "analytics": {
-    "visitors": {
-      "22244835": {
-        "primeiro_acesso": "2026-06-27T12:32:33.404Z",
-        "ultimo_acesso": "2026-06-27T12:32:33.404Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "22244835",
-        "ts": "2026-06-27T12:32:33.404Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-27T14:18:30.951Z"
 }
