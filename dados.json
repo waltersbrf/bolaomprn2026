@@ -5297,7 +5297,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "66",
+      "minute": "67",
       "events": [
         {
           "type": "goal",
@@ -5367,6 +5367,12 @@
           "player": "Wagner Pina",
           "team": "Cabo Verde",
           "minute": "9"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Nasser Al-Dawsari",
+          "team": "Arábia Saudita",
+          "minute": "67"
         }
       ],
       "goals": [],
@@ -5380,7 +5386,7 @@
         "corners_a": 3,
         "corners_b": 1,
         "fouls_a": 8,
-        "fouls_b": 10
+        "fouls_b": 11
       },
       "savedToGH": true
     },
@@ -5485,5 +5491,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:29:57.568Z"
+  "updatedAt": "2026-06-27T01:30:58.540Z"
 }
