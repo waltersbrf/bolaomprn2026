@@ -5337,15 +5337,15 @@
         }
       ],
       "stats": {
-        "possession_a": 30.2,
-        "possession_b": 69.8,
+        "possession_a": 32.1,
+        "possession_b": 67.9,
         "shots_a": 5,
         "shots_b": 6,
         "shots_on_a": 1,
         "shots_on_b": 1,
         "corners_a": 1,
         "corners_b": 6,
-        "fouls_a": 11,
+        "fouls_a": 12,
         "fouls_b": 14
       },
       "savedToGH": true
@@ -5431,18 +5431,31 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "20a834c8": {
-        "primeiro_acesso": "2026-06-27T01:54:19.060Z",
-        "ultimo_acesso": "2026-06-27T01:54:19.060Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
+        "dispositivo": "Android",
+        "navegador": "Chrome",
         "tipo": "Mobile",
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
         "cidade": "Natal",
         "estado": "RN",
         "pais": "BR",
-        "lat": -5.795,
-        "lng": -35.20944
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -5475,12 +5488,8 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
-      },
-      {
-        "fp": "20a834c8",
-        "ts": "2026-06-27T01:54:19.060Z"
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:55:16.646Z"
+  "updatedAt": "2026-06-27T01:55:24.063Z"
 }
