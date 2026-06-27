@@ -5609,13 +5609,13 @@
     "69": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
-      "minute": "20",
+      "status": "SCHEDULED",
+      "minute": "21",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 43.3,
-        "possession_b": 56.7,
+        "possession_a": 41.6,
+        "possession_b": 58.4,
         "shots_a": 6,
         "shots_b": 2,
         "shots_on_a": 1,
@@ -5630,8 +5630,8 @@
     "70": {
       "a": 0,
       "b": 1,
-      "status": "SCHEDULED",
-      "minute": "19",
+      "status": "IN_PLAY",
+      "minute": "21",
       "events": [
         {
           "type": "goal",
@@ -5640,6 +5640,12 @@
           "minute": "10",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Noah Sadiki",
+          "team": "RD Congo",
+          "minute": "21"
         }
       ],
       "goals": [
@@ -5653,8 +5659,8 @@
         }
       ],
       "stats": {
-        "possession_a": 51.2,
-        "possession_b": 48.8,
+        "possession_a": 52.3,
+        "possession_b": 47.7,
         "shots_a": 1,
         "shots_b": 1,
         "shots_on_a": 1,
@@ -5768,5 +5774,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T23:51:31.150Z"
+  "updatedAt": "2026-06-27T23:52:00.729Z"
 }
