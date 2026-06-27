@@ -5296,7 +5296,7 @@
     "63": {
       "a": 0,
       "b": 1,
-      "status": "SCHEDULED",
+      "status": "PAUSED",
       "minute": "45+8'",
       "events": [
         {
@@ -5319,10 +5319,10 @@
         }
       ],
       "stats": {
-        "possession_a": 26.9,
-        "possession_b": 73.1,
+        "possession_a": 26.2,
+        "possession_b": 73.8,
         "shots_a": 3,
-        "shots_b": 3,
+        "shots_b": 4,
         "shots_on_a": 0,
         "shots_on_b": 1,
         "corners_a": 0,
@@ -5467,5 +5467,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T00:54:36.552Z"
+  "updatedAt": "2026-06-27T00:55:08.011Z"
 }
