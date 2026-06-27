@@ -5453,8 +5453,8 @@
     "67": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
-      "minute": "24",
+      "status": "SCHEDULED",
+      "minute": "25",
       "events": [],
       "goals": [],
       "stats": {
@@ -5474,8 +5474,8 @@
     "68": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
-      "minute": "23",
+      "status": "SCHEDULED",
+      "minute": "24",
       "events": [],
       "goals": [],
       "stats": {
@@ -5614,5 +5614,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T21:25:11.121Z"
+  "updatedAt": "2026-06-27T21:25:41.416Z"
 }
