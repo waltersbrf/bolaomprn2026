@@ -5335,7 +5335,7 @@
     "64": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "43",
       "events": [
         {
@@ -5353,9 +5353,9 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 57,
-        "possession_b": 43,
-        "shots_a": 3,
+        "possession_a": 57.3,
+        "possession_b": 42.7,
+        "shots_a": 4,
         "shots_b": 1,
         "shots_on_a": 1,
         "shots_on_b": 0,
@@ -5467,5 +5467,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T00:44:23.978Z"
+  "updatedAt": "2026-06-27T00:44:54.538Z"
 }
