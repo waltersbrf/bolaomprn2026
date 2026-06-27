@@ -5297,7 +5297,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "70",
+      "minute": "71",
       "events": [
         {
           "type": "goal",
@@ -5354,7 +5354,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "70",
+      "minute": "71",
       "events": [
         {
           "type": "yellow_card",
@@ -5491,5 +5491,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:34:01.539Z"
+  "updatedAt": "2026-06-27T01:35:02.566Z"
 }
