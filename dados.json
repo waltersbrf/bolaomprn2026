@@ -5337,8 +5337,8 @@
         }
       ],
       "stats": {
-        "possession_a": 30.9,
-        "possession_b": 69.1,
+        "possession_a": 30.3,
+        "possession_b": 69.7,
         "shots_a": 4,
         "shots_b": 5,
         "shots_on_a": 0,
@@ -5377,10 +5377,10 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 51.7,
-        "possession_b": 48.3,
-        "shots_a": 12,
-        "shots_b": 5,
+        "possession_a": 52,
+        "possession_b": 48,
+        "shots_a": 14,
+        "shots_b": 6,
         "shots_on_a": 2,
         "shots_on_b": 2,
         "corners_a": 4,
@@ -5431,18 +5431,31 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-27T01:00:11.079Z",
-        "ultimo_acesso": "2026-06-27T01:00:11.079Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -5475,18 +5488,8 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
-      },
-      {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-27T00:49:56.106Z",
-        "jogo": "J63"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-27T01:00:11.079Z",
-        "jogo": "J63"
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:48:32.002Z"
+  "updatedAt": "2026-06-27T01:49:18.357Z"
 }
