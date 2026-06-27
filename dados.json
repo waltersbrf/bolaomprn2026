@@ -5297,7 +5297,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "46",
+      "minute": "47",
       "events": [
         {
           "type": "goal",
@@ -5306,6 +5306,12 @@
           "minute": "42",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Álex Baena",
+          "team": "Espanha",
+          "minute": "46"
         }
       ],
       "goals": [
@@ -5319,8 +5325,8 @@
         }
       ],
       "stats": {
-        "possession_a": 26.2,
-        "possession_b": 73.8,
+        "possession_a": 27.5,
+        "possession_b": 72.5,
         "shots_a": 3,
         "shots_b": 4,
         "shots_on_a": 0,
@@ -5328,7 +5334,7 @@
         "corners_a": 0,
         "corners_b": 5,
         "fouls_a": 3,
-        "fouls_b": 7
+        "fouls_b": 9
       },
       "savedToGH": true
     },
@@ -5407,18 +5413,31 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-27T01:00:11.079Z",
-        "ultimo_acesso": "2026-06-27T01:00:11.079Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -5451,18 +5470,8 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
-      },
-      {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-27T00:49:56.106Z",
-        "jogo": "J63"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-27T01:00:11.079Z",
-        "jogo": "J63"
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:10:48.415Z"
+  "updatedAt": "2026-06-27T01:11:40.528Z"
 }
