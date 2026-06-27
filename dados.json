@@ -5454,7 +5454,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "47",
+      "minute": "48",
       "events": [],
       "goals": [],
       "stats": {
@@ -5474,8 +5474,8 @@
     "68": {
       "a": 1,
       "b": 0,
-      "status": "PAUSED",
-      "minute": "45+4'",
+      "status": "IN_PLAY",
+      "minute": "46",
       "events": [
         {
           "type": "goal",
@@ -5632,5 +5632,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T22:06:39.814Z"
+  "updatedAt": "2026-06-27T22:07:10.401Z"
 }
