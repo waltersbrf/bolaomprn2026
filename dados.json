@@ -5461,12 +5461,18 @@
           "player": "José Fajardo",
           "team": "Panamá",
           "minute": "53"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Jarell Quansah",
+          "team": "Inglaterra",
+          "minute": "60"
         }
       ],
       "goals": [],
       "stats": {
-        "possession_a": 28,
-        "possession_b": 72,
+        "possession_a": 27.9,
+        "possession_b": 72.1,
         "shots_a": 4,
         "shots_b": 11,
         "shots_on_a": 2,
@@ -5482,7 +5488,7 @@
       "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "58",
+      "minute": "59",
       "events": [
         {
           "type": "goal",
@@ -5504,10 +5510,10 @@
         }
       ],
       "stats": {
-        "possession_a": 50,
-        "possession_b": 50,
+        "possession_a": 49.4,
+        "possession_b": 50.6,
         "shots_a": 5,
-        "shots_b": 4,
+        "shots_b": 3,
         "shots_on_a": 2,
         "shots_on_b": 0,
         "corners_a": 0,
@@ -5639,5 +5645,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T22:19:24.392Z"
+  "updatedAt": "2026-06-27T22:20:25.504Z"
 }
