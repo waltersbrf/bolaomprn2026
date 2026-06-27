@@ -5296,8 +5296,8 @@
     "63": {
       "a": 0,
       "b": 1,
-      "status": "PAUSED",
-      "minute": "45+8'",
+      "status": "SCHEDULED",
+      "minute": "46",
       "events": [
         {
           "type": "goal",
@@ -5336,7 +5336,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "46",
+      "minute": "47",
       "events": [
         {
           "type": "yellow_card",
@@ -5467,5 +5467,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:10:06.573Z"
+  "updatedAt": "2026-06-27T01:10:37.702Z"
 }
