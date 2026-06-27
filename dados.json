@@ -5454,7 +5454,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "31",
+      "minute": "32",
       "events": [],
       "goals": [],
       "stats": {
@@ -5472,18 +5472,36 @@
       "savedToGH": false
     },
     "68": {
-      "a": 0,
+      "a": 1,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "30",
-      "events": [],
-      "goals": [],
+      "minute": "32",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Petar Sucic",
+          "team": "Croácia",
+          "minute": "31",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Petar Sucic",
+          "team": "Croácia",
+          "minute": "31",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 48.1,
-        "possession_b": 51.9,
-        "shots_a": 2,
+        "possession_a": 47.6,
+        "possession_b": 52.4,
+        "shots_a": 4,
         "shots_b": 0,
-        "shots_on_a": 0,
+        "shots_on_a": 2,
         "shots_on_b": 0,
         "corners_a": 0,
         "corners_b": 0,
@@ -5614,5 +5632,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T21:32:18.399Z"
+  "updatedAt": "2026-06-27T21:33:19.738Z"
 }
