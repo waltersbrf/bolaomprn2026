@@ -5296,13 +5296,13 @@
     "63": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "2",
+      "status": "IN_PLAY",
+      "minute": "3",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 33.3,
-        "possession_b": 66.7,
+        "possession_a": 26.1,
+        "possession_b": 73.9,
         "shots_a": 0,
         "shots_b": 0,
         "shots_on_a": 0,
@@ -5376,35 +5376,65 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-26T22:20:11.904Z",
-        "ultimo_acesso": "2026-06-27T00:02:08.343Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
-        "fp": "712191fc",
-        "ts": "2026-06-26T22:01:42.721Z"
+        "fp": "22244835",
+        "ts": "2026-06-26T15:07:17.037Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-26T16:53:05.985Z"
+      },
+      {
+        "fp": "22244835",
+        "ts": "2026-06-26T18:48:59.759Z"
       },
       {
         "fp": "712191fc",
-        "ts": "2026-06-26T22:10:33.063Z"
+        "ts": "2026-06-26T19:21:28.886Z",
+        "jogo": "J61"
       },
       {
-        "fp": "f603cb5b",
-        "ts": "2026-06-27T00:02:08.343Z",
-        "jogo": "J63"
+        "fp": "22244835",
+        "ts": "2026-06-26T20:24:38.632Z",
+        "jogo": "J61"
+      },
+      {
+        "fp": "c3622db8",
+        "ts": "2026-06-26T20:58:35.432Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-26T21:03:39.301Z"
       }
     ]
   },
-  "updatedAt": "2026-06-27T00:04:32.291Z"
+  "updatedAt": "2026-06-27T00:04:41.104Z"
 }
