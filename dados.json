@@ -5574,8 +5574,8 @@
     "visitors": {
       "0ac05a10": {
         "primeiro_acesso": "2026-06-27T21:44:49.649Z",
-        "ultimo_acesso": "2026-06-27T21:44:49.649Z",
-        "acessos_total": 0,
+        "ultimo_acesso": "2026-06-27T21:59:43.100Z",
+        "acessos_total": 1,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
@@ -5621,8 +5621,13 @@
         "fp": "0ac05a10",
         "ts": "2026-06-27T21:44:49.649Z",
         "jogo": "J67"
+      },
+      {
+        "fp": "0ac05a10",
+        "ts": "2026-06-27T21:59:43.100Z",
+        "jogo": "J67"
       }
     ]
   },
-  "updatedAt": "2026-06-27T21:59:38.393Z"
+  "updatedAt": "2026-06-27T21:59:43.650Z"
 }
