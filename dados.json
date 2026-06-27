@@ -5610,7 +5610,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "17",
+      "minute": "18",
       "events": [],
       "goals": [],
       "stats": {
@@ -5628,16 +5628,24 @@
       "savedToGH": false
     },
     "70": {
-      "a": 0,
+      "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "17",
+      "minute": "18",
       "events": [
         {
           "type": "goal",
           "player": "Eldor Shomurodov",
           "team": "Uzbequistão",
           "minute": "10",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Nathanaël Mbuku",
+          "team": "RD Congo",
+          "minute": "17",
           "penalty": false,
           "og": false
         }
@@ -5650,14 +5658,22 @@
           "minute": "10",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Nathanaël Mbuku",
+          "team": "RD Congo",
+          "minute": "17",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 51.6,
-        "possession_b": 48.4,
-        "shots_a": 1,
+        "possession_a": 52.4,
+        "possession_b": 47.6,
+        "shots_a": 2,
         "shots_b": 1,
-        "shots_on_a": 0,
+        "shots_on_a": 1,
         "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 1,
@@ -5768,5 +5784,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T23:48:26.391Z"
+  "updatedAt": "2026-06-27T23:49:27.403Z"
 }
