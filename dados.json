@@ -5454,7 +5454,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "75",
+      "minute": "76",
       "events": [
         {
           "type": "yellow_card",
@@ -5504,8 +5504,8 @@
         }
       ],
       "stats": {
-        "possession_a": 30.7,
-        "possession_b": 69.3,
+        "possession_a": 31.6,
+        "possession_b": 68.4,
         "shots_a": 6,
         "shots_b": 14,
         "shots_on_a": 2,
@@ -5513,15 +5513,15 @@
         "corners_a": 1,
         "corners_b": 6,
         "fouls_a": 12,
-        "fouls_b": 8
+        "fouls_b": 9
       },
       "savedToGH": false
     },
     "68": {
       "a": 1,
-      "b": 0,
+      "b": 1,
       "status": "SCHEDULED",
-      "minute": "73",
+      "minute": "74",
       "events": [
         {
           "type": "goal",
@@ -5536,6 +5536,14 @@
           "player": "Ivan Perisic",
           "team": "Croácia",
           "minute": "68"
+        },
+        {
+          "type": "goal",
+          "player": "Derrick Luckassen",
+          "team": "Gana",
+          "minute": "73",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -5546,15 +5554,23 @@
           "minute": "31",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Derrick Luckassen",
+          "team": "Gana",
+          "minute": "73",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 52.5,
-        "possession_b": 47.5,
+        "possession_a": 52.3,
+        "possession_b": 47.7,
         "shots_a": 5,
-        "shots_b": 3,
+        "shots_b": 4,
         "shots_on_a": 2,
-        "shots_on_b": 0,
+        "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 2,
         "fouls_a": 6,
@@ -5706,5 +5722,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T22:34:10.766Z"
+  "updatedAt": "2026-06-27T22:35:11.400Z"
 }
