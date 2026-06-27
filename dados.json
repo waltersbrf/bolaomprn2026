@@ -5296,7 +5296,7 @@
     "63": {
       "a": 0,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "54",
       "events": [
         {
@@ -5348,7 +5348,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "54",
+      "minute": "55",
       "events": [
         {
           "type": "yellow_card",
@@ -5479,5 +5479,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:18:15.584Z"
+  "updatedAt": "2026-06-27T01:18:46.552Z"
 }
