@@ -5454,7 +5454,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "62",
+      "minute": "63",
       "events": [
         {
           "type": "yellow_card",
@@ -5499,7 +5499,7 @@
         "fouls_a": 12,
         "fouls_b": 5
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "68": {
       "a": 1,
@@ -5538,7 +5538,7 @@
         "fouls_a": 4,
         "fouls_b": 9
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "69": {
       "a": 0,
@@ -5548,7 +5548,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "70": {
       "a": 0,
@@ -5558,7 +5558,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "71": {
       "a": 0,
@@ -5568,7 +5568,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "72": {
       "a": 0,
@@ -5578,7 +5578,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -5602,13 +5602,26 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "712191fc": {
-        "primeiro_acesso": "2026-06-27T22:07:58.081Z",
-        "ultimo_acesso": "2026-06-27T22:07:58.081Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
         "cidade": "Natal",
         "estado": "RN",
         "pais": "BR",
@@ -5646,13 +5659,8 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
-      },
-      {
-        "fp": "712191fc",
-        "ts": "2026-06-27T22:07:58.081Z",
-        "jogo": "J67"
       }
     ]
   },
-  "updatedAt": "2026-06-27T22:21:13.394Z"
+  "updatedAt": "2026-06-27T22:21:27.956Z"
 }
