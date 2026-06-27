@@ -5604,7 +5604,7 @@
         "fouls_a": 9,
         "fouls_b": 13
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "69": {
       "a": 0,
@@ -5625,7 +5625,7 @@
         "fouls_a": 0,
         "fouls_b": 0
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "70": {
       "a": 0,
@@ -5646,7 +5646,7 @@
         "fouls_a": 0,
         "fouls_b": 0
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "71": {
       "a": 0,
@@ -5656,7 +5656,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "72": {
       "a": 0,
@@ -5666,7 +5666,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -5690,26 +5690,13 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
-        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
+      "712191fc": {
+        "primeiro_acesso": "2026-06-27T22:07:58.081Z",
+        "ultimo_acesso": "2026-06-27T22:07:58.081Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "Currais Novos",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
-        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
         "cidade": "Natal",
         "estado": "RN",
         "pais": "BR",
@@ -5747,8 +5734,13 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
+      },
+      {
+        "fp": "712191fc",
+        "ts": "2026-06-27T22:07:58.081Z",
+        "jogo": "J67"
       }
     ]
   },
-  "updatedAt": "2026-06-27T22:58:05.820Z"
+  "updatedAt": "2026-06-27T22:58:08.670Z"
 }
