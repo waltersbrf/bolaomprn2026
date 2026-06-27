@@ -5317,7 +5317,7 @@
     "64": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "15",
       "events": [
         {
@@ -5449,5 +5449,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T00:16:54.958Z"
+  "updatedAt": "2026-06-27T00:17:24.556Z"
 }
