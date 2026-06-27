@@ -5349,8 +5349,8 @@
         }
       ],
       "stats": {
-        "possession_a": 33,
-        "possession_b": 67,
+        "possession_a": 33.1,
+        "possession_b": 66.9,
         "shots_a": 5,
         "shots_b": 6,
         "shots_on_a": 1,
@@ -5395,8 +5395,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 51.2,
-        "possession_b": 48.8,
+        "possession_a": 51,
+        "possession_b": 49,
         "shots_a": 15,
         "shots_b": 7,
         "shots_on_a": 2,
@@ -5409,44 +5409,230 @@
       "savedToGH": true
     },
     "65": {
-      "a": 0,
-      "b": 0,
-      "status": "SCHEDULED",
-      "minute": "0",
-      "events": [],
-      "goals": [],
+      "a": 1,
+      "b": 5,
+      "status": "FINISHED",
+      "minute": "90+6'",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Leandro Trossard",
+          "team": "Bélgica",
+          "minute": "28",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Marko Stamenic",
+          "team": "Nova Zelândia",
+          "minute": "46"
+        },
+        {
+          "type": "goal",
+          "player": "Leandro Trossard",
+          "team": "Bélgica",
+          "minute": "50",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Elijah Just",
+          "team": "Nova Zelândia",
+          "minute": "56"
+        },
+        {
+          "type": "goal",
+          "player": "Kevin De Bruyne",
+          "team": "Bélgica",
+          "minute": "66",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Elijah Just",
+          "team": "Nova Zelândia",
+          "minute": "84",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Romelu Lukaku",
+          "team": "Bélgica",
+          "minute": "86",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Alexis Saelemaekers",
+          "team": "Bélgica",
+          "minute": "90+4'",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Leandro Trossard",
+          "team": "Bélgica",
+          "minute": "28",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Leandro Trossard",
+          "team": "Bélgica",
+          "minute": "50",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Kevin De Bruyne",
+          "team": "Bélgica",
+          "minute": "66",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Elijah Just",
+          "team": "Nova Zelândia",
+          "minute": "84",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Romelu Lukaku",
+          "team": "Bélgica",
+          "minute": "86",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Alexis Saelemaekers",
+          "team": "Bélgica",
+          "minute": "90+4'",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 0,
-        "possession_b": 0,
-        "shots_a": 0,
-        "shots_b": 0,
-        "shots_on_a": 0,
-        "shots_on_b": 0,
-        "corners_a": 0,
-        "corners_b": 0,
-        "fouls_a": 0,
-        "fouls_b": 0
+        "possession_a": 45.5,
+        "possession_b": 54.5,
+        "shots_a": 6,
+        "shots_b": 35,
+        "shots_on_a": 2,
+        "shots_on_b": 10,
+        "corners_a": 5,
+        "corners_b": 8,
+        "fouls_a": 10,
+        "fouls_b": 7
       },
       "savedToGH": true
     },
     "66": {
-      "a": 0,
-      "b": 0,
-      "status": "SCHEDULED",
-      "minute": "0",
-      "events": [],
-      "goals": [],
+      "a": 1,
+      "b": 1,
+      "status": "FINISHED",
+      "minute": "90+9'",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Mahmoud Saber",
+          "team": "Egito",
+          "minute": "5",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Ramin Rezaeian",
+          "team": "Irã",
+          "minute": "14",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Hossein Kanani",
+          "team": "Irã",
+          "minute": "19"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Mahmoud Saber",
+          "team": "Egito",
+          "minute": "20"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Yasser Ibrahim",
+          "team": "Egito",
+          "minute": "42"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Ali Nemati",
+          "team": "Irã",
+          "minute": "43"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Saeid Ezatolahi",
+          "team": "Irã",
+          "minute": "79"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Mohanad Lashin",
+          "team": "Egito",
+          "minute": "90+2'"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Shoja Khalilzadeh",
+          "team": "Irã",
+          "minute": "90+4'"
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Mahmoud Saber",
+          "team": "Egito",
+          "minute": "5",
+          "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Ramin Rezaeian",
+          "team": "Irã",
+          "minute": "14",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 0,
-        "possession_b": 0,
-        "shots_a": 0,
-        "shots_b": 0,
-        "shots_on_a": 0,
-        "shots_on_b": 0,
-        "corners_a": 0,
-        "corners_b": 0,
-        "fouls_a": 0,
-        "fouls_b": 0
+        "possession_a": 61.4,
+        "possession_b": 38.6,
+        "shots_a": 15,
+        "shots_b": 13,
+        "shots_on_a": 3,
+        "shots_on_b": 4,
+        "corners_a": 8,
+        "corners_b": 2,
+        "fouls_a": 11,
+        "fouls_b": 16
       },
       "savedToGH": true
     },
@@ -5554,65 +5740,34 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
-        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
+      "42e916ad": {
+        "primeiro_acesso": "2026-06-27T19:38:10.877Z",
+        "ultimo_acesso": "2026-06-27T19:38:10.877Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
         "tipo": "Mobile",
-        "cidade": "Currais Novos",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
-        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
       {
-        "fp": "22244835",
-        "ts": "2026-06-26T15:07:17.037Z"
+        "fp": "f603cb5b",
+        "ts": "2026-06-27T17:19:49.104Z"
       },
       {
-        "fp": "3cb3d598",
-        "ts": "2026-06-26T16:53:05.985Z"
+        "fp": "b70e1f46",
+        "ts": "2026-06-27T19:02:47.173Z"
       },
       {
-        "fp": "22244835",
-        "ts": "2026-06-26T18:48:59.759Z"
-      },
-      {
-        "fp": "712191fc",
-        "ts": "2026-06-26T19:21:28.886Z",
-        "jogo": "J61"
-      },
-      {
-        "fp": "22244835",
-        "ts": "2026-06-26T20:24:38.632Z",
-        "jogo": "J61"
-      },
-      {
-        "fp": "c3622db8",
-        "ts": "2026-06-26T20:58:35.432Z"
-      },
-      {
-        "fp": "3cb3d598",
-        "ts": "2026-06-26T21:03:39.301Z"
+        "fp": "42e916ad",
+        "ts": "2026-06-27T19:38:10.877Z"
       }
     ]
   },
-  "updatedAt": "2026-06-27T20:01:17.099Z"
+  "updatedAt": "2026-06-27T20:02:04.858Z"
 }
