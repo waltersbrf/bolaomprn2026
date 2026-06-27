@@ -5395,8 +5395,8 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 51.1,
-        "possession_b": 48.9,
+        "possession_a": 51.2,
+        "possession_b": 48.8,
         "shots_a": 15,
         "shots_b": 7,
         "shots_on_a": 2,
@@ -5528,5 +5528,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T02:02:28.750Z"
+  "updatedAt": "2026-06-27T02:03:21.100Z"
 }
