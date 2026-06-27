@@ -5297,7 +5297,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "90+1'",
+      "minute": "90+2'",
       "events": [
         {
           "type": "goal",
@@ -5354,7 +5354,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "90+2'",
+      "minute": "90+3'",
       "events": [
         {
           "type": "yellow_card",
@@ -5373,12 +5373,18 @@
           "player": "Nasser Al-Dawsari",
           "team": "Arábia Saudita",
           "minute": "67"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Feras Al-Brikan",
+          "team": "Arábia Saudita",
+          "minute": "90+3'"
         }
       ],
       "goals": [],
       "stats": {
-        "possession_a": 51.3,
-        "possession_b": 48.7,
+        "possession_a": 50.7,
+        "possession_b": 49.3,
         "shots_a": 15,
         "shots_b": 6,
         "shots_on_a": 2,
@@ -5431,31 +5437,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
-        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
+      "20a834c8": {
+        "primeiro_acesso": "2026-06-27T01:54:19.060Z",
+        "ultimo_acesso": "2026-06-27T01:54:19.060Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
         "tipo": "Mobile",
-        "cidade": "Currais Novos",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
-        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
         "cidade": "Natal",
         "estado": "RN",
         "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "lat": -5.795,
+        "lng": -35.20944
       }
     },
     "acessos_log": [
@@ -5488,8 +5481,12 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
+      },
+      {
+        "fp": "20a834c8",
+        "ts": "2026-06-27T01:54:19.060Z"
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:56:25.369Z"
+  "updatedAt": "2026-06-27T01:57:00.365Z"
 }
