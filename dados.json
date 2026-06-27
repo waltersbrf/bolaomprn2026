@@ -5609,8 +5609,8 @@
     "69": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "10",
+      "status": "IN_PLAY",
+      "minute": "11",
       "events": [],
       "goals": [],
       "stats": {
@@ -5629,11 +5629,29 @@
     },
     "70": {
       "a": 0,
-      "b": 0,
+      "b": 1,
       "status": "IN_PLAY",
-      "minute": "10",
-      "events": [],
-      "goals": [],
+      "minute": "11",
+      "events": [
+        {
+          "type": "goal",
+          "player": "Eldor Shomurodov",
+          "team": "Uzbequistão",
+          "minute": "10",
+          "penalty": false,
+          "og": false
+        }
+      ],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Eldor Shomurodov",
+          "team": "Uzbequistão",
+          "minute": "10",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
         "possession_a": 49.4,
         "possession_b": 50.6,
@@ -5750,5 +5768,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T23:41:19.255Z"
+  "updatedAt": "2026-06-27T23:41:48.386Z"
 }
