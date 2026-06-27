@@ -5512,7 +5512,7 @@
       "stats": {
         "possession_a": 32.9,
         "possession_b": 67.1,
-        "shots_a": 13,
+        "shots_a": 12,
         "shots_b": 17,
         "shots_on_a": 2,
         "shots_on_b": 6,
@@ -5527,7 +5527,7 @@
       "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "90+6'",
+      "minute": "90+7'",
       "events": [
         {
           "type": "goal",
@@ -5604,7 +5604,7 @@
         "fouls_a": 9,
         "fouls_b": 13
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "69": {
       "a": 0,
@@ -5625,7 +5625,7 @@
         "fouls_a": 0,
         "fouls_b": 0
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "70": {
       "a": 0,
@@ -5646,7 +5646,7 @@
         "fouls_a": 0,
         "fouls_b": 0
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "71": {
       "a": 0,
@@ -5656,7 +5656,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "72": {
       "a": 0,
@@ -5666,7 +5666,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -5690,13 +5690,26 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "712191fc": {
-        "primeiro_acesso": "2026-06-27T22:07:58.081Z",
-        "ultimo_acesso": "2026-06-27T22:07:58.081Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
         "cidade": "Natal",
         "estado": "RN",
         "pais": "BR",
@@ -5734,13 +5747,8 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
-      },
-      {
-        "fp": "712191fc",
-        "ts": "2026-06-27T22:07:58.081Z",
-        "jogo": "J67"
       }
     ]
   },
-  "updatedAt": "2026-06-27T22:57:27.272Z"
+  "updatedAt": "2026-06-27T22:58:05.820Z"
 }
