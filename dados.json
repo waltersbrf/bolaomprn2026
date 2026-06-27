@@ -2584,44 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-27T16:49:10.150Z",
-  "analytics": {
-    "visitors": {
-      "db8080c0": {
-        "primeiro_acesso": "2026-06-27T16:49:09.329Z",
-        "ultimo_acesso": "2026-06-27T16:49:09.329Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Sao Mateus Do Sul",
-        "estado": "PR",
-        "pais": "BR",
-        "lat": -25.9235,
-        "lng": -50.4807
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "22244835",
-        "ts": "2026-06-27T12:32:33.404Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-27T14:18:34.602Z"
-      },
-      {
-        "fp": "260c046b",
-        "ts": "2026-06-27T14:37:09.563Z"
-      },
-      {
-        "fp": "16462635",
-        "ts": "2026-06-27T16:29:55.378Z"
-      },
-      {
-        "fp": "db8080c0",
-        "ts": "2026-06-27T16:49:09.329Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-27T17:19:41.564Z"
 }
