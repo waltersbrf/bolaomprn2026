@@ -4019,10 +4019,10 @@
         }
       ],
       "stats": {
-        "possession_a": 63.6,
-        "possession_b": 36.4,
+        "possession_a": 63.5,
+        "possession_b": 36.5,
         "shots_a": 20,
-        "shots_b": 8,
+        "shots_b": 7,
         "shots_on_a": 9,
         "shots_on_b": 1,
         "corners_a": 5,
@@ -5297,7 +5297,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "17",
+      "minute": "18",
       "events": [],
       "goals": [],
       "stats": {
@@ -5312,13 +5312,13 @@
         "fouls_a": 1,
         "fouls_b": 3
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "64": {
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "16",
+      "minute": "17",
       "events": [
         {
           "type": "yellow_card",
@@ -5346,7 +5346,7 @@
         "fouls_a": 2,
         "fouls_b": 3
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "65": {
       "a": 0,
@@ -5356,7 +5356,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "66": {
       "a": 0,
@@ -5366,7 +5366,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -5389,26 +5389,65 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3b3cffe9": {
-        "primeiro_acesso": "2026-06-26T23:41:40.467Z",
-        "ultimo_acesso": "2026-06-26T23:41:40.467Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
       {
-        "fp": "3b3cffe9",
-        "ts": "2026-06-26T23:41:40.467Z"
+        "fp": "22244835",
+        "ts": "2026-06-26T15:07:17.037Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-26T16:53:05.985Z"
+      },
+      {
+        "fp": "22244835",
+        "ts": "2026-06-26T18:48:59.759Z"
+      },
+      {
+        "fp": "712191fc",
+        "ts": "2026-06-26T19:21:28.886Z",
+        "jogo": "J61"
+      },
+      {
+        "fp": "22244835",
+        "ts": "2026-06-26T20:24:38.632Z",
+        "jogo": "J61"
+      },
+      {
+        "fp": "c3622db8",
+        "ts": "2026-06-26T20:58:35.432Z"
+      },
+      {
+        "fp": "3cb3d598",
+        "ts": "2026-06-26T21:03:39.301Z"
       }
     ]
   },
-  "updatedAt": "2026-06-27T00:18:48.224Z"
+  "updatedAt": "2026-06-27T00:19:28.998Z"
 }
