@@ -5297,7 +5297,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "57",
+      "minute": "58",
       "events": [
         {
           "type": "goal",
@@ -5318,6 +5318,12 @@
           "player": "Juan Manuel Sanabria",
           "team": "Uruguai",
           "minute": "54"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Guillermo Varela",
+          "team": "Uruguai",
+          "minute": "58"
         }
       ],
       "goals": [
@@ -5331,15 +5337,15 @@
         }
       ],
       "stats": {
-        "possession_a": 29,
-        "possession_b": 71,
+        "possession_a": 28.8,
+        "possession_b": 71.2,
         "shots_a": 3,
         "shots_b": 4,
         "shots_on_a": 0,
         "shots_on_b": 1,
         "corners_a": 0,
-        "corners_b": 5,
-        "fouls_a": 4,
+        "corners_b": 6,
+        "fouls_a": 5,
         "fouls_b": 10
       },
       "savedToGH": true
@@ -5348,7 +5354,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "58",
+      "minute": "59",
       "events": [
         {
           "type": "yellow_card",
@@ -5479,5 +5485,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T01:21:49.779Z"
+  "updatedAt": "2026-06-27T01:22:50.605Z"
 }
