@@ -5454,7 +5454,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "82",
+      "minute": "84",
       "events": [
         {
           "type": "yellow_card",
@@ -5483,6 +5483,12 @@
           "minute": "67",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "yellow_card",
+          "player": "Andrés Andrade",
+          "team": "Panamá",
+          "minute": "84"
         }
       ],
       "goals": [
@@ -5504,15 +5510,15 @@
         }
       ],
       "stats": {
-        "possession_a": 33.2,
-        "possession_b": 66.8,
+        "possession_a": 34.4,
+        "possession_b": 65.6,
         "shots_a": 11,
         "shots_b": 14,
         "shots_on_a": 2,
         "shots_on_b": 5,
         "corners_a": 2,
         "corners_b": 6,
-        "fouls_a": 12,
+        "fouls_a": 13,
         "fouls_b": 10
       },
       "savedToGH": false
@@ -5521,7 +5527,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "80",
+      "minute": "81",
       "events": [
         {
           "type": "goal",
@@ -5573,7 +5579,7 @@
         "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 2,
-        "fouls_a": 6,
+        "fouls_a": 8,
         "fouls_b": 9
       },
       "savedToGH": false
@@ -5722,5 +5728,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-27T22:41:48.401Z"
+  "updatedAt": "2026-06-27T22:42:49.630Z"
 }
