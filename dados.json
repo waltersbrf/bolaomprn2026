@@ -5630,7 +5630,7 @@
     "70": {
       "a": 0,
       "b": 1,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "30",
       "events": [
         {
@@ -5774,5 +5774,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:01:17.392Z"
+  "updatedAt": "2026-06-28T00:01:48.392Z"
 }
