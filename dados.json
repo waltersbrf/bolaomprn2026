@@ -5799,9 +5799,9 @@
         }
       ],
       "stats": {
-        "possession_a": 26,
-        "possession_b": 74,
-        "shots_a": 2,
+        "possession_a": 27.2,
+        "possession_b": 72.8,
+        "shots_a": 3,
         "shots_b": 4,
         "shots_on_a": 0,
         "shots_on_b": 2,
@@ -5810,13 +5810,13 @@
         "fouls_a": 2,
         "fouls_b": 4
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "72": {
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "38",
+      "minute": "39",
       "events": [
         {
           "type": "yellow_card",
@@ -5844,8 +5844,8 @@
         }
       ],
       "stats": {
-        "possession_a": 53.3,
-        "possession_b": 46.7,
+        "possession_a": 54.4,
+        "possession_b": 45.6,
         "shots_a": 3,
         "shots_b": 2,
         "shots_on_a": 0,
@@ -5855,7 +5855,7 @@
         "fouls_a": 1,
         "fouls_b": 2
       },
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -5879,31 +5879,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
-        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-28T01:38:38.423Z",
+        "ultimo_acesso": "2026-06-28T01:38:38.423Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "Currais Novos",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
-        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -5936,8 +5923,12 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-28T01:38:38.423Z"
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:38:52.399Z"
+  "updatedAt": "2026-06-28T02:39:32.852Z"
 }
