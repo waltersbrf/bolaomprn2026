@@ -5609,8 +5609,8 @@
     "69": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "40",
+      "status": "IN_PLAY",
+      "minute": "41",
       "events": [],
       "goals": [],
       "stats": {
@@ -5625,13 +5625,13 @@
         "fouls_a": 2,
         "fouls_b": 3
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "70": {
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "40",
+      "minute": "41",
       "events": [
         {
           "type": "goal",
@@ -5659,8 +5659,8 @@
         }
       ],
       "stats": {
-        "possession_a": 57.4,
-        "possession_b": 42.6,
+        "possession_a": 57.9,
+        "possession_b": 42.1,
         "shots_a": 2,
         "shots_b": 1,
         "shots_on_a": 1,
@@ -5668,9 +5668,9 @@
         "corners_a": 0,
         "corners_b": 3,
         "fouls_a": 4,
-        "fouls_b": 6
+        "fouls_b": 7
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "71": {
       "a": 0,
@@ -5680,7 +5680,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "72": {
       "a": 0,
@@ -5690,7 +5690,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -5714,31 +5714,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
-        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
+      "b70e1f46": {
+        "primeiro_acesso": "2026-06-28T00:05:23.759Z",
+        "ultimo_acesso": "2026-06-28T00:05:23.759Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
         "tipo": "Mobile",
-        "cidade": "Currais Novos",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
-        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -5771,8 +5758,13 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
+      },
+      {
+        "fp": "b70e1f46",
+        "ts": "2026-06-28T00:05:23.759Z",
+        "jogo": "J69"
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:11:58.963Z"
+  "updatedAt": "2026-06-28T00:12:20.821Z"
 }
