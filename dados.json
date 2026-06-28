@@ -5755,7 +5755,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "10",
+      "minute": "11",
       "events": [],
       "goals": [],
       "stats": {
@@ -5776,13 +5776,20 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "10",
-      "events": [],
+      "minute": "11",
+      "events": [
+        {
+          "type": "yellow_card",
+          "player": "Marko Arnautovic",
+          "team": "Áustria",
+          "minute": "11"
+        }
+      ],
       "goals": [],
       "stats": {
-        "possession_a": 55.2,
-        "possession_b": 44.8,
-        "shots_a": 0,
+        "possession_a": 53.7,
+        "possession_b": 46.3,
+        "shots_a": 1,
         "shots_b": 1,
         "shots_on_a": 0,
         "shots_on_b": 0,
@@ -5875,5 +5882,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:10:51.394Z"
+  "updatedAt": "2026-06-28T02:11:52.414Z"
 }
