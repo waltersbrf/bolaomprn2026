@@ -2584,5 +2584,32 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-28T15:34:25.373Z"
+  "updatedAt": "2026-06-28T15:36:48.143Z",
+  "analytics": {
+    "visitors": {
+      "3031f107": {
+        "primeiro_acesso": "2026-06-28T15:36:47.171Z",
+        "ultimo_acesso": "2026-06-28T15:36:47.171Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "New York City",
+        "estado": "NY",
+        "pais": "US",
+        "lat": 40.71427,
+        "lng": -74.00597
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "b8c24516",
+        "ts": "2026-06-28T14:54:56.663Z"
+      },
+      {
+        "fp": "3031f107",
+        "ts": "2026-06-28T15:36:47.171Z"
+      }
+    ]
+  }
 }
