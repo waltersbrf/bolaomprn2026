@@ -5755,7 +5755,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "44",
+      "minute": "45",
       "events": [
         {
           "type": "yellow_card",
@@ -5813,10 +5813,10 @@
       "savedToGH": false
     },
     "72": {
-      "a": 0,
+      "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "44",
+      "minute": "45",
       "events": [
         {
           "type": "yellow_card",
@@ -5831,6 +5831,14 @@
           "minute": "28",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Rafik Belghali",
+          "team": "Argélia",
+          "minute": "45",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -5841,11 +5849,19 @@
           "minute": "28",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Rafik Belghali",
+          "team": "Argélia",
+          "minute": "45",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 56.9,
-        "possession_b": 43.1,
+        "possession_a": 57.4,
+        "possession_b": 42.6,
         "shots_a": 6,
         "shots_b": 4,
         "shots_on_a": 1,
@@ -5939,5 +5955,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:44:59.382Z"
+  "updatedAt": "2026-06-28T02:46:00.485Z"
 }
