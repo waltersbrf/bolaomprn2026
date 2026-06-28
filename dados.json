@@ -2584,5 +2584,36 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-28T04:02:26.897Z"
+  "updatedAt": "2026-06-28T04:02:30.737Z",
+  "analytics": {
+    "visitors": {
+      "5cea5f60": {
+        "primeiro_acesso": "2026-06-28T04:02:30.406Z",
+        "ultimo_acesso": "2026-06-28T04:02:30.406Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Jacarei",
+        "estado": "SP",
+        "pais": "BR",
+        "lat": -23.30528,
+        "lng": -45.96583
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "b43b04db",
+        "ts": "2026-06-28T03:52:31.966Z"
+      },
+      {
+        "fp": "16462635",
+        "ts": "2026-06-28T03:55:58.892Z"
+      },
+      {
+        "fp": "5cea5f60",
+        "ts": "2026-06-28T04:02:30.406Z"
+      }
+    ]
+  }
 }
