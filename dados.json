@@ -5753,9 +5753,9 @@
     },
     "71": {
       "a": 0,
-      "b": 1,
+      "b": 2,
       "status": "SCHEDULED",
-      "minute": "30",
+      "minute": "31",
       "events": [
         {
           "type": "yellow_card",
@@ -5770,6 +5770,14 @@
           "minute": "19",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Lautaro Martínez",
+          "team": "Argentina",
+          "minute": "31",
+          "penalty": true,
+          "og": false
         }
       ],
       "goals": [
@@ -5779,6 +5787,14 @@
           "team": "Argentina",
           "minute": "19",
           "penalty": false,
+          "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Lautaro Martínez",
+          "team": "Argentina",
+          "minute": "31",
+          "penalty": true,
           "og": false
         }
       ],
@@ -5790,17 +5806,17 @@
         "shots_on_a": 0,
         "shots_on_b": 2,
         "corners_a": 0,
-        "corners_b": 3,
-        "fouls_a": 1,
+        "corners_b": 2,
+        "fouls_a": 2,
         "fouls_b": 1
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "72": {
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "30",
+      "minute": "31",
       "events": [
         {
           "type": "yellow_card",
@@ -5828,8 +5844,8 @@
         }
       ],
       "stats": {
-        "possession_a": 52.3,
-        "possession_b": 47.7,
+        "possession_a": 54.3,
+        "possession_b": 45.7,
         "shots_a": 1,
         "shots_b": 2,
         "shots_on_a": 0,
@@ -5839,7 +5855,7 @@
         "fouls_a": 1,
         "fouls_b": 2
       },
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -5863,31 +5879,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
-        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-28T01:38:38.423Z",
+        "ultimo_acesso": "2026-06-28T01:38:38.423Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "Currais Novos",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
-        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -5920,8 +5923,12 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-28T01:38:38.423Z"
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:30:44.734Z"
+  "updatedAt": "2026-06-28T02:31:38.015Z"
 }
