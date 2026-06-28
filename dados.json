@@ -5631,7 +5631,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "42",
+      "minute": "43",
       "events": [
         {
           "type": "goal",
@@ -5646,6 +5646,12 @@
           "player": "Noah Sadiki",
           "team": "RD Congo",
           "minute": "21"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Abdukodir Khusanov",
+          "team": "Uzbequistão",
+          "minute": "43"
         }
       ],
       "goals": [
@@ -5659,16 +5665,16 @@
         }
       ],
       "stats": {
-        "possession_a": 57.9,
-        "possession_b": 42.1,
+        "possession_a": 59.1,
+        "possession_b": 40.9,
         "shots_a": 2,
         "shots_b": 1,
         "shots_on_a": 1,
         "shots_on_b": 1,
-        "corners_a": 0,
+        "corners_a": 1,
         "corners_b": 3,
         "fouls_a": 4,
-        "fouls_b": 7
+        "fouls_b": 8
       },
       "savedToGH": false
     },
@@ -5774,5 +5780,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:14:00.721Z"
+  "updatedAt": "2026-06-28T00:14:31.480Z"
 }
