@@ -5625,13 +5625,13 @@
         "fouls_a": 3,
         "fouls_b": 4
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "70": {
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "45+4'",
+      "minute": "45+5'",
       "events": [
         {
           "type": "goal",
@@ -5652,6 +5652,12 @@
           "player": "Abdukodir Khusanov",
           "team": "Uzbequistão",
           "minute": "43"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Nathanaël Mbuku",
+          "team": "RD Congo",
+          "minute": "45+5'"
         }
       ],
       "goals": [
@@ -5676,7 +5682,7 @@
         "fouls_a": 4,
         "fouls_b": 9
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "71": {
       "a": 0,
@@ -5686,7 +5692,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "72": {
       "a": 0,
@@ -5696,7 +5702,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -5720,18 +5726,31 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-27T23:42:46.099Z",
-        "ultimo_acesso": "2026-06-27T23:42:46.099Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -5764,13 +5783,8 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-27T23:42:46.099Z",
-        "jogo": "J69"
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:20:42.617Z"
+  "updatedAt": "2026-06-28T00:21:11.944Z"
 }
