@@ -5753,21 +5753,38 @@
     },
     "71": {
       "a": 0,
-      "b": 0,
+      "b": 1,
       "status": "SCHEDULED",
-      "minute": "18",
+      "minute": "19",
       "events": [
         {
           "type": "yellow_card",
           "player": "Mohannad Abu Taha",
           "team": "Jordânia",
           "minute": "17"
+        },
+        {
+          "type": "goal",
+          "player": "Giovani Lo Celso",
+          "team": "Argentina",
+          "minute": "19",
+          "penalty": false,
+          "og": false
         }
       ],
-      "goals": [],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Giovani Lo Celso",
+          "team": "Argentina",
+          "minute": "19",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
-        "possession_a": 17.9,
-        "possession_b": 82.1,
+        "possession_a": 17.6,
+        "possession_b": 82.4,
         "shots_a": 0,
         "shots_b": 1,
         "shots_on_a": 0,
@@ -5782,7 +5799,7 @@
     "72": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "18",
       "events": [
         {
@@ -5889,5 +5906,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:19:00.710Z"
+  "updatedAt": "2026-06-28T02:19:31.394Z"
 }
