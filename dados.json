@@ -2584,5 +2584,36 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-28T04:05:36.756Z"
+  "updatedAt": "2026-06-28T04:05:39.964Z",
+  "analytics": {
+    "visitors": {
+      "c02b7f55": {
+        "primeiro_acesso": "2026-06-28T04:05:39.397Z",
+        "ultimo_acesso": "2026-06-28T04:05:39.397Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Areado",
+        "estado": "MG",
+        "pais": "BR",
+        "lat": -21.35861,
+        "lng": -46.14556
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "b43b04db",
+        "ts": "2026-06-28T03:52:31.966Z"
+      },
+      {
+        "fp": "16462635",
+        "ts": "2026-06-28T03:55:58.892Z"
+      },
+      {
+        "fp": "c02b7f55",
+        "ts": "2026-06-28T04:05:39.397Z"
+      }
+    ]
+  }
 }
