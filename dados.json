@@ -5755,7 +5755,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "25",
+      "minute": "26",
       "events": [
         {
           "type": "yellow_card",
@@ -5799,8 +5799,8 @@
     "72": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
-      "minute": "26",
+      "status": "SCHEDULED",
+      "minute": "27",
       "events": [
         {
           "type": "yellow_card",
@@ -5906,5 +5906,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:26:08.383Z"
+  "updatedAt": "2026-06-28T02:27:10.393Z"
 }
