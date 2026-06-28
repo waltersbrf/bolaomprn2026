@@ -5609,7 +5609,7 @@
     "69": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "52",
       "events": [],
       "goals": [],
@@ -5617,7 +5617,7 @@
         "possession_a": 53.7,
         "possession_b": 46.3,
         "shots_a": 12,
-        "shots_b": 9,
+        "shots_b": 10,
         "shots_on_a": 3,
         "shots_on_b": 2,
         "corners_a": 1,
@@ -5792,5 +5792,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:43:51.396Z"
+  "updatedAt": "2026-06-28T00:44:22.399Z"
 }
