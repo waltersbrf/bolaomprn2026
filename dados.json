@@ -5610,7 +5610,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "90+1'",
+      "minute": "90+2'",
       "events": [
         {
           "type": "yellow_card",
@@ -5621,13 +5621,13 @@
       ],
       "goals": [],
       "stats": {
-        "possession_a": 54.2,
-        "possession_b": 45.8,
-        "shots_a": 22,
+        "possession_a": 54.8,
+        "possession_b": 45.2,
+        "shots_a": 23,
         "shots_b": 12,
         "shots_on_a": 6,
         "shots_on_b": 2,
-        "corners_a": 4,
+        "corners_a": 5,
         "corners_b": 2,
         "fouls_a": 11,
         "fouls_b": 6
@@ -5635,10 +5635,10 @@
       "savedToGH": false
     },
     "70": {
-      "a": 2,
+      "a": 3,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "89",
+      "minute": "90",
       "events": [
         {
           "type": "goal",
@@ -5693,6 +5693,14 @@
           "minute": "78",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Yoane Wissa",
+          "team": "RD Congo",
+          "minute": "90+1'",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -5719,11 +5727,19 @@
           "minute": "78",
           "penalty": false,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Yoane Wissa",
+          "team": "RD Congo",
+          "minute": "90+1'",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 60.7,
-        "possession_b": 39.3,
+        "possession_a": 59.2,
+        "possession_b": 40.8,
         "shots_a": 15,
         "shots_b": 3,
         "shots_on_a": 3,
@@ -5731,7 +5747,7 @@
         "corners_a": 2,
         "corners_b": 3,
         "fouls_a": 6,
-        "fouls_b": 14
+        "fouls_b": 15
       },
       "savedToGH": false
     },
@@ -5859,5 +5875,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T01:23:33.392Z"
+  "updatedAt": "2026-06-28T01:24:34.453Z"
 }
