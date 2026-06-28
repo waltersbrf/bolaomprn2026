@@ -5810,7 +5810,7 @@
         "fouls_a": 5,
         "fouls_b": 5
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "72": {
       "a": 1,
@@ -5871,7 +5871,7 @@
         "fouls_a": 1,
         "fouls_b": 4
       },
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -5896,31 +5896,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
-        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-28T01:38:38.423Z",
+        "ultimo_acesso": "2026-06-28T01:38:38.423Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "Currais Novos",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
-        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -5953,8 +5940,12 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-28T01:38:38.423Z"
       }
     ]
   },
-  "updatedAt": "2026-06-28T03:00:24.376Z"
+  "updatedAt": "2026-06-28T03:01:38.032Z"
 }
