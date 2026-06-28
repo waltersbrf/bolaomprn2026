@@ -5609,15 +5609,15 @@
     "69": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "41",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 52.2,
-        "possession_b": 47.8,
+        "possession_a": 51.8,
+        "possession_b": 48.2,
         "shots_a": 7,
-        "shots_b": 7,
+        "shots_b": 8,
         "shots_on_a": 1,
         "shots_on_b": 2,
         "corners_a": 1,
@@ -5625,7 +5625,7 @@
         "fouls_a": 2,
         "fouls_b": 3
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "70": {
       "a": 0,
@@ -5670,7 +5670,7 @@
         "fouls_a": 4,
         "fouls_b": 7
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "71": {
       "a": 0,
@@ -5680,7 +5680,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     },
     "72": {
       "a": 0,
@@ -5690,7 +5690,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -5714,18 +5714,31 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "b70e1f46": {
-        "primeiro_acesso": "2026-06-28T00:05:23.759Z",
-        "ultimo_acesso": "2026-06-28T00:05:23.759Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
+        "dispositivo": "Android",
+        "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -5758,13 +5771,8 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
-      },
-      {
-        "fp": "b70e1f46",
-        "ts": "2026-06-28T00:05:23.759Z",
-        "jogo": "J69"
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:12:20.821Z"
+  "updatedAt": "2026-06-28T00:13:00.891Z"
 }
