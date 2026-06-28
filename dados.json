@@ -2584,5 +2584,28 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-28T03:52:28.793Z"
+  "updatedAt": "2026-06-28T03:52:32.441Z",
+  "analytics": {
+    "visitors": {
+      "b43b04db": {
+        "primeiro_acesso": "2026-06-28T03:52:31.966Z",
+        "ultimo_acesso": "2026-06-28T03:52:31.966Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "pais": "BR",
+        "lat": -25.42778,
+        "lng": -49.27306
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "b43b04db",
+        "ts": "2026-06-28T03:52:31.966Z"
+      }
+    ]
+  }
 }
