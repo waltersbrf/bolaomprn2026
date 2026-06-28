@@ -5755,7 +5755,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "28",
+      "minute": "29",
       "events": [
         {
           "type": "yellow_card",
@@ -5794,7 +5794,7 @@
         "fouls_a": 1,
         "fouls_b": 1
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "72": {
       "a": 0,
@@ -5828,18 +5828,18 @@
         }
       ],
       "stats": {
-        "possession_a": 53.2,
-        "possession_b": 46.8,
+        "possession_a": 51.7,
+        "possession_b": 48.3,
         "shots_a": 1,
-        "shots_b": 1,
+        "shots_b": 2,
         "shots_on_a": 0,
-        "shots_on_b": 0,
+        "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 0,
         "fouls_a": 1,
         "fouls_b": 2
       },
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -5863,18 +5863,31 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-28T01:38:38.423Z",
-        "ultimo_acesso": "2026-06-28T01:38:38.423Z",
+      "c3622db8": {
+        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
+        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "cidade": "Currais Novos",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -6.2106,
+        "lng": -36.4817
+      },
+      "3cb3d598": {
+        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
+        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
+        "acessos_total": 0,
+        "dispositivo": "Windows",
+        "navegador": "Chrome",
+        "tipo": "Desktop",
+        "cidade": "Natal",
+        "estado": "RN",
+        "pais": "BR",
+        "lat": -5.8111,
+        "lng": -35.2235
       }
     },
     "acessos_log": [
@@ -5907,12 +5920,8 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
-      },
-      {
-        "fp": "f603cb5b",
-        "ts": "2026-06-28T01:38:38.423Z"
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:29:19.647Z"
+  "updatedAt": "2026-06-28T02:29:44.903Z"
 }
