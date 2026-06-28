@@ -2584,5 +2584,32 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-28T22:22:40.967Z"
+  "updatedAt": "2026-06-28T22:22:46.102Z",
+  "analytics": {
+    "visitors": {
+      "75718768": {
+        "primeiro_acesso": "2026-06-28T22:22:45.084Z",
+        "ultimo_acesso": "2026-06-28T22:22:45.084Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "pais": "BR",
+        "lat": -3.71722,
+        "lng": -38.54306
+      }
+    },
+    "acessos_log": [
+      {
+        "fp": "b7ef929f",
+        "ts": "2026-06-28T22:01:32.760Z"
+      },
+      {
+        "fp": "75718768",
+        "ts": "2026-06-28T22:22:45.084Z"
+      }
+    ]
+  }
 }
