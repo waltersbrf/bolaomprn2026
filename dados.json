@@ -5610,12 +5610,12 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "71",
+      "minute": "72",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 54.7,
-        "possession_b": 45.3,
+        "possession_a": 55.1,
+        "possession_b": 44.9,
         "shots_a": 19,
         "shots_b": 11,
         "shots_on_a": 6,
@@ -5625,13 +5625,13 @@
         "fouls_a": 6,
         "fouls_b": 5
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "70": {
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "70",
+      "minute": "71",
       "events": [
         {
           "type": "goal",
@@ -5710,7 +5710,7 @@
         "fouls_a": 6,
         "fouls_b": 14
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "71": {
       "a": 0,
@@ -5731,7 +5731,7 @@
         "fouls_a": 0,
         "fouls_b": 0
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "72": {
       "a": 0,
@@ -5752,7 +5752,7 @@
         "fouls_a": 0,
         "fouls_b": 0
       },
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -5776,31 +5776,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
-        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
+      "f603cb5b": {
+        "primeiro_acesso": "2026-06-27T23:42:46.099Z",
+        "ultimo_acesso": "2026-06-27T23:42:46.099Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
         "tipo": "Mobile",
-        "cidade": "Currais Novos",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
-        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -5833,8 +5820,13 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
+      },
+      {
+        "fp": "f603cb5b",
+        "ts": "2026-06-27T23:42:46.099Z",
+        "jogo": "J69"
       }
     ]
   },
-  "updatedAt": "2026-06-28T01:03:43.817Z"
+  "updatedAt": "2026-06-28T01:04:27.043Z"
 }
