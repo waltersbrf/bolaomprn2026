@@ -5610,7 +5610,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "62",
+      "minute": "63",
       "events": [],
       "goals": [],
       "stats": {
@@ -5622,7 +5622,7 @@
         "shots_on_b": 2,
         "corners_a": 1,
         "corners_b": 1,
-        "fouls_a": 5,
+        "fouls_a": 6,
         "fouls_b": 5
       },
       "savedToGH": false
@@ -5631,7 +5631,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "60",
+      "minute": "61",
       "events": [
         {
           "type": "goal",
@@ -5664,6 +5664,12 @@
           "player": "Sherzod Nasrullaev",
           "team": "Uzbequistão",
           "minute": "48"
+        },
+        {
+          "type": "yellow_card",
+          "player": "Samuel Moutoussamy",
+          "team": "RD Congo",
+          "minute": "62"
         }
       ],
       "goals": [
@@ -5792,5 +5798,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:54:32.774Z"
+  "updatedAt": "2026-06-28T00:55:33.387Z"
 }
