@@ -5754,20 +5754,27 @@
     "71": {
       "a": 0,
       "b": 0,
-      "status": "SCHEDULED",
-      "minute": "16",
-      "events": [],
+      "status": "IN_PLAY",
+      "minute": "18",
+      "events": [
+        {
+          "type": "yellow_card",
+          "player": "Mohannad Abu Taha",
+          "team": "Jordânia",
+          "minute": "17"
+        }
+      ],
       "goals": [],
       "stats": {
-        "possession_a": 20.6,
-        "possession_b": 79.4,
+        "possession_a": 17.9,
+        "possession_b": 82.1,
         "shots_a": 0,
         "shots_b": 1,
         "shots_on_a": 0,
         "shots_on_b": 0,
         "corners_a": 0,
         "corners_b": 1,
-        "fouls_a": 0,
+        "fouls_a": 1,
         "fouls_b": 1
       },
       "savedToGH": false
@@ -5776,7 +5783,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "16",
+      "minute": "17",
       "events": [
         {
           "type": "yellow_card",
@@ -5882,5 +5889,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:17:30.458Z"
+  "updatedAt": "2026-06-28T02:18:29.390Z"
 }
