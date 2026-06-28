@@ -5755,7 +5755,7 @@
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "27",
+      "minute": "28",
       "events": [
         {
           "type": "yellow_card",
@@ -5783,14 +5783,14 @@
         }
       ],
       "stats": {
-        "possession_a": 19.5,
-        "possession_b": 80.5,
+        "possession_a": 19.3,
+        "possession_b": 80.7,
         "shots_a": 0,
-        "shots_b": 2,
+        "shots_b": 3,
         "shots_on_a": 0,
         "shots_on_b": 1,
         "corners_a": 0,
-        "corners_b": 2,
+        "corners_b": 3,
         "fouls_a": 1,
         "fouls_b": 1
       },
@@ -5798,18 +5798,35 @@
     },
     "72": {
       "a": 0,
-      "b": 0,
+      "b": 1,
       "status": "SCHEDULED",
-      "minute": "28",
+      "minute": "29",
       "events": [
         {
           "type": "yellow_card",
           "player": "Marko Arnautovic",
           "team": "Áustria",
           "minute": "11"
+        },
+        {
+          "type": "goal",
+          "player": "Marko Arnautovic",
+          "team": "Áustria",
+          "minute": "28",
+          "penalty": false,
+          "og": false
         }
       ],
-      "goals": [],
+      "goals": [
+        {
+          "type": "goal",
+          "player": "Marko Arnautovic",
+          "team": "Áustria",
+          "minute": "28",
+          "penalty": false,
+          "og": false
+        }
+      ],
       "stats": {
         "possession_a": 53.2,
         "possession_b": 46.8,
@@ -5897,5 +5914,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:28:51.461Z"
+  "updatedAt": "2026-06-28T02:29:19.647Z"
 }
