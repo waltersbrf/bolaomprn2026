@@ -5726,9 +5726,9 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "f603cb5b": {
-        "primeiro_acesso": "2026-06-27T23:42:46.099Z",
-        "ultimo_acesso": "2026-06-27T23:42:46.099Z",
+      "22244835": {
+        "primeiro_acesso": "2026-06-28T00:20:27.855Z",
+        "ultimo_acesso": "2026-06-28T00:20:27.855Z",
         "acessos_total": 0,
         "dispositivo": "Android",
         "navegador": "Chrome",
@@ -5772,11 +5772,11 @@
         "ts": "2026-06-26T21:03:39.301Z"
       },
       {
-        "fp": "f603cb5b",
-        "ts": "2026-06-27T23:42:46.099Z",
+        "fp": "22244835",
+        "ts": "2026-06-28T00:20:27.855Z",
         "jogo": "J69"
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:21:13.133Z"
+  "updatedAt": "2026-06-28T00:21:25.657Z"
 }
