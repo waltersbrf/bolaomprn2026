@@ -5610,7 +5610,7 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "46",
+      "minute": "47",
       "events": [],
       "goals": [],
       "stats": {
@@ -5786,5 +5786,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:38:13.596Z"
+  "updatedAt": "2026-06-28T00:39:15.817Z"
 }
