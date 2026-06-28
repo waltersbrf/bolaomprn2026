@@ -5610,28 +5610,28 @@
       "a": 0,
       "b": 0,
       "status": "SCHEDULED",
-      "minute": "79",
+      "minute": "80",
       "events": [],
       "goals": [],
       "stats": {
-        "possession_a": 55.6,
-        "possession_b": 44.4,
+        "possession_a": 55.9,
+        "possession_b": 44.1,
         "shots_a": 21,
-        "shots_b": 11,
+        "shots_b": 12,
         "shots_on_a": 6,
         "shots_on_b": 2,
         "corners_a": 4,
         "corners_b": 1,
-        "fouls_a": 8,
+        "fouls_a": 9,
         "fouls_b": 5
       },
       "savedToGH": false
     },
     "70": {
-      "a": 1,
+      "a": 2,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "77",
+      "minute": "78",
       "events": [
         {
           "type": "goal",
@@ -5678,6 +5678,14 @@
           "minute": "68",
           "penalty": true,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Fiston Mayele",
+          "team": "RD Congo",
+          "minute": "78",
+          "penalty": false,
+          "og": false
         }
       ],
       "goals": [
@@ -5696,14 +5704,22 @@
           "minute": "68",
           "penalty": true,
           "og": false
+        },
+        {
+          "type": "goal",
+          "player": "Fiston Mayele",
+          "team": "RD Congo",
+          "minute": "78",
+          "penalty": false,
+          "og": false
         }
       ],
       "stats": {
-        "possession_a": 64.7,
-        "possession_b": 35.3,
-        "shots_a": 12,
+        "possession_a": 64.9,
+        "possession_b": 35.1,
+        "shots_a": 13,
         "shots_b": 3,
-        "shots_on_a": 2,
+        "shots_on_a": 3,
         "shots_on_b": 1,
         "corners_a": 2,
         "corners_b": 3,
@@ -5836,5 +5852,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T01:10:50.733Z"
+  "updatedAt": "2026-06-28T01:11:51.384Z"
 }
