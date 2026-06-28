@@ -5609,7 +5609,7 @@
     "69": {
       "a": 0,
       "b": 0,
-      "status": "IN_PLAY",
+      "status": "SCHEDULED",
       "minute": "43",
       "events": [],
       "goals": [],
@@ -5625,13 +5625,13 @@
         "fouls_a": 2,
         "fouls_b": 3
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "70": {
       "a": 0,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "43",
+      "minute": "44",
       "events": [
         {
           "type": "goal",
@@ -5676,7 +5676,7 @@
         "fouls_a": 4,
         "fouls_b": 8
       },
-      "savedToGH": false
+      "savedToGH": true
     },
     "71": {
       "a": 0,
@@ -5686,7 +5686,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     },
     "72": {
       "a": 0,
@@ -5696,7 +5696,7 @@
       "events": [],
       "goals": [],
       "stats": null,
-      "savedToGH": false
+      "savedToGH": true
     }
   },
   "espnDates": [
@@ -5720,31 +5720,18 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "c3622db8": {
-        "primeiro_acesso": "2026-06-26T20:58:35.432Z",
-        "ultimo_acesso": "2026-06-26T20:58:35.432Z",
+      "b70e1f46": {
+        "primeiro_acesso": "2026-06-28T00:05:23.759Z",
+        "ultimo_acesso": "2026-06-28T00:05:23.759Z",
         "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
         "tipo": "Mobile",
-        "cidade": "Currais Novos",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -6.2106,
-        "lng": -36.4817
-      },
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-26T21:03:39.301Z",
-        "ultimo_acesso": "2026-06-26T21:03:39.301Z",
-        "acessos_total": 0,
-        "dispositivo": "Windows",
-        "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "Natal",
-        "estado": "RN",
-        "pais": "BR",
-        "lat": -5.8111,
-        "lng": -35.2235
+        "cidade": "?",
+        "estado": "?",
+        "pais": "?",
+        "lat": null,
+        "lng": null
       }
     },
     "acessos_log": [
@@ -5777,8 +5764,13 @@
       {
         "fp": "3cb3d598",
         "ts": "2026-06-26T21:03:39.301Z"
+      },
+      {
+        "fp": "b70e1f46",
+        "ts": "2026-06-28T00:05:23.759Z",
+        "jogo": "J69"
       }
     ]
   },
-  "updatedAt": "2026-06-28T00:14:31.480Z"
+  "updatedAt": "2026-06-28T00:14:50.334Z"
 }
