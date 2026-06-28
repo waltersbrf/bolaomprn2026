@@ -5755,7 +5755,7 @@
       "a": 0,
       "b": 2,
       "status": "SCHEDULED",
-      "minute": "45",
+      "minute": "45+1'",
       "events": [
         {
           "type": "yellow_card",
@@ -5816,7 +5816,7 @@
       "a": 1,
       "b": 1,
       "status": "SCHEDULED",
-      "minute": "45",
+      "minute": "45+1'",
       "events": [
         {
           "type": "yellow_card",
@@ -5862,9 +5862,9 @@
       "stats": {
         "possession_a": 57.4,
         "possession_b": 42.6,
-        "shots_a": 6,
+        "shots_a": 7,
         "shots_b": 4,
-        "shots_on_a": 1,
+        "shots_on_a": 2,
         "shots_on_b": 1,
         "corners_a": 0,
         "corners_b": 1,
@@ -5955,5 +5955,5 @@
       }
     ]
   },
-  "updatedAt": "2026-06-28T02:46:00.485Z"
+  "updatedAt": "2026-06-28T02:47:01.759Z"
 }
