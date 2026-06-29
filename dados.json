@@ -2584,32 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-29T08:56:01.447Z",
-  "analytics": {
-    "visitors": {
-      "8e8c433e": {
-        "primeiro_acesso": "2026-06-29T08:56:01.146Z",
-        "ultimo_acesso": "2026-06-29T08:56:01.146Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "Recife",
-        "estado": "PE",
-        "pais": "BR",
-        "lat": -8.0009,
-        "lng": -34.8687
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "4cc0b7dc",
-        "ts": "2026-06-29T03:49:03.694Z"
-      },
-      {
-        "fp": "8e8c433e",
-        "ts": "2026-06-29T08:56:01.146Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-29T09:27:23.379Z"
 }
