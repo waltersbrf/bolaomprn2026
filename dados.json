@@ -1114,7 +1114,7 @@
         },
         {
           "type": "yellow_card",
-          "player": "Pedri",
+          "player": "Pedri ",
           "team": "Espanha",
           "minute": "90+3'"
         }
@@ -2584,28 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-29T16:55:18.108Z",
-  "analytics": {
-    "visitors": {
-      "0ac05a10": {
-        "primeiro_acesso": "2026-06-29T16:55:17.769Z",
-        "ultimo_acesso": "2026-06-29T16:55:17.769Z",
-        "acessos_total": 0,
-        "dispositivo": "Android",
-        "navegador": "Chrome",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "0ac05a10",
-        "ts": "2026-06-29T16:55:17.769Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-29T17:19:41.468Z"
 }
