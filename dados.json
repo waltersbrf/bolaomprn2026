@@ -2584,40 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-29T09:32:44.184Z",
-  "analytics": {
-    "visitors": {
-      "4714900b": {
-        "primeiro_acesso": "2026-06-29T09:32:43.708Z",
-        "ultimo_acesso": "2026-06-29T09:32:43.708Z",
-        "acessos_total": 0,
-        "dispositivo": "iOS",
-        "navegador": "Safari",
-        "tipo": "Mobile",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
-      }
-    },
-    "acessos_log": [
-      {
-        "fp": "4cc0b7dc",
-        "ts": "2026-06-29T03:49:03.694Z"
-      },
-      {
-        "fp": "8e8c433e",
-        "ts": "2026-06-29T08:56:01.146Z"
-      },
-      {
-        "fp": "75718768",
-        "ts": "2026-06-29T09:27:26.187Z"
-      },
-      {
-        "fp": "4714900b",
-        "ts": "2026-06-29T09:32:43.708Z"
-      }
-    ]
-  }
+  "updatedAt": "2026-06-29T09:42:06.940Z"
 }
