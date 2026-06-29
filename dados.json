@@ -1114,7 +1114,7 @@
         },
         {
           "type": "yellow_card",
-          "player": "Pedri ",
+          "player": "Pedri",
           "team": "Espanha",
           "minute": "90+3'"
         }
@@ -2584,5 +2584,5 @@
     "20260618"
   ],
   "adminMsg": null,
-  "updatedAt": "2026-06-29T20:25:27.639Z"
+  "updatedAt": "2026-06-29T20:55:19.463Z"
 }
