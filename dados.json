@@ -5938,10 +5938,10 @@
       "savedToGH": true
     },
     "71": {
-      "a": 1,
-      "b": 3,
-      "status": "FINISHED",
-      "minute": "90+6'",
+      "a": 0,
+      "b": 2,
+      "status": "PAUSED",
+      "minute": "45+6'",
       "events": [
         {
           "type": "yellow_card",
@@ -5964,34 +5964,6 @@
           "minute": "31",
           "penalty": true,
           "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Mousa Al-Tamari",
-          "team": "Jordânia",
-          "minute": "55",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "yellow_card",
-          "player": "Yazan Al-Arab",
-          "team": "Jordânia",
-          "minute": "64"
-        },
-        {
-          "type": "goal",
-          "player": "Lionel Messi",
-          "team": "Argentina",
-          "minute": "80",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "yellow_card",
-          "player": "Mohammed Abu Zraiq",
-          "team": "Jordânia",
-          "minute": "90+4'"
         }
       ],
       "goals": [
@@ -6010,43 +5982,27 @@
           "minute": "31",
           "penalty": true,
           "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Mousa Al-Tamari",
-          "team": "Jordânia",
-          "minute": "55",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Lionel Messi",
-          "team": "Argentina",
-          "minute": "80",
-          "penalty": false,
-          "og": false
         }
       ],
       "stats": {
-        "possession_a": 26.7,
-        "possession_b": 73.3,
-        "shots_a": 5,
-        "shots_b": 12,
-        "shots_on_a": 1,
-        "shots_on_b": 4,
-        "corners_a": 2,
-        "corners_b": 6,
-        "fouls_a": 13,
-        "fouls_b": 7
+        "possession_a": 28.4,
+        "possession_b": 71.6,
+        "shots_a": 3,
+        "shots_b": 5,
+        "shots_on_a": 0,
+        "shots_on_b": 3,
+        "corners_a": 1,
+        "corners_b": 2,
+        "fouls_a": 5,
+        "fouls_b": 5
       },
-      "savedToGH": true
+      "savedToGH": false
     },
     "72": {
-      "a": 3,
-      "b": 3,
-      "status": "FINISHED",
-      "minute": "90+7'",
+      "a": 1,
+      "b": 1,
+      "status": "PAUSED",
+      "minute": "45+4'",
       "events": [
         {
           "type": "yellow_card",
@@ -6069,38 +6025,6 @@
           "minute": "45",
           "penalty": false,
           "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Marcel Sabitzer",
-          "team": "Áustria",
-          "minute": "55",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Riyad Mahrez",
-          "team": "Argélia",
-          "minute": "60",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Riyad Mahrez",
-          "team": "Argélia",
-          "minute": "90+3'",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Sasa Kalajdzic",
-          "team": "Áustria",
-          "minute": "90+6'",
-          "penalty": false,
-          "og": false
         }
       ],
       "goals": [
@@ -6119,53 +6043,21 @@
           "minute": "45",
           "penalty": false,
           "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Marcel Sabitzer",
-          "team": "Áustria",
-          "minute": "55",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Riyad Mahrez",
-          "team": "Argélia",
-          "minute": "60",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Riyad Mahrez",
-          "team": "Argélia",
-          "minute": "90+3'",
-          "penalty": false,
-          "og": false
-        },
-        {
-          "type": "goal",
-          "player": "Sasa Kalajdzic",
-          "team": "Áustria",
-          "minute": "90+6'",
-          "penalty": false,
-          "og": false
         }
       ],
       "stats": {
-        "possession_a": 65,
-        "possession_b": 35,
-        "shots_a": 12,
-        "shots_b": 10,
-        "shots_on_a": 5,
-        "shots_on_b": 3,
+        "possession_a": 57.1,
+        "possession_b": 42.9,
+        "shots_a": 7,
+        "shots_b": 5,
+        "shots_on_a": 2,
+        "shots_on_b": 1,
         "corners_a": 0,
-        "corners_b": 3,
-        "fouls_a": 3,
-        "fouls_b": 7
+        "corners_b": 2,
+        "fouls_a": 1,
+        "fouls_b": 4
       },
-      "savedToGH": true
+      "savedToGH": false
     }
   },
   "espnDates": [
@@ -6191,30 +6083,48 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
-      "3cb3d598": {
-        "primeiro_acesso": "2026-06-28T19:55:33.684Z",
-        "ultimo_acesso": "2026-06-28T19:55:33.684Z",
+      "75718768": {
+        "primeiro_acesso": "2026-06-28T22:22:45.084Z",
+        "ultimo_acesso": "2026-06-28T22:22:45.084Z",
         "acessos_total": 0,
-        "dispositivo": "Windows",
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "pais": "BR",
+        "lat": -3.71722,
+        "lng": -38.54306
+      },
+      "950ae0d4": {
+        "primeiro_acesso": "2026-06-28T22:42:51.202Z",
+        "ultimo_acesso": "2026-06-28T22:42:51.202Z",
+        "acessos_total": 0,
+        "dispositivo": "Android",
         "navegador": "Chrome",
-        "tipo": "Desktop",
-        "cidade": "?",
-        "estado": "?",
-        "pais": "?",
-        "lat": null,
-        "lng": null
+        "tipo": "Mobile",
+        "cidade": "Belle Isle",
+        "estado": "FL",
+        "pais": "US",
+        "lat": 28.45834,
+        "lng": -81.35924
       }
     },
     "acessos_log": [
       {
-        "fp": "b8c24516",
-        "ts": "2026-06-28T19:51:29.375Z"
+        "fp": "b7ef929f",
+        "ts": "2026-06-28T22:01:32.760Z"
       },
       {
-        "fp": "3cb3d598",
-        "ts": "2026-06-28T19:55:33.684Z"
+        "fp": "75718768",
+        "ts": "2026-06-28T22:22:45.084Z"
+      },
+      {
+        "fp": "950ae0d4",
+        "ts": "2026-06-28T22:42:51.202Z",
+        "jogo": "J71"
       }
     ]
   },
-  "updatedAt": "2026-06-29T03:00:53.751Z"
+  "updatedAt": "2026-06-29T03:13:37.571Z"
 }
