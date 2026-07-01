@@ -6191,6 +6191,19 @@
   "adminMsg": null,
   "analytics": {
     "visitors": {
+      "75718768": {
+        "primeiro_acesso": "2026-07-01T16:08:02.837Z",
+        "ultimo_acesso": "2026-07-01T16:08:02.837Z",
+        "acessos_total": 0,
+        "dispositivo": "iOS",
+        "navegador": "Safari",
+        "tipo": "Mobile",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "pais": "BR",
+        "lat": -3.71722,
+        "lng": -38.54306
+      },
       "b93969d7": {
         "primeiro_acesso": "2026-06-30T19:09:26.688Z",
         "ultimo_acesso": "2026-06-30T19:09:26.688Z",
@@ -6221,8 +6234,12 @@
       {
         "fp": "b93969d7",
         "ts": "2026-06-30T19:09:26.688Z"
+      },
+      {
+        "fp": "75718768",
+        "ts": "2026-07-01T16:08:02.837Z"
       }
     ]
   },
-  "updatedAt": "2026-07-01T16:08:01.051Z"
+  "updatedAt": "2026-07-01T16:08:03.280Z"
 }
